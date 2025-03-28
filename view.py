@@ -110,4 +110,5 @@ def render_page_content(pathname):
 # Call app server
 if __name__ == '__main__':
     # set debug to false when deploying app
+    server = app.server
     app.run_server(debug=False)
