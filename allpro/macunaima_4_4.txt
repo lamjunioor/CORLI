@@ -1,0 +1,396 @@
+,pares_ordenados,primeira_palavra,comprimento,fonema,palavras,frase,abs_posicao
+0,"[(272, 0), (273, 0), (275, 2), (276, 0)]",272,4,a,"[272, 273, 275, 276]"," e freqüentava com [a]plicação [a]
+ muru[a] [a] poracê o torê",213
+1,"[(1120, 1), (1121, 0), (1122, 0), (1122, 2), (1125, 0)]",1120,5,a,"[1120, 1121, 1122, 1122, 1125]","
+ No outro di[a] [a] [ar]rai[a]da inda estava [a]cabando de trepar nas",905
+2,"[(2508, 0), (2510, 1), (2511, 0), (2514, 1)]",2508,4,du,"[2508, 2510, 2511, 2514]"," no
+ teso [do] outro la[do] [do] rio. quan[do] a velha abriu",2024
+3,"[(3531, 4), (3532, 2), (3534, 4), (3537, 0)]",3531,4,du,"[3531, 3532, 3534, 3537]"," corpo. Foi desempenan[do] crescen[do]
+ fortifican[do] e ficou [do] tamanho dum home",2782
+4,"[(3814, 0), (3816, 0), (3818, 0), (3822, 0)]",3814,4,tSi~,"[3814, 3816, 3818, 3822]"," de alimentos, [ti]nha pacova [ti]nha milho [ti]nha macaxeira,
+ [ti]nha alua e cachiri",3010
+5,"[(3814, 1), (3816, 1), (3818, 1), (3822, 1)]",3814,4,Ja,"[3814, 3816, 3818, 3822]"," de alimentos, ti[nha] pacova ti[nha] milho ti[nha] macaxeira,
+ ti[nha] alua e cachiri",3010
+6,"[(4223, 0), (4226, 1), (4229, 1), (4231, 0)]",4223,4,a,"[4223, 4226, 4229, 4231]",", Iriqui deu [a] mão pra ma[a]nape,
+ ma[a]nape deu [a] mão pra Jiguê",3348
+7,"[(4436, 0), (4439, 0), (4443, 2), (4445, 2)]",4436,4,da,"[4436, 4439, 4443, 4445]"," lá nas praias [da] lagoa Espelho [da] Lua,
+ coa[da] pela nhamun[dá]. A cunha",3523
+8,"[(4437, 2), (4440, 1), (4443, 1), (4447, 0)]",4437,4,a,"[4437, 4440, 4443, 4447]"," nas praias da lago[a] Espelho da lu[a],
+ co[a]da pela Nhamundá. [a] cunha era linda",3524
+9,"[(4576, 0), (4579, 2), (4583, 0), (4584, 3)]",4576,4,a,"[4576, 4579, 4583, 4584]"," se vendo nas [a]marelas porque não podi[a] mesmo
+ com [a] icami[a]ba, o herói",3641
+10,"[(5942, 1), (5943, 3), (5944, 2), (5946, 1), (5947, 3), (5952, 2)]",5942,6,da,"[5942, 5943, 5944, 5946, 5947, 5952]"," das formigas, to[da] enfeita[da] ain[da], to[da] enfeita[da] de
+ luz, vira[da] numa estrela.",4721
+11,"[(6072, 3), (6077, 3), (6078, 3), (6081, 0)]",6072,4,a,"[6072, 6077, 6078, 6081]"," se despediu das icami[a]bas e partiu.
+ gauderi[a]ram gauderi[a]ram por todos [a]queles matos sobre os",4826
+12,"[(6294, 1), (6297, 2), (6299, 1), (6299, 2)]",6294,4,ku,"[6294, 6297, 6299, 6299]",", invocando o a[cu]tipuru o
+ muru[cu]tutu o du[cu][cu], todos esses",4994
+13,"[(6346, 0), (6347, 0), (6349, 0), (6349, 4)]",6346,4,a,"[6346, 6347, 6349, 6349]","
+ O herói [a]calmava [a]calmava e [a]dormeci[a] bem.
+",5030
+14,"[(6390, 0), (6391, 0), (6391, 2), (6392, 3), (6395, 0)]",6390,5,a,"[6390, 6391, 6391, 6392, 6395]"," feita em que [a] [ar]rai[a]da principi[a]va
+ enxotando [a] escureza da noite",5066
+15,"[(6826, 0), (6827, 0), (6828, 0), (6829, 0)]",6826,4,vi~,"[6826, 6827, 6828, 6829]"," busca nossa. [vi]nha [vin]do [vi]nha [vin]do, a
+",5428
+16,"[(7059, 0), (7063, 0), (7067, 0), (7070, 4)]",7059,4,si,"[7059, 7063, 7067, 7070]",".
+— [si]... [si]... [si] a boiúna apareces[se] eu..",5612
+17,"[(7367, 1), (7371, 1), (7372, 0), (7376, 0)]",7367,4,a,"[7367, 7371, 7372, 7376]"," que lá não i[a] não. Então ma[a]nape [a]tirou com
+ toda [a] força uma fruta",5859
+18,"[(7504, 0), (7505, 0), (7505, 2), (7508, 1)]",7504,4,a,"[7504, 7505, 7505, 7508]"," respiro. Logo [a]diante [ha]vi[a] um rancho te[a]tino.
+ Entraram",5956
+19,"[(7638, 0), (7640, 1), (7644, 0), (7645, 1)]",7638,4,si,"[7638, 7640, 7644, 7645]"," outros bebiam, [si]
+ fos[se] mosquito flitavam, [si] fos[se] trem de ferro",6062
+20,"[(8031, 0), (8034, 0), (8036, 0), (8039, 1)]",8031,4,a,"[8031, 8034, 8036, 8039]"," Dantes Capei foi [a] boiúna mas [a]gora é [a] cabeça da lu[a] lá no
+",6364
+21,"[(8618, 0), (8622, 1), (8623, 1), (8624, 0)]",8618,4,e,"[8618, 8622, 8623, 8624]"," São Paulo procurar [es]se tal
+ Venceslau pi[e]tro pi[e]tra [e] retomar o tembetá",6836
+22,"[(8708, 0), (8708, 4), (8710, 1), (8714, 1)]",8708,4,ma,"[8708, 8708, 8710, 8714]"," Depois que discursou [ma]cunaí[ma] deu u[ma] grande gargalhada
+ i[ma]ginando na peça que",6905
+23,"[(9453, 0), (9455, 0), (9458, 0), (9462, 0), (9466, 0)]",9453,5,u,"[9453, 9455, 9458, 9462, 9466]"," espiavam assombrados. [o] jacarèuna [o] jacarètinga, [o] jacaré- açu [o]
+ jacaré- [u]rurau de papo amarelo",7521
+24,"[(9486, 0), (9488, 0), (9490, 0), (9493, 0)]",9486,4,dajs,"[9486, 9488, 9490, 9493]",". Nos ramos [das] igàzeiras [das] aningas [das]
+ mamoranas [das] embaúbas dos catauaris",7547
+25,"[(9512, 0), (9514, 0), (9515, 2), (9516, 0), (9518, 0), (9520, 0), (9521, 2), (9522, 0)]",9512,8,u,"[9512, 9514, 9515, 9516, 9518, 9520, 9521, 9522]"," de- cheiro [o] guariba [o] bugi[o] [o] cuatá [o] barrigudo [o] coxi[ú] [o]
+ cairara,",7567
+26,"[(9543, 0), (9546, 0), (9548, 0), (9550, 0), (9552, 0), (9555, 0)]",9543,6,sa,"[9543, 9546, 9548, 9550, 9552, 9555]",". E os [sa]biás, o [sa]biàcia o [sa]biàpoca o [sa]biàúna o [sa]biàpiranga
+ o [sa]biàgonga que quando come",7592
+27,"[(9543, 1), (9546, 1), (9548, 1), (9550, 1), (9552, 1), (9555, 1)]",9543,6,bi,"[9543, 9546, 9548, 9550, 9552, 9555]",". E os sa[bi]ás, o sa[bi]àcia o sa[bi]àpoca o sa[bi]àúna o sa[bi]àpiranga
+ o sa[bi]àgonga que quando come",7592
+28,"[(9545, 0), (9547, 0), (9549, 0), (9551, 0), (9554, 0)]",9545,5,u,"[9545, 9547, 9549, 9551, 9554]"," os sabiás, [o] sabiàcia [o] sabiàpoca [o] sabiàúna [o] sabiàpiranga
+ [o] sabiàgonga que quando",7593
+29,"[(9563, 0), (9567, 0), (9569, 0), (9573, 0)]",9563,4,u,"[9563, 9567, 9569, 9573]"," me dá, [o] sabiá- barranco [o] sabiátropeiro [o] sabiá- laranjeira [o] sabiá- gute",7609
+30,"[(9564, 0), (9568, 0), (9570, 0), (9574, 0)]",9564,4,sa,"[9564, 9568, 9570, 9574]"," dá, o [sa]biá- barranco o [sa]biátropeiro o [sa]biá- laranjeira o [sa]biá- gute todos",7610
+31,"[(9564, 1), (9568, 1), (9570, 1), (9574, 1)]",9564,4,bi,"[9564, 9568, 9570, 9574]"," dá, o sa[bi]á- barranco o sa[bi]átropeiro o sa[bi]á- laranjeira o sa[bi]á- gute todos",7610
+32,"[(9564, 2), (9568, 2), (9570, 2), (9574, 2)]",9564,4,a,"[9564, 9568, 9570, 9574]"," dá, o sabi[á]- barranco o sabi[á]tropeiro o sabi[á]- laranjeira o sabi[á]- gute todos",7610
+33,"[(9698, 0), (9700, 0), (9701, 0), (9704, 1)]",9698,4,a,"[9698, 9700, 9701, 9704]"," e pataracos, [as]sim, [a]donde [a]té liga pra mei[a]
+ ninguém comprava",7714
+34,"[(9927, 1), (9928, 4), (9929, 2), (9932, 0)]",9927,4,du,"[9927, 9928, 9929, 9932]", se foi o ban[do] sarapinta[do] volven[do] prós matos [do] norte. Os,7885
+35,"[(10513, 0), (10515, 0), (10517, 0), (10519, 0), (10521, 0)]",10513,5,ko~,"[10513, 10515, 10517, 10519, 10521]"," Se
+ mexia [com] eletricidade [com] fogo [com] água [com] vento [com]., fumo",8355
+36,"[(10564, 2), (10567, 2), (10569, 0), (10572, 2)]",10564,4,du,"[10564, 10567, 10569, 10572]",", tó! baten[do] o antebraço esquer[do] dentro [do] outro
+ dobra[do], mexeu com",8393
+37,"[(10667, 0), (10672, 0), (10672, 4), (10675, 1)]",10667,4,ma,"[10667, 10672, 10672, 10675]"," sarou bem. [ma]anape era feiticeiro.
+ [ma]cunaí[ma] passou então u[ma] semana sem comer",8477
+38,"[(11101, 0), (11102, 0), (11103, 0), (11105, 2), (11106, 2), (11108, 3)]",11101,6,ka,"[11101, 11102, 11103, 11105, 11106, 11108]"," as frutas, [ca]jus [ca]jás [ca]jàmangas mangas aba[ca]xis aba[ca]tes
+ jaboti[ca]bas graviolas sapotis pupunhas",8831
+39,"[(11210, 0), (11211, 0), (11213, 0), (11214, 0)]",11210,4,ka,"[11210, 11211, 11213, 11214]"," do zaiacúti a [ca]ça [ca]indo. [ca]ça [ca]ía
+ com estrondo",8919
+40,"[(11219, 0), (11219, 4), (11222, 0), (11223, 0)]",11219,4,ma,"[11219, 11219, 11222, 11223]"," com estrondo e [ma]cunaí[ma] aparava os [ma]cucos [ma]cacos micos
+ mutuns",8926
+41,"[(11241, 1), (11242, 1), (11245, 0), (11246, 0)]",11241,4,e,"[11241, 11242, 11245, 11246]"," tirou
+ Venceslau pi[e]tro pi[e]tra do farniente [e] [e]le veio saber o",8944
+42,"[(11251, 0), (11255, 0), (11257, 1), (11258, 1), (11259, 0)]",11251,5,e,"[11251, 11255, 11257, 11258, 11259]"," saber o que [e]ra aquilo.
+ [e] Venceslau pi[e]tro pi[e]tra [e]ra o gigante Piaimã",8954
+43,"[(11490, 0), (11491, 0), (11496, 0), (11501, 0), (11504, 2)]",11490,5,mu,"[11490, 11491, 11496, 11501, 11504]"," guaribas jaós
+ [mu]tuns [mu]tum- de- vargem [mu]tum- de- fava [mu]tuporanga urus
+ uru[mu]tum, todas essas",9116
+44,"[(11595, 1), (11598, 0), (11600, 0), (11603, 1), (11606, 1), (11609, 1)]",11595,6,ma,"[11595, 11598, 11600, 11603, 11606, 11609]","
+ seis caças du[ma] vez um [ma]cuco um [ma]caco um jacu u[ma] jacutinga
+ u[ma] picota e u[ma] pia- coça",9197
+45,"[(11597, 0), (11599, 0), (11601, 0), (11603, 0), (11606, 0), (11609, 0)]",11597,6,u~,"[11597, 11599, 11601, 11603, 11606, 11609]"," caças duma vez [um] macuco [um] macaco [um] jacu [u]ma jacutinga
+ [u]ma picota e [u]ma pia- coça",9199
+46,"[(11598, 1), (11598, 2), (11600, 2), (11602, 1), (11604, 1)]",11598,5,ku,"[11598, 11598, 11600, 11602, 11604]"," duma vez um ma[cu][co] um maca[co] um ja[cu] uma ja[cu]tinga
+ uma picota",9200
+47,"[(11635, 0), (11638, 0), (11640, 0), (11643, 0)]",11635,4,u~,"[11635, 11638, 11640, 11643]"," do mato, [u]ma
+ acapurana [um] angelim [um] apió e [um] carará, e",9228
+48,"[(13199, 2), (13201, 0), (13203, 1), (13206, 0)]",13199,4,a,"[13199, 13201, 13203, 13206]"," nunca mais que podi[a]
+ [a]parecer na ru[a] Maranhão porque [a]gora Venceslau Pietro Pietra",10419
+49,"[(13305, 0), (13309, 0), (13311, 1), (13317, 0)]",13305,4,a,"[13305, 13309, 13311, 13317]","
+ bonitezas, [a] máquina ruge, [a] máquina mei[a]- de- sêda, [a] máquina
+ combinação",10510
+50,"[(13420, 0), (13422, 0), (13426, 0), (13427, 0)]",13420,4,pi,"[13420, 13422, 13426, 13427]"," palácio de Venceslau [pi]etro
+ [pi]etra. E Venceslau [pi]etro [pi]etra era o gigante",10605
+51,"[(13420, 1), (13422, 1), (13424, 0), (13426, 1), (13427, 1), (13428, 0)]",13420,6,e,"[13420, 13422, 13424, 13426, 13427, 13428]"," palácio de Venceslau pi[e]tro
+ pi[e]tra. [e] Venceslau pi[e]tro pi[e]tra [e]ra o gigante Piaimã",10605
+52,"[(14497, 0), (14498, 0), (14503, 0), (14504, 0)]",14497,4,a,"[14497, 14498, 14503, 14504]",":
+— [a]bra [a] boca, cesto, [a]bra [a] vossa grande boca",11446
+53,"[(14982, 0), (14985, 1), (14987, 2), (14988, 0)]",14982,4,dZi,"[14982, 14985, 14987, 14988]","
+ cumpro bom [de] trepar. a[di]ante da cida[de] [de] Serra no Espírito",11836
+54,"[(15468, 0), (15469, 0), (15472, 0), (15476, 0)]",15468,4,e,"[15468, 15469, 15472, 15476]","- sinhô com [he]rói [e] tudo légua [e] meia adiante. [e] ficou
+ esperando",12222
+55,"[(16556, 0), (16560, 0), (16561, 1), (16562, 1)]",16556,4,a,"[16556, 16560, 16561, 16562]","..
+ [as]sim. E quando [a] ti[a] ci[a]ta parava gritando com",13064
+56,"[(17045, 0), (17045, 4), (17047, 0), (17047, 4)]",17045,4,a,"[17045, 17045, 17047, 17047]"," e quando santo [a]pareci[a], [a]pareci[a] de deveras
+",13409
+57,"[(17125, 0), (17127, 0), (17131, 0), (17132, 1)]",17125,4,a,"[17125, 17127, 17131, 17132]"," da feiticeira pedindo [a]
+ [a]parição dum santo. [à] mei[a]- noite foram",13475
+58,"[(17608, 0), (17611, 0), (17614, 0), (17617, 1)]",17608,4,a,"[17608, 17611, 17614, 17617]"," centro da saleta [a]li.
+ [a] feiticeira tirou [a] roupa ficou nu[a], só com",13862
+59,"[(17647, 3), (17648, 0), (17650, 2), (17652, 3)]",17647,4,du,"[17647, 17648, 17650, 17652]",", o sangue coalha[do] [do] bode comi[do] e esfregan[do] a pasta
+",13894
+60,"[(17699, 3), (17705, 0), (17707, 0), (17708, 2), (17709, 0)]",17699,5,a,"[17699, 17705, 17707, 17708, 17709]"," de Exu, melopéi[a]
+ monótona.
+ Quando [a]cabou, [a] fême[a] [a]briu os olhos,",13937
+61,"[(17735, 0), (17736, 0), (17738, 0), (17739, 0)]",17735,4,e,"[17735, 17736, 17738, 17739]"," santo,
+ [e]ra [e]xu. [e]ra [e]xu, o romãozinho",13964
+62,"[(17899, 0), (17901, 0), (17903, 0), (17905, 0)]",17899,4,ujs,"[17899, 17901, 17903, 17905]"," a adoração. [os] ladrões [os] senadores [os] jecas [os] negros as
+",14102
+63,"[(17985, 0), (17987, 0), (17992, 0), (17993, 0)]",17985,4,e,"[17985, 17987, 17992, 17993]"," choro meio gozo [e] não [e]ra polaca mais,
+ [e]ra [e]xu, o jurupari",14175
+64,"[(18192, 0), (18195, 0), (18197, 0), (18200, 0)]",18192,4,e,"[18192, 18195, 18197, 18200]"," pedisse porque Macunaíma [e]ra filho. [e] o [he]rói pediu que [e]xu fizesse
+ sofrer",14335
+65,"[(18442, 0), (18446, 0), (18447, 1), (18450, 0)]",18442,4,dZi,"[18442, 18446, 18447, 18450]"," e
+ queimaduras [de] urtiga, ofegando [de] fa[di]ga e tremendo [de] tanto frio.",14538
+66,"[(18697, 2), (18698, 4), (18699, 2), (18701, 1)]",18697,4,du,"[18697, 18698, 18699, 18701]"," de potro, queima[do] enregela[do] mordi[do] e to[do] cheio das manchas",14744
+67,"[(18760, 0), (18762, 0), (18763, 0), (18769, 0)]",18760,4,e,"[18760, 18762, 18763, 18769]","
+ Padre Nosso [e]xu, [e] [e]ra assim:
+— Padre [e]xu achado nosso que",14796
+68,"[(18863, 0), (18865, 0), (18866, 1), (18867, 0)]",18863,4,a,"[18863, 18865, 18866, 18867]"," Exu! Macunaíma [a]gradeceu. [a] ti[a] [a]cabou:
+—",14868
+69,"[(18908, 2), (18909, 2), (18911, 1), (18913, 5), (18917, 1)]",18908,5,du,"[18908, 18909, 18911, 18913, 18917]","
+ Exu ia saran[do] saran[do], tu[do] foi desaparecen[do] por encanto
+ quan[do] a caninha circulou",14900
+70,"[(19889, 0), (19893, 0), (19895, 0), (19899, 0)]",19889,4,a,"[19889, 19893, 19895, 19899]"," calorão que tomou [a] jangada, se [a]lastrou nas [á]guas
+ e dourou [a] face limpa do",15681
+71,"[(20401, 0), (20402, 0), (20404, 0), (20405, 0)]",20401,4,e,"[20401, 20402, 20404, 20405]"," das
+ contas [e]le [e]ra um [he]rói [e] tinha dado tanto",16057
+72,"[(20927, 0), (20929, 0), (20930, 0), (20932, 0)]",20927,4,a,"[20927, 20929, 20930, 20932]"," queimou e ralhou [as]sim: [a]ra [a]ra, [a]ra, meus
+",16481
+73,"[(21046, 0), (21048, 2), (21055, 0), (21057, 2)]",21046,4,si,"[21046, 21048, 21055, 21057]",".
+— [si] eu subes[se]...
+— O [si] eu subes[se] é santo que",16571
+74,"[(22589, 0), (22593, 0), (22596, 0), (22599, 0)]",22589,4,ki,"[22589, 22593, 22596, 22599]"," se requer. [que] beldades!
+ [que] elegância! [que] cachet! [que] degagé flamífero,",17774
+75,"[(23102, 0), (23105, 0), (23109, 0), (23112, 0)]",23102,4,dZi,"[23102, 23105, 23109, 23112]"," que a troco [de] oiro e [de] iocustas, as [di]tas comas são [de]
+ somenos,",18177
+76,"[(23116, 0), (23117, 0), (23119, 0), (23121, 0)]",23116,4,a,"[23116, 23117, 23119, 23121]","
+ somenos, [a]crescendo [a]inda que [as]sim se [a]mainam os males,",18188
+77,"[(23565, 0), (23568, 0), (23571, 0), (23577, 0)]",23565,4,kwajs,"[23565, 23568, 23571, 23577]"," entre si, [quais] loiras, [quais] morenas, [quais] fôsse- maigres,
+ [quais] rotundas; e",18546
+78,"[(24162, 0), (24163, 0), (24163, 2), (24165, 0)]",24162,4,a,"[24162, 24163, 24163, 24165]"," res, e [a] [á]re[a] tão [a] eles igual em",19022
+79,"[(24189, 0), (24189, 1), (24189, 2), (24193, 4), (24194, 0)]",24189,5,a,"[24189, 24189, 24189, 24193, 24194]"," que de três [a][a][a] se gera
+ espontane[a]mente [a] fauna urbana.",19045
+80,"[(24659, 0), (24659, 4), (24663, 0), (24665, 0)]",24659,4,a,"[24659, 24659, 24663, 24665]"," gente ardida e [a]valento[a]da, e muito [a]feita às [a]gruras da
+ guerra",19427
+81,"[(24838, 0), (24841, 0), (24844, 0), (24848, 0)]",24838,4,a,"[24838, 24841, 24844, 24848]"," automóvel pelos vergéis [a]menos que circundam [a] capital. [a]
+ essa Polícia [a]inda lhe compete divertir",19569
+82,"[(25040, 5), (25044, 3), (25046, 3), (25048, 4), (25050, 2)]",25040,5,nus,"[25040, 25044, 25046, 25048, 25050]"," os leprosos
+ sulamerica[nos], Mineiros, paraiba[nos], perua[nos], bolivia[nos], chile[nos],
+ Paraguaios",19735
+83,"[(26010, 1), (26014, 4), (26016, 0), (26017, 1), (26019, 0), (26022, 0), (26023, 3), (26027, 0)]",26010,8,da,"[26010, 26014, 26016, 26017, 26019, 26022, 26023, 26027]"," Monstros são na ver[da]de mas na
+ grandiosi[da]de incomparável [da] au[dá]cia, [da] sapiência, [da] honesti[da]de
+
+ e [da] moral; e",20491
+84,"[(26481, 2), (26485, 0), (26486, 0), (26489, 0)]",26481,4,a,"[26481, 26485, 26486, 26489]"," no sertão da bahi[a].
+ Macunaíma [a]proveitava [a] espera se [a]perfeiçoando nas duas línguas",20867
+85,"[(26807, 0), (26807, 4), (26810, 1), (26814, 1)]",26807,4,ma,"[26807, 26807, 26810, 26814]"," dona!
+ [ma]cunaí[ma] era desbocado du[ma] vez. Falara u[ma] bocagem muito
+",21131
+86,"[(27169, 0), (27171, 0), (27172, 0), (27173, 0), (27175, 0), (27176, 0)]",27169,6,a,"[27169, 27171, 27172, 27173, 27175, 27176]"," mãos
+ se [a]garravam pra [a]güentar [a] [ad]miração. [as]sim [a] dona fez e",21417
+87,"[(27295, 3), (27296, 2), (27297, 2), (27298, 3)]",27295,4,zi,"[27295, 27296, 27297, 27298]"," mentonímia metafonia
+ metáte[se] prócli[se] próte[se] afére[se] apócope haplologia etimologia",21515
+88,"[(27298, 0), (27299, 0), (27300, 0), (27300, 4), (27301, 5)]",27298,5,a,"[27298, 27299, 27300, 27300, 27301]"," metátese próclise prótese [a]férese [a]pócope [ha]plologi[a] etimologi[a]
+ popular todas",21518
+89,"[(27703, 0), (27705, 0), (27709, 0), (27711, 0)]",27703,4,na~w~,"[27703, 27705, 27709, 27711]",".
+— [não] é [não]!
+— [não] é [não]! que outros",21786
+90,"[(29053, 0), (29057, 1), (29058, 0), (29059, 2)]",29053,4,a,"[29053, 29057, 29058, 29059]","
+ Lá chegado [a]juntou os vizinhos, cri[a]dos [a] patro[a] cunhas
+ datilógrafos",22860
+91,"[(31838, 0), (31841, 0), (31845, 0), (31847, 0), (31849, 0), (31851, 0), (31854, 0), (31858, 0), (31860, 0), (31862, 0), (31864, 0), (31866, 0), (31870, 0), (31873, 0), (31875, 0), (31878, 0), (31881, 0)]",31838,17,ne~j~,"[31838, 31841, 31845, 31847, 31849, 31851, 31854, 31858, 31860, 31862, 31864, 31866, 31870, 31873, 31875, 31878, 31881]"," não podia pescar [nem] de frecha [nem]
+ com timbó [nem] cunambi [nem] tiguí [nem] macerá [nem] no pari [nem] com
+ linha [nem] arpão [nem] juquiaí [nem] sararaca [nem] gaponga [nem] de poita
+ [nem] de cassuá [nem] itapuá [nem] de giqui [nem] de grozera [nem] de gererê
+",24991
+92,"[(32472, 0), (32474, 0), (32480, 1), (32486, 0), (32489, 0)]",32472,5,a,"[32472, 32474, 32480, 32486, 32489]",", pra
+ [a]gradecer falou [as]sim:
+— Bom- di[a], minha vó.
+ [a] velha virou [a] cara pro alto",25495
+93,"[(32773, 0), (32777, 0), (32778, 1), (32785, 0)]",32773,4,a,"[32773, 32777, 32778, 32785]"," o pato porém [a]charam só tarrafa. [a] ca[a]pora
+ embrabeceu:
+— Isso [há]- de ser",25726
+94,"[(33364, 2), (33367, 0), (33371, 3), (33374, 3), (33376, 1)]",33364,5,du,"[33364, 33367, 33371, 33374, 33376]"," Alencar pelo jornal chama[do]
+ Comércio [do] Amazonas. Estava contemplan[do] aquele torso macanu[do]
+ quan[do] escutou Baúa!",26163
+95,"[(33761, 2), (33761, 3), (33766, 2), (33766, 3)]",33761,4,ku,"[33761, 33761, 33766, 33766]"," Me esconde, suru[cu][cu]!
+
+ O suru[cu][cu] nem bem escondeu",26479
+96,"[(33971, 1), (33972, 0), (33973, 0), (33974, 0)]",33971,4,a,"[33971, 33972, 33973, 33974]",. Légua e mei[a] [a]diante [a]bandonando [a] margem do São,26649
+97,"[(34147, 0), (34150, 0), (34150, 4), (34152, 1)]",34147,4,ma,"[34147, 34150, 34150, 34152]"," o Buraco de [ma]ria Pereira. [ma]cunaí[ma] soltou u[ma]
+ grande gargalhada",26780
+98,"[(35585, 0), (35588, 0), (35590, 0), (35591, 3), (35594, 0)]",35585,5,a,"[35585, 35588, 35590, 35591, 35594]"," O
+ herói [ar]rendondou o bolso [a]parando e [a] porcari[a] caiu toda [a]li. Então
+",27888
+99,"[(36265, 1), (36268, 4), (36270, 0), (36272, 2)]",36265,4,du,"[36265, 36268, 36270, 36272]","
+ ia dum la[do] pra outro acompanha[do] sempre [do] chupinzão choran[do]
+ pro outro",28434
+100,"[(36362, 0), (36362, 1), (36364, 0), (36364, 1)]",36362,4,Je,"[36362, 36362, 36364, 36364]"," e aquele
+ [nhe][nhe]nhén- [nhe][nhe]nhén azucrinando ele,",28505
+101,"[(36866, 0), (36866, 4), (36869, 0), (36869, 4)]",36866,4,ma,"[36866, 36866, 36869, 36869]", e deu pra [ma]cunaí[ma] comer. [ma]cunaí[ma] gostou bem.,28861
+102,"[(37356, 0), (37357, 0), (37357, 4), (37358, 1), (37361, 1)]",37356,5,ma,"[37356, 37357, 37357, 37358, 37361]"," por causa da [ma]chucadura [ma]cunaí[ma] a[ma]nheceu
+ com u[ma] grosseira pelo corpo",29227
+103,"[(38065, 0), (38066, 0), (38070, 0), (38074, 0), (38075, 0)]",38065,5,e,"[38065, 38066, 38070, 38074, 38075]"," acenavam chamando Macunaíma [e] [e]ram marujos forçudos, [e]ram
+ Argentinos finíssimos [e] [e]ram tantas donas lindíssimas",29799
+104,"[(38249, 0), (38253, 0), (38258, 0), (38262, 0)]",38249,4,e,"[38249, 38253, 38258, 38262]"," penava todo mordido [e] com
+ mais [e]risipa, mais, todo [e]risipelado. Sentiu frio [e] veio febre.",29946
+105,"[(38323, 1), (38326, 0), (38329, 0), (38330, 0), (38333, 0)]",38323,5,a,"[38323, 38326, 38329, 38330, 38333]",". Passava o di[a]
+ limpando [a] espingarda e [a]fiando [a] lamparina. [a] companheira de Jiguê",30006
+106,"[(38379, 1), (38382, 1), (38383, 3), (38385, 0)]",38379,4,ma,"[38379, 38382, 38383, 38385]"," no fundo do ja[ma]chi e por ci[ma] esparra[ma]va a [ma]caxeira pra
+ ninguém",30053
+107,"[(39204, 0), (39207, 0), (39211, 0), (39214, 1)]",39204,4,ka,"[39204, 39207, 39211, 39214]"," botando afobada a [ca]beleira na
+ [ca]beça. E os [ca]belos da testa fi[ca]ram no cangote e",30706
+108,"[(39459, 1), (39461, 0), (39463, 0), (39463, 1), (39463, 2)]",39459,5,ta,"[39459, 39461, 39463, 39463, 39463]"," na faca de pon[ta]- [tá]
+ [ta][ta][tá] e partiu.",30905
+109,"[(40636, 2), (40640, 0), (40643, 1), (40645, 1)]",40636,4,du,"[40636, 40640, 40643, 40645]","- Pódole
+ chegan[do]. O Pai [do] Sono veio vin[do] veio vin[do] e de repente",31852
+110,"[(40833, 0), (40835, 0), (40837, 0), (40838, 1)]",40833,4,kua,"[40833, 40835, 40837, 40838]","!
+— [quá]! [quá]! [quá] qua[quá]!..",32001
+111,"[(40872, 2), (40874, 1), (40877, 3), (40881, 1), (40885, 1)]",40872,5,da,"[40872, 40874, 40877, 40881, 40885]"," moça
+ estava senta[da] na bor[da] duma igarité encalha[da] na praia. to[da] nua
+
+ in[da] do banho comia",32028
+112,"[(40972, 2), (40973, 0), (40976, 2), (40978, 2), (40979, 0), (40981, 1), (40983, 0), (40985, 0), (40988, 0)]",40972,9,a,"[40972, 40973, 40976, 40978, 40979, 40981, 40983, 40985, 40988]"," Então
+ ele enfi[a]va [a] cabeça na lago[a] e trazi[a] [a] boca chei[a] de [á]gua. [a] moça
+ [a]pertava com os pés",32113
+113,"[(41005, 0), (41007, 0), (41009, 1), (41010, 0)]",41005,4,a,"[41005, 41007, 41009, 41010]","
+ barriga, [as]sim. [a] brisa fi[a]va [a] cabeleira da moça",32142
+114,"[(41133, 0), (41137, 1), (41140, 0), (41141, 0), (41142, 2)]",41133,5,a,"[41133, 41137, 41140, 41141, 41142]"," graça que
+ [a]chava na vida. i[a] escorregando e [a]finai [a] cano[a] virou. Pois",32253
+115,"[(41586, 2), (41588, 0), (41594, 1), (41598, 0)]",41586,4,a,"[41586, 41588, 41594, 41598]"," comadre! Então palau[á] falou [as]sim:
+— Vão na prai[a] do mar, [a]marelos olhos de minha",32588
+116,"[(41875, 0), (41879, 3), (41880, 0), (41883, 0)]",41875,4,a,"[41875, 41879, 41880, 41883]"," bigorna gigante, [a]quela uma que
+ pertenci[a] [à] fundição de [a]fonso Sardinha no princípio",32807
+117,"[(43843, 0), (43845, 2), (43851, 0), (43854, 0)]",43843,4,sa,"[43843, 43845, 43851, 43854]"," e no fim [sa]cudiu a cabe[ça] murmurando:
+— Pouca [sa]úde e muita [sa]úva, os males",34323
+118,"[(44129, 3), (44133, 1), (44138, 2), (44142, 2), (44147, 1), (44149, 1), (44149, 5), (44153, 1)]",44129,8,ra,"[44129, 44133, 44138, 44142, 44147, 44149, 44149, 44153]","
+ Ariramba é cozinhei[ra],
+— pi[rá]- uauau,
+ tape[ra], onde a tape[ra].
+
+ Da bei[ra] do u[ra]ricoe[ra]?
+— pi[rá]- uauau.",34552
+119,"[(44233, 2), (44236, 1), (44238, 1), (44238, 5)]",44233,4,ra,"[44233, 44236, 44238, 44238]"," vamos- se embo[ra]
+ Pra bei[ra] do u[ra]ricoe[ra]!
+—",34622
+120,"[(44377, 0), (44378, 3), (44382, 0), (44383, 3), (44387, 0)]",44377,5,u,"[44377, 44378, 44382, 44383, 44387]",",
+ era [o] papagai[o]- trombeta era [o] papagai[o]- curraleiro era [o] periquito
+ cutapado",34736
+121,"[(44392, 0), (44394, 0), (44398, 0), (44402, 0)]",44392,4,u,"[44392, 44394, 44398, 44402]","
+ cutapado era [o] xarã [o] peito- roxo [o] ajuru- curau [o] ajuru- curica",34748
+122,"[(44399, 0), (44403, 0), (44406, 0), (44408, 0), (44409, 0), (44410, 0), (44411, 0), (44412, 0), (44414, 1), (44417, 0)]",44399,10,a,"[44399, 44403, 44406, 44408, 44409, 44410, 44411, 44412, 44414, 44417]","- roxo o [a]juru- curau o [a]juru- curica [a]rari
+ [a]rarica [a]raraúna [a]raraí [a]raguaí [a]rara- tau[a] maracana maitaca [a]rarapiranga catorra teriba camiranga",34754
+123,"[(44406, 1), (44408, 1), (44409, 1), (44409, 2), (44410, 1), (44410, 2), (44411, 1), (44412, 1), (44412, 2), (44415, 1), (44417, 1), (44417, 2)]",44406,12,ra,"[44406, 44408, 44409, 44409, 44410, 44410, 44411, 44412, 44412, 44415, 44417, 44417]"," ajuru- curica a[ra]ri
+ a[ra]rica a[ra][ra]úna a[ra][ra]í a[ra]guaí a[ra][ra]- taua ma[ra]cana maitaca a[ra][ra]piranga catorra teriba camiranga",34759
+124,"[(44416, 2), (44418, 0), (44420, 0), (44421, 2), (44423, 0)]",44416,5,ka,"[44416, 44418, 44420, 44421, 44423]","- taua maracana maita[ca] ararapiranga [ca]torra teriba [ca]miranga ana[ca] anapura [ca]nindés tuins
+ periquitos",34767
+125,"[(44620, 0), (44620, 2), (44621, 0), (44623, 0), (44623, 2), (44626, 0), (44626, 2), (44627, 0), (44629, 0), (44629, 2), (44632, 0), (44632, 1), (44634, 0), (44636, 1)]",44620,14,pa,"[44620, 44620, 44621, 44623, 44623, 44626, 44626, 44627, 44629, 44629, 44632, 44632, 44634, 44636]"," assim:
+ [pa]na[pa]ná [pá]- [pa]na[pa]ná,
+ [pa]na[pa]ná [pá]- [pa]na[pa]nema:
+ [pa][pa] de [pa]po na po[pa],
+—",34935
+126,"[(44620, 1), (44620, 3), (44623, 1), (44623, 3), (44626, 1), (44626, 3), (44629, 1)]",44620,7,na,"[44620, 44620, 44623, 44623, 44626, 44626, 44629]"," assim:
+ pa[na]pa[ná] pá- pa[na]pa[ná],
+ pa[na]pa[ná] pá- pa[na]panema:
+ Papa",34935
+127,"[(44786, 0), (44787, 1), (44791, 0), (44794, 0)]",44786,4,na,"[44786, 44787, 44791, 44794]"," pensou muito sério [na] do[na] da muiraquitã, [na] briguenta, [na]
+ diaba gostosa",35052
+128,"[(45109, 0), (45113, 1), (45114, 0), (45115, 3)]",45109,4,a,"[45109, 45113, 45114, 45115]","
+ Quando foi [a]li pelo meio- di[a] [a] papagai[a]da se estendeu de",35290
+129,"[(45383, 0), (45387, 0), (45390, 0), (45394, 0)]",45383,4,u,"[45383, 45387, 45390, 45394]"," que
+ sarapantou [o] herói. Era [o] monstro Oibê [o] minhocão temível. [o] herói
+ sentiu",35514
+130,"[(45918, 1), (45920, 0), (45922, 0), (45924, 0), (45926, 0)]",45918,5,ku,"[45918, 45920, 45922, 45924, 45926]"," Vim buscar minha pa[cu]era- [cu]era- [cu]era- [cu]era- [cu]era, de-",35909
+131,"[(45918, 2), (45920, 1), (45922, 1), (45924, 1), (45926, 1)]",45918,5,e,"[45918, 45920, 45922, 45924, 45926]"," Vim buscar minha pacu[e]ra- cu[e]ra- cu[e]ra- cu[e]ra- cu[e]ra, de-",35909
+132,"[(45918, 3), (45920, 2), (45922, 2), (45924, 2), (45926, 2)]",45918,5,ra,"[45918, 45920, 45922, 45924, 45926]"," Vim buscar minha pacue[ra]- cue[ra]- cue[ra]- cue[ra]- cue[ra], de-",35909
+133,"[(45972, 1), (45974, 0), (45976, 0), (45978, 0), (45979, 0)]",45972,5,ku,"[45972, 45974, 45976, 45978, 45979]"," Vim buscar minha pa[cu]era- [cu]era- [cu]era- [cu]era [cu]era, de-",35947
+134,"[(45972, 2), (45974, 1), (45976, 1), (45978, 1), (45979, 1)]",45972,5,e,"[45972, 45974, 45976, 45978, 45979]"," Vim buscar minha pacu[e]ra- cu[e]ra- cu[e]ra- cu[e]ra cu[e]ra, de-",35947
+135,"[(45972, 3), (45974, 2), (45976, 2), (45978, 2), (45979, 2)]",45972,5,ra,"[45972, 45974, 45976, 45978, 45979]"," Vim buscar minha pacue[ra]- cue[ra]- cue[ra]- cue[ra] cue[ra], de-",35947
+136,"[(46121, 0), (46123, 0), (46126, 0), (46126, 2), (46130, 2)]",46121,5,a,"[46121, 46123, 46126, 46126, 46130]"," monstro pelejava pra [a]travessar
+ [a]quele mundo de [a]rei[a] escorregando, Macunaíma fugi[a]. Tomou pela",36067
+137,"[(46762, 1), (46764, 0), (46766, 0), (46768, 0), (46770, 0)]",46762,5,ku,"[46762, 46764, 46766, 46768, 46770]"," Vim buscar minha pa[cu]era- [cu]era- [cu]era- [cu]era- [cu]era, de-",36579
+138,"[(46762, 2), (46764, 1), (46766, 1), (46768, 1), (46770, 1)]",46762,5,e,"[46762, 46764, 46766, 46768, 46770]"," Vim buscar minha pacu[e]ra- cu[e]ra- cu[e]ra- cu[e]ra- cu[e]ra, de-",36579
+139,"[(46762, 3), (46764, 2), (46766, 2), (46768, 2), (46770, 2)]",46762,5,ra,"[46762, 46764, 46766, 46768, 46770]"," Vim buscar minha pacue[ra]- cue[ra]- cue[ra]- cue[ra]- cue[ra], de-",36579
+140,"[(47126, 0), (47126, 3), (47129, 0), (47132, 0)]",47126,4,a,"[47126, 47126, 47129, 47132]","
+ pontudo do [a]raguai[a]. Porém [a] igarité estava [a]bicada bem mais pra",36861
+141,"[(47435, 0), (47438, 0), (47441, 0), (47445, 0)]",47435,4,dZi,"[47435, 47438, 47441, 47445]"," Oi que Sol [de] inverno chuva [de] verão choro [de]
+ mulher palavra [de] ladrão, eieiei",37115
+142,"[(47794, 0), (47797, 1), (47800, 0), (47800, 4)]",47794,4,ma,"[47794, 47797, 47800, 47800]"," e
+ a [ma]loca velha agora u[ma] tapera. [ma]cunaí[ma] chorou.
+",37400
+143,"[(48051, 1), (48052, 1), (48056, 1), (48057, 3), (48061, 0), (48061, 4)]",48051,6,ma,"[48051, 48052, 48056, 48057, 48061, 48061]"," deu bem da mes[ma] for[ma].
+ Passava u[ma] pirace[ma] de jaraquis. [ma]cunaí[ma] agarrou pescando e",37603
+144,"[(48063, 2), (48066, 3), (48067, 3), (48068, 1)]",48063,4,du,"[48063, 48066, 48067, 48068]",". Macunaíma agarrou pescan[do] e
+ distraí[do] distraí[do] quan[do] viu estava em",37612
+145,"[(48438, 0), (48443, 0), (48445, 0), (48447, 0), (48449, 0)]",48438,5,vej,"[48438, 48443, 48445, 48447, 48449]"," tinha reparado e [vei]o muito peixe,
+ [vei]o pirandira [vei]o pacu [vei]o cascudo [vei]o bagre jundiá tucunaré",37905
+146,"[(48438, 1), (48443, 1), (48445, 1), (48447, 1), (48449, 1)]",48438,5,u,"[48438, 48443, 48445, 48447, 48449]"," tinha reparado e vei[o] muito peixe,
+ vei[o] pirandira vei[o] pacu vei[o] cascudo vei[o] bagre jundiá tucunaré",37905
+147,"[(48549, 1), (48551, 1), (48553, 1), (48554, 2)]",48549,4,u,"[48549, 48551, 48553, 48554]","
+ peixes, vei[o] acará vei[o] piracanjuba vei[o] avi[ú] guri- juba",37995
+148,"[(48953, 0), (48954, 0), (48958, 0), (48959, 0), (48963, 0), (48964, 0), (48968, 0), (48969, 0), (48973, 0), (48974, 0)]",48953,10,vo,"[48953, 48954, 48958, 48959, 48963, 48964, 48968, 48969, 48973, 48974]"," assim:
+ [vo]te [vo]te coandu!
+ [vo]te [vo]te cuati!
+ [vo]te [vo]te taiçu!
+ [vo]te [vo]te pacari!
+ [vo]te [vo]te canguçu!
+",38282
+149,"[(48953, 1), (48954, 1), (48958, 1), (48959, 1), (48960, 2), (48963, 1), (48964, 1), (48968, 1), (48969, 1), (48973, 1), (48974, 1)]",48953,11,tSi,"[48953, 48954, 48958, 48959, 48960, 48963, 48964, 48968, 48969, 48973, 48974]"," assim:
+ vo[te] vo[te] coandu!
+ vo[te] vo[te] cua[ti]!
+ vo[te] vo[te] taiçu!
+ vo[te] vo[te] pacari!
+ vo[te] vo[te] canguçu!
+",38282
+150,"[(49155, 0), (49158, 0), (49161, 1), (49162, 0), (49166, 2)]",49155,5,a,"[49155, 49158, 49161, 49162, 49166]",", onças, [a] onça pinima [a] papa- vi[a]do [a] jaguatirica,
+ suçu[a]rana canguçu pixuna,",38437
+151,"[(49166, 0), (49166, 1), (49167, 2), (49170, 1)]",49166,4,su,"[49166, 49166, 49167, 49170]"," jaguatirica,
+ [su][çu]arana cangu[çu] pixuna, is[so] era uma imundície",38445
+152,"[(50611, 0), (50611, 2), (50612, 0), (50616, 1)]",50611,4,a,"[50611, 50611, 50612, 50616]",". Na frente [a]bri[a] [a]
+ estrada das boi[a]das. Macunaíma isso",39608
+153,"[(50675, 0), (50680, 0), (50680, 4), (50683, 1)]",50675,4,ma,"[50675, 50680, 50680, 50683]"," lá foi cego [ma]nadeiro abaixo. Então
+ [ma]cunaí[ma] quebrou por u[ma] picada sem jeito",39661
+154,"[(50701, 0), (50705, 1), (50708, 0), (50708, 4)]",50701,4,ma,"[50701, 50705, 50708, 50708]"," a bulha do [mar]ruá
+ galopeando e i[ma]ginou que era [ma]cunaí[ma], foi atrás",39684
+155,"[(50741, 0), (50741, 3), (50746, 0), (50750, 0)]",50741,4,a,"[50741, 50741, 50746, 50750]",",
+ Boi [a]legri[a],
+ Dá um [a]deus
+ Pra toda [a] família!
+",39714
+156,"[(50803, 1), (50803, 2), (50805, 1), (50805, 2)]",50803,4,ru,"[50803, 50803, 50805, 50805]"," marruá foi ficando ju[ru][ru] ficando ju[ru][ru]
+ magruço e",39754
+157,"[(51036, 0), (51037, 0), (51040, 0), (51045, 0), (51047, 0)]",51036,5,a,"[51036, 51037, 51040, 51045, 51047]","
+ Quem se [ar]retirou [a]mante
+ az [a]ção de generoso!
+ [a] giganta [a]gradeceu e foi-",39913
+158,"[(51067, 0), (51069, 0), (51073, 0), (51075, 0)]",51067,4,dZi,"[51067, 51069, 51073, 51075]"," da Lapa carregado [de] folha [de]
+ cajueiro e [de] rama [de] algodão. A",39938
+159,"[(51288, 0), (51290, 1), (51292, 0), (51293, 0), (51297, 1), (51298, 0), (51299, 0), (51302, 0), (51303, 0), (51306, 0), (51307, 0), (51308, 0), (51309, 0)]",51288,13,u,"[51288, 51290, 51292, 51293, 51297, 51298, 51299, 51302, 51303, 51306, 51307, 51308, 51309]"," Então vieram muitos [u]rubus, vei[o]
+ [o] [u]rubu- camiranga, vei[o] [o] [u]rubu- jeregua [o] [u]rubu- peba [o] [u]rubuministro [o] [u]rubu- tinga que",40113
+160,"[(51299, 1), (51303, 1), (51307, 1), (51309, 1)]",51299,4,ru,"[51299, 51303, 51307, 51309]",", veio o u[ru]bu- jeregua o u[ru]bu- peba o u[ru]buministro o u[ru]bu- tinga que",40120
+161,"[(51341, 0), (51344, 1), (51345, 1), (51346, 1), (51349, 0)]",51341,5,u,"[51341, 51344, 51345, 51346, 51349]"," cantando:
+ [u]rubu é passo fei[o] fei[o] fei[o]!
+ [u]rubu é passo limpo",40152
+162,"[(51359, 0), (51360, 0), (51364, 0), (51368, 0), (51371, 0)]",51359,5,u,"[51359, 51360, 51364, 51368, 51371]","
+ E era [o] [u]rubu- ruxama, [u]rubu- rei, [o] Pai do [u]rubu. Então mandou",40166
+163,"[(51975, 0), (51975, 4), (51978, 0), (51978, 4)]",51975,4,ma,"[51975, 51975, 51978, 51978]",".
+— [ma]cunaí[ma]! ôh [ma]cunaí[ma]!
+—",40632
+164,"[(51983, 0), (51987, 0), (51987, 2), (51994, 0)]",51983,4,a,"[51983, 51987, 51987, 51994]","
+— Deixa [a] gente dormir, [a]ru[a]í...
+
+— [a]corda, herói!",40636
+165,"[(52097, 0), (52098, 3), (52101, 0), (52104, 0), (52104, 4)]",52097,5,a,"[52097, 52098, 52101, 52104, 52104]",".
+ Quando [a] papacei[a] que é [a] estrela Vésper [a]pareci[a] falando pras
+",40711
+166,"[(52427, 1), (52427, 2), (52428, 1), (52428, 2)]",52427,4,ru,"[52427, 52427, 52428, 52428]",- Cã ficou ju[ru][ru] ju[ru][ru] e principiou imaginando,40962
+167,"[(52765, 0), (52766, 0), (52767, 0), (52770, 0)]",52765,4,a,"[52765, 52766, 52767, 52770]"," corgo esperou
+ [as]suntando [a] [á]gua. Daí [a] pouco vieram vindo",41216
+168,"[(53538, 0), (53539, 0), (53541, 2), (53543, 0)]",53538,4,a,"[53538, 53539, 53541, 53543]"," n'água e num [á]timo [a]
+ lago[a] tornava [a] cobrir o rosto",41820
+169,"[(54046, 0), (54048, 0), (54050, 0), (54052, 0)]",54046,4,dZi,"[54046, 54048, 54050, 54052]"," Arrancou uma montanha [de] timbó [de] assacú [de] tingui [de] canambí,
+",42228
+170,"[(54076, 0), (54080, 0), (54083, 0), (54085, 0)]",54076,4,ba,"[54076, 54080, 54083, 54085]"," boiando com a [bar]riga pra cima, [bar]rigas azuis
+ [bar]rigas amarelas [bar]rigas rosadas, todas",42254
+171,"[(54076, 1), (54080, 1), (54083, 1), (54085, 1)]",54076,4,Ri,"[54076, 54080, 54083, 54085]"," boiando com a bar[ri]ga pra cima, bar[ri]gas azuis
+ bar[ri]gas amarelas bar[ri]gas rosadas, todas",42254
+172,"[(54479, 0), (54481, 0), (54483, 0), (54485, 0), (54489, 0)]",54479,5,ta~,"[54479, 54481, 54483, 54485, 54489]"," apesar
+ de [tan]tos casos [tan]ta brincadeira [tan]ta ilusão [tan]to sofri: mento [tan]to
+ heroísmo,",42569
+173,"[(54877, 2), (54879, 0), (54884, 2), (54885, 0)]",54877,4,a,"[54877, 54879, 54884, 54885]"," na casa de caiu[a]nogue, [a] estrêla- damanhã. caiu[a]nogue [a]pareceu na janelinha pra",42872
+174,"[(55562, 0), (55564, 1), (55568, 0), (55570, 1)]",55562,4,pak,"[55562, 55564, 55568, 55570]","— Currr- [pac], pa[pac]! currr- [pac], pa[pac]!..",43406
+175,"[(55672, 0), (55675, 3), (55678, 0), (55679, 3), (55680, 1)]",55672,5,u,"[55672, 55675, 55678, 55679, 55680]","
+— Dá [o] pé, papagai[o].
+ [o] papagai[o] vei[o] pousar na cabeça",43477
+176,"[(55675, 0), (55675, 1), (55679, 0), (55679, 1)]",55675,4,pa,"[55675, 55675, 55679, 55679]"," o pé, [pa][pa]gaio.
+ O [pa][pa]gaio veio pousar na",43479

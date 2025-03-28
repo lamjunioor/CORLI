@@ -1,0 +1,977 @@
+,pares_ordenados,primeira_palavra,comprimento,fonema,palavras,frase,abs_posicao
+0,"[(23, 1), (23, 3), (25, 1)]",23,3,tSi,"[23, 23, 25]"," de uma carreira fa[ti]gan[te], es[te] livro, que",18
+1,"[(43, 0), (44, 0), (44, 2)]",43,3,a,"[43, 44, 44]",", perdeu toda [a] [a]tu[a]lidade, remorada a",34
+2,"[(917, 0), (918, 0), (918, 3)]",917,3,a,"[917, 918, 918]"," 15 paralelo, [a] [a]tenu[a]ção de
+ todos",703
+3,"[(1028, 0), (1030, 0), (1031, 2)]",1028,3,a,"[1028, 1030, 1031]"," meridiano qualquer, [a]companhando
+ [à] baci[a] do S.",793
+4,"[(1250, 0), (1250, 3), (1251, 0)]",1250,3,a,"[1250, 1250, 1251]"," se afigura tão [a]feiço[a]da [à] Vida.
+",969
+5,"[(2008, 0), (2009, 0), (2009, 3), (2010, 0)]",2008,4,a,"[2008, 2009, 2009, 2010]"," de nível, [a]penas [a]ponto[a]do [a]
+ leste pelos",1566
+6,"[(2612, 0), (2612, 3), (2614, 0)]",2612,3,a,"[2612, 2612, 2614]"," plateau arenoso do [a]çuru[á], [as]sociando- se ao",2026
+7,"[(2877, 0), (2878, 1), (2879, 0)]",2877,3,a,"[2877, 2878, 2879]",", que
+ [a]li re[a]gem [há] milênios entre montanhas",2221
+8,"[(3088, 0), (3089, 0), (3090, 0)]",3088,3,a,"[3088, 3089, 3090]"," das montanhas, [a]o [a]tingir [a]quele
+ ponto estaca",2388
+9,"[(3294, 0), (3294, 4), (3295, 0)]",3294,3,a,"[3294, 3294, 3295]"," que
+ quase [a]barcari[a] [a] Holanda( 9º",2546
+10,"[(3431, 0), (3432, 0), (3433, 0)]",3431,3,a,"[3431, 3432, 3433]","
+ povoados que [a] [a]beiram [a]companhando insignificantes cursos de",2646
+11,"[(3998, 2), (3998, 3), (3999, 0), (4000, 1)]",3998,4,da,"[3998, 3998, 3999, 4000]"," torneando a truncadura malgra[da][da] [da] bor[da]
+ de um",3088
+12,"[(4079, 2), (4080, 0), (4081, 1)]",4079,3,a,"[4079, 4080, 4081]"," léguas, da bahi[a] [a]o ju[a]zeiro, se entroncam",3148
+13,"[(4261, 0), (4262, 0), (4263, 0)]",4261,3,a,"[4261, 4262, 4263]"," entanto quem se [a]balança [a] [a]travessá- lo,",3285
+14,"[(4285, 1), (4286, 2), (4287, 2)]",4285,3,ta,"[4285, 4286, 4287]"," meandros, o i[ta]picuru alen[ta] vege[ta]ção vivaz; e",3303
+15,"[(6749, 0), (6750, 1), (6752, 2)]",6749,3,du,"[6749, 6750, 6752]"," mais antigo
+ [do] mun[do]— segun[do] a dedução dedução",5180
+16,"[(6840, 4), (6842, 0), (6844, 0)]",6840,3,a,"[6840, 6842, 6844]"," a Bolívia. simultane[a]mente, [a]o
+ [a]brir- se a",5251
+17,"[(7141, 0), (7143, 0), (7144, 0)]",7141,3,a,"[7141, 7143, 7144]",": o líquen [a]inda
+ [a]taca [a] pedra, fecundando",5475
+18,"[(7235, 0), (7236, 0), (7237, 0)]",7235,3,a,"[7235, 7236, 7237]", que nos domina [a]o [a]travessarmos [a]quele ignoto trecho do,5549
+19,"[(7445, 0), (7446, 1), (7447, 2)]",7445,3,dZi,"[7445, 7446, 7447]"," do Cambaio, [de] on[de] irra[di]am as pequenas cadeias",5708
+20,"[(7621, 0), (7622, 0), (7622, 2)]",7621,3,a,"[7621, 7622, 7622]",", perturbando toda [a] [á]re[a] de drenagem do",5846
+21,"[(9810, 0), (9811, 0), (9812, 0)]",9810,3,a,"[9810, 9811, 9812]","
+ secura da [a]tmosfera [a]tinge [a] graus anormalíssimos.",7519
+22,"[(10354, 0), (10356, 0), (10357, 1)]",10354,3,a,"[10354, 10356, 10357]",", quedou, [a]diante, [à] mei[a] encosta, entalado",7929
+23,"[(10358, 0), (10360, 0), (10361, 0)]",10358,3,e~,"[10358, 10360, 10361]",", à meia [en]costa, [en]talado [en]tre fraguedos. Ficou",7932
+24,"[(11512, 0), (11514, 0), (11515, 3), (11516, 2)]",11512,4,a,"[11512, 11514, 11515, 11516]"," à sua forma [a]traentíssima, [a] teori[a] plane[a]da: raramente
+",8790
+25,"[(11596, 0), (11597, 0), (11599, 0)]",11596,3,e,"[11596, 11597, 11599]",", mais próximas [e] [e]nérgicas, [e] estas, em",8854
+26,"[(11620, 3), (11620, 6), (11621, 3)]",11620,3,tSi,"[11620, 11620, 11621]"," só serão
+ defini[ti]vamen[te] sistema[ti]zadas quando extensa série",8871
+27,"[(11732, 0), (11733, 0), (11734, 0)]",11732,3,a,"[11732, 11733, 11734]"," em vasta superfície [a]largada [a]té [a]o
+ Mato Grosso",8962
+28,"[(12463, 0), (12465, 1), (12467, 0)]",12463,3,si,"[12463, 12465, 12467]"," vez condensando- [se], pre[ci]pitarem- [se] de novo e",9539
+29,"[(12577, 0), (12578, 0), (12580, 0)]",12577,3,a,"[12577, 12578, 12580]","
+ barrentos traçados [a]o [a]caso, [à] feição dos declives",9625
+30,"[(12698, 1), (12699, 0), (12700, 1), (12702, 0), (12703, 0)]",12698,5,a,"[12698, 12699, 12700, 12702, 12703]"," e vão, di[a] [a] di[a], [a]bsorvendo [a] umidade exígua da",9714
+31,"[(12770, 0), (12772, 0), (12772, 3)]",12770,3,a,"[12770, 12772, 12772]", a caatinga o [a]foga; [a]brevi[a]- lhe o,9770
+32,"[(13363, 0), (13365, 0), (13366, 0)]",13363,3,a,"[13363, 13365, 13366]"," molas de
+ [a]ço, [ad]miráveis [a]parelhos para propagação das",10227
+33,"[(13366, 1), (13367, 0), (13368, 1)]",13366,3,pa,"[13366, 13367, 13368]"," aço, admiráveis a[pa]relhos [pa]ra pro[pa]gação das sementes,",10229
+34,"[(13681, 0), (13682, 0), (13684, 2)]",13681,3,dZi,"[13681, 13682, 13684]",- se em [di]visões [di]cotômicas. progri[de] pela terra dentro,10466
+35,"[(15971, 0), (15972, 0), (15973, 1), (15975, 3), (15976, 3)]",15971,5,a,"[15971, 15972, 15973, 15975, 15976]"," o convizinham
+ [a]té [a]o ce[a]rá, estari[a] despovo[a]do. O umbu",12185
+36,"[(16519, 0), (16520, 1), (16521, 0)]",16519,3,a,"[16519, 16520, 16521]", nas tocaias traiçoeiras [a]os ve[a]dos [a]riscos ou novilhos desgarrados,12604
+37,"[(17393, 0), (17394, 0), (17395, 3)]",17393,3,a,"[17393, 17394, 17395]"," dias torturantes; [a] [a]tmosfera asfixi[a]dora; o
+",13256
+38,"[(17614, 0), (17615, 3), (17615, 5)]",17614,3,a,"[17614, 17615, 17615]", gênese daquele na [a]ção tumultu[a]ri[a] de um cataclismo,13433
+39,"[(18408, 0), (18409, 0), (18409, 2)]",18408,3,a,"[18408, 18409, 18409]"," das caiçaras, [a] [á]re[a] em cinzas onde",14044
+40,"[(18461, 3), (18462, 0), (18463, 5)]",18461,3,a,"[18461, 18462, 18463]","— como o denunci[a] [a] etimologi[a] tupi, jazendo",14081
+41,"[(19084, 2), (19085, 0), (19086, 1)]",19084,3,a,"[19084, 19085, 19086]"," Norte, da bahi[a] [a]o ce[a]rá, o governo",14555
+42,"[(19599, 0), (19600, 1), (19602, 0)]",19599,3,a,"[19599, 19600, 19602]"," a um tempo [a] su[a]
+ [a]tividade inteligente e o",14951
+43,"[(19706, 0), (19707, 0), (19709, 0)]",19706,3,e,"[19706, 19707, 19709]"," outros países férteis [e] [e]xuberantes, [e]ra, como nos",15041
+44,"[(20033, 0), (20036, 0), (20036, 2)]",20033,3,a,"[20033, 20036, 20036]"," Tunísia, onde [ha]viam
+
+ [a]pro[a]do os filhos prediletos",15287
+45,"[(20261, 0), (20262, 0), (20263, 0)]",20261,3,de,"[20261, 20262, 20263]"," civilização romana, [de]pois [des]se [de]clínio de séculos.",15461
+46,"[(20387, 1), (20389, 1), (20391, 5)]",20387,3,tSi,"[20387, 20389, 20391]"," única
+ coisa prá[ti]ca, fac[tí]vel, verdadeiramen[te] útil que ficou",15558
+47,"[(20532, 0), (20532, 3), (20534, 0)]",20532,3,a,"[20532, 20532, 20534]",", de modo [a]preci[á]vel, [a]
+ estrutura e",15664
+48,"[(21073, 0), (21074, 0), (21076, 4)]",21073,3,a,"[21073, 21074, 21076]"," mais ampla, [a]brangendo [a]
+ economi[a] geral da Vida",16079
+49,"[(21954, 0), (21955, 0), (21957, 0)]",21954,3,e,"[21954, 21955, 21957]",", os três [e]lementos [es]senciais, [e], imperfeitamente embora",16745
+50,"[(23599, 0), (23599, 3), (23601, 0)]",23599,3,a,"[23599, 23599, 23601]","
+ transições mais [a]centu[a]das, [a]companhando os paralelos,",18040
+51,"[(24468, 0), (24468, 3), (24469, 0)]",24468,3,a,"[24468, 24468, 24469]",— a terra [a]feiço[a]da [à] vida; a,18710
+52,"[(24661, 0), (24661, 3), (24662, 0)]",24661,3,a,"[24661, 24661, 24662]", arqueia- se [a]lumi[a]do [a]inda por um Sol,18853
+53,"[(25456, 0), (25457, 1), (25459, 1), (25460, 0)]",25456,4,dZi,"[25456, 25457, 25459, 25460]"," em rede complicadíssima [de] me[di]terrâneo
+ cin[di]do [de] correntes fortes,",19456
+54,"[(25730, 0), (25731, 0), (25732, 0)]",25730,3,a,"[25730, 25731, 25732]"," pela ganância se [a]vantajam [a]té [a]li, e os",19669
+55,"[(26066, 0), (26067, 0), (26067, 3)]",26066,3,a,"[26066, 26067, 26067]","
+ excitadas e [a] [a]pati[a] das funções centrais",19926
+56,"[(26370, 0), (26370, 2), (26371, 0)]",26370,3,a,"[26370, 26370, 26371]"," o;
+ [a]li[a]do [a]o meio vence-",20164
+57,"[(27004, 1), (27005, 0), (27006, 0), (27006, 4)]",27004,4,a,"[27004, 27005, 27006, 27006]"," estúpida,
+ re[a]lizando [a] [a]nomali[a] de deslocar para",20656
+58,"[(27036, 0), (27038, 0), (27039, 0)]",27036,3,a,"[27036, 27038, 27039]"," Sul.
+ [a]qui, [a] [a]climação mais pronta,",20680
+59,"[(27333, 0), (27333, 2), (27334, 0)]",27333,3,a,"[27333, 27333, 27334]",",
+ onde [a]pro[a]va [a] cobiça do estrangeiro",20906
+60,"[(27654, 0), (27655, 0), (27656, 1)]",27654,3,da,"[27654, 27655, 27656]"," todos os cursos [d'á]gua [da] bor[da]
+ oriental,",21154
+61,"[(27867, 0), (27869, 0), (27870, 0), (27871, 0)]",27867,4,a,"[27867, 27869, 27870, 27871]"," o sulista, [a]bsolutamente
+ [a]lheio [à]quela [a]gitação, revelava,",21323
+62,"[(28059, 3), (28060, 0), (28061, 4)]",28059,3,a,"[28059, 28060, 28061]"," mesmo fato para estade[a]rem [a] autonomi[a] franca, no",21473
+63,"[(28310, 0), (28310, 2), (28311, 0), (28312, 2)]",28310,4,a,"[28310, 28310, 28311, 28312]"," correrias do bárbaro [a]me[a]çavam [a] bahi[a], ou Pernambuco",21669
+64,"[(28966, 0), (28967, 4), (28969, 3)]",28966,3,da,"[28966, 28967, 28969]"," últimos está longe [da] uniformi[da]de
+ proclama[da]. Distribuíram,",22194
+65,"[(29398, 0), (29399, 2), (29401, 0)]",29398,3,a,"[29398, 29399, 29401]"," se povoou melhor [a] bahi[a], [a] desproporção entre o",22535
+66,"[(29469, 0), (29469, 2), (29470, 0)]",29469,3,a,"[29469, 29469, 29470]"," Os forasteiros que [a]pro[a]vam [à]quelas plagas eram,",22590
+67,"[(29571, 1), (29572, 0), (29573, 3)]",29571,3,a,"[29571, 29572, 29573]"," pintando com ingênuo re[a]lismo [a] dissoci[a]ção dos
+ costumes",22670
+68,"[(30008, 0), (30009, 3), (30011, 0)]",30008,3,a,"[30008, 30009, 30011]"," da perversidade contra [a] barbari[a], [a]pareceu uma
+
+",23014
+69,"[(30095, 0), (30096, 2), (30098, 3)]",30095,3,a,"[30095, 30096, 30098]"," terras do Maranhão [à] bahi[a], patentei[a] sobretudo
+ um",23083
+70,"[(30697, 0), (30698, 2), (30699, 0), (30699, 2)]",30697,4,a,"[30697, 30698, 30699, 30699]", Grande do Norte [à] bahi[a] [ha]vi[a] 160 engenhos.,23551
+71,"[(30732, 0), (30732, 3), (30733, 0)]",30732,3,a,"[30732, 30732, 30733]"," da costa, [a]grilho[a]do [à] terra e
+",23579
+72,"[(31142, 2), (31145, 3), (31146, 0)]",31142,3,a,"[31142, 31145, 31146]"," as suas modalidades vari[á]veis.
+ balancei[a] [a] influência do Tietê",23894
+73,"[(32106, 2), (32108, 4), (32111, 1)]",32106,3,das,"[32106, 32108, 32111]"," o agreste das chapa[das], desafoga[das],
+ to[das], salteadamente,",24660
+74,"[(32119, 1), (32121, 0), (32122, 1)]",32119,3,a,"[32119, 32121, 32122]", vastos claros das ca[a]tingas; [a] su[a] conformação hidrográfica especial,24668
+75,"[(32878, 0), (32879, 0), (32880, 0), (32880, 2), (32882, 0)]",32878,5,a,"[32878, 32879, 32880, 32880, 32882]"," que lhe
+ [a]largavam [a] [á]re[a], [a]bastecendo- os por",25270
+76,"[(32910, 1), (32911, 4), (32914, 4)]",32910,3,dZi,"[32910, 32911, 32914]"," Parnaíba, aquela ru[de] socieda[de],
+ incompreen[di]da e olvidada,",25298
+77,"[(33694, 3), (33694, 5), (33695, 0)]",33694,3,a,"[33694, 33694, 33695]", lento caminhar que continu[a]ri[a] [a]té o nosso tempo,25912
+78,"[(34687, 0), (34687, 2), (34688, 0)]",34687,3,a,"[34687, 34687, 34688]"," população indígena, [a]li[a]da [a]os raros mocambeiros foragidos",26687
+79,"[(35445, 0), (35446, 0), (35447, 2)]",35445,3,a,"[35445, 35446, 35447]", vai- se [a]travessando [a] baci[a] elevada do Vaza,27277
+80,"[(35492, 0), (35494, 0), (35494, 3), (35496, 0)]",35492,4,a,"[35492, 35494, 35494, 35496]"," ao Tombador e [a]o
+ [a]çuru[á]. [a]í, nesse trecho",27316
+81,"[(36735, 0), (36736, 3), (36740, 1)]",36735,3,tSi,"[36735, 36736, 36740]"," caracteres fisiológicos do [ti]po emergen[te].
+
+ es[te] fato, que",28275
+82,"[(37014, 0), (37015, 1), (37016, 0)]",37014,3,a,"[37014, 37015, 37016]"," eliminação lenta, [à] su[a] [a]bsorção vagarosa, à",28499
+83,"[(37292, 0), (37293, 0), (37294, 0)]",37292,3,a,"[37292, 37293, 37294]"," outras raças formadoras [a]penas [a]queles [a]tributos mais
+ ajustáveis",28715
+84,"[(37297, 0), (37298, 0), (37299, 1)]",37297,3,a,"[37297, 37298, 37299]"," atributos mais
+ [a]justáveis [à] su[a] fase social incipiente",28719
+85,"[(37349, 1), (37352, 0), (37353, 1)]",37349,3,a,"[37349, 37352, 37353]"," a conquistar um di[a].
+ [a] su[a] evolução psíquica,",28761
+86,"[(37368, 0), (37370, 0), (37372, 3)]",37368,3,a,"[37368, 37370, 37372]",", tem, [a]gora, [a]
+ garanti[a] de um tipo",28775
+87,"[(37375, 0), (37376, 4), (37377, 1)]",37375,3,tSi,"[37375, 37376, 37377]", garantia de um [ti]po fisicamen[te] cons[ti]tuído e forte.,28780
+88,"[(37734, 0), (37735, 1), (37736, 0)]",37734,3,a,"[37734, 37735, 37736]"," litoral.
+ [a] su[a] [a]parência, entretanto,",29042
+89,"[(38003, 5), (38004, 1), (38007, 2)]",38003,3,tSi,"[38003, 38004, 38007]"," É o homem permanentemen[te] fa[ti]gado.
+ refle[te] a preguiça invencível",29250
+90,"[(38012, 0), (38013, 0), (38013, 3)]",38012,3,a,"[38012, 38013, 38013]"," preguiça invencível, [a] [a]toni[a] muscular perene,",29256
+91,"[(38492, 1), (38493, 0), (38494, 1)]",38492,3,a,"[38492, 38493, 38494]"," firmes,
+ re[a]liza [a] cri[a]ção bizarra de um",29618
+92,"[(38800, 0), (38801, 1), (38803, 0), (38804, 1)]",38800,4,u,"[38800, 38801, 38803, 38804]"," o jagunço e [o] ga[ú]cho
+ [o] ga[ú]cho do Sul,",29845
+93,"[(39701, 1), (39702, 4), (39703, 0)]",39701,3,du,"[39701, 39702, 39703]","
+— o par[do] avermelha[do] [do] couro curtido—",30533
+94,"[(39765, 1), (39766, 1), (39767, 1)]",39765,3,ra,"[39765, 39766, 39767]"," o pelo mosqueado vi[ra]do pa[ra] fo[ra],
+ ou",30586
+95,"[(39804, 1), (39805, 1), (39807, 1)]",39804,3,ga,"[39804, 39805, 39807]"," sertanejo perde o des[gar]re fol[ga]zão— lar[ga]mente
+ expandido nos",30616
+96,"[(39875, 1), (39876, 3), (39877, 2)]",39875,3,tSi,"[39875, 39876, 39877]"," explicável do que es[te] permanen[te] contras[te] entre extremas
+",30673
+97,"[(40117, 0), (40118, 1), (40120, 0), (40121, 1), (40123, 0)]",40117,5,u,"[40117, 40118, 40120, 40121, 40123]","..
+ [o] ga[ú]cho
+ [o] ga[ú]cho, [o] pealador valente,",30858
+98,"[(40292, 0), (40292, 3), (40293, 0)]",40292,3,a,"[40292, 40292, 40293]",".
+ Está [a]feiço[a]do [a]os prélios obscuros e",30985
+99,"[(40361, 0), (40363, 0), (40364, 0)]",40361,3,a,"[40361, 40363, 40364]"," em falso. [a]o
+ [a]pontar [a] lazarina longa ou",31041
+100,"[(41106, 0), (41107, 2), (41107, 5)]",41106,3,a,"[41106, 41107, 41107]"," incluindo- lhes [a] gene[a]logi[a] e hábitos
+",31606
+101,"[(42393, 2), (42394, 0), (42395, 3), (42396, 2)]",42393,4,du,"[42393, 42394, 42395, 42396]"," vai num
+ crescen[do] [do] destala[do] ríspi[do] ao temero pronunciado",32581
+102,"[(42455, 0), (42455, 2), (42460, 0), (42461, 0)]",42455,4,a,"[42455, 42455, 42460, 42461]"," as notas do [a]boi[a]do...
+ [a] [ar]ribada
+ Segue a",32629
+103,"[(42860, 0), (42861, 1), (42862, 0)]",42860,3,a,"[42860, 42861, 42862]","..
+ [a] boi[a]da [ar]ranca.
+ Nada",32910
+104,"[(43302, 2), (43303, 0), (43304, 2)]",43302,3,da,"[43302, 43303, 43304]",- no à vere[da] [da] fazen[da]; e ressoam,33231
+105,"[(44233, 0), (44234, 0), (44235, 0), (44235, 4)]",44233,4,a,"[44233, 44234, 44235, 44235]"," página notável, [as]sinala [a] [a]nomali[a] de se não",33941
+106,"[(44544, 1), (44546, 0), (44548, 0)]",44544,3,a,"[44544, 44546, 44548]"," e pintam as ca[a]tingas, [a]qui, [a]li, por toda",34190
+107,"[(44637, 0), (44638, 0), (44639, 0)]",44637,3,a,"[44637, 44638, 44639]","
+ frias. [a] [a]tmosfera [a]bsorve- lhe,",34257
+108,"[(44689, 1), (44690, 0), (44691, 1)]",44689,3,a,"[44689, 44690, 44691]"," das tardes, di[a] [a] di[a] menores e
+",34296
+109,"[(45136, 0), (45137, 1), (45138, 2)]",45136,3,a,"[45136, 45137, 45138]", arrastadores. Transcende [a] su[a] situ[a]ção rudimentar. Resignado,34632
+110,"[(45743, 2), (45744, 0), (45745, 3)]",45743,3,a,"[45743, 45744, 45745]", e aos rebanhos confi[a]dos [a] energi[a] sobre- humana,35094
+111,"[(45867, 0), (45868, 1), (45869, 3)]",45867,3,a,"[45867, 45868, 45869]"," vem
+ beirar [a] su[a] lanchari[a] pobre.
+",35184
+112,"[(45905, 2), (45907, 0), (45909, 0)]",45905,3,a,"[45905, 45907, 45909]"," ela
+ não recu[a], [as]salta- [a]. Mas não",35212
+113,"[(46137, 0), (46138, 3), (46140, 0)]",46137,3,a,"[46137, 46138, 46140]", lhe com ela [a] energi[a]. [a]inda se não considera,35386
+114,"[(46511, 1), (46513, 0), (46514, 1)]",46511,3,a,"[46511, 46513, 46514]","
+ Passa certo di[a], [a] su[a] porta, a",35670
+115,"[(46525, 0), (46527, 0), (46529, 0)]",46525,3,a,"[46525, 46527, 46529]",". Vê- [a], [as]sombrado, [a]travessar o
+ terreiro",35680
+116,"[(46666, 4), (46668, 2), (46670, 3)]",46666,3,du,"[46666, 46668, 46670]"," torna feliz, revigora[do], cantan[do]; esqueci[do] de infortúnios,",35779
+117,"[(46763, 0), (46764, 0), (46765, 2)]",46763,3,a,"[46763, 46764, 46765]","
+ para se [a]feiçoar [a] situ[a]ção mais alta.",35853
+118,"[(47811, 0), (47812, 0), (47812, 3)]",47811,3,a,"[47811, 47812, 47812]", exaltação impulsiva e [a] [a]pati[a] enervadora da atividade,36656
+119,"[(47910, 0), (47912, 0), (47913, 0), (47914, 3)]",47910,4,a,"[47910, 47912, 47913, 47914]"," os
+ negros [ha]úças, [a]daptando [à] liturgi[a] todo o ritual",36733
+120,"[(48377, 3), (48378, 0), (48379, 0)]",48377,3,a,"[48377, 48378, 48379]", convergindo em largo anfite[a]tro [a]cessível [a]penas por estreita garganta,37090
+121,"[(48680, 1), (48681, 2), (48683, 2)]",48680,3,tSi,"[48680, 48681, 48683]","- la, nes[te] instan[te], perver[ti]da pelo fanatismo.",37318
+122,"[(49201, 0), (49201, 3), (49202, 0)]",49201,3,a,"[49201, 49201, 49202]"," dos passos, [a]vali[a] [a]
+ constância e",37716
+123,"[(49608, 0), (49609, 1), (49610, 0)]",49608,3,a,"[49608, 49609, 49610]"," o antecederam, [a] su[a] [a]ção é negativa:",38029
+124,"[(50049, 3), (50051, 2), (50053, 2)]",50049,3,du,"[50049, 50051, 50053]"," em fora, esmolan[do], choran[do], rezan[do], numa mandria",38367
+125,"[(51125, 0), (51126, 0), (51127, 0), (51128, 0)]",51125,4,a,"[51125, 51126, 51127, 51128]"," extravagâncias de
+ [a]lexandre [a]bnótico [a]balavam [a] Roma de Marco",39203
+126,"[(51246, 5), (51249, 5), (51251, 3)]",51246,3,du,"[51246, 51249, 51251]"," o isolou— incompreendi[do],
+ desequilibra[do], retrógra[do], rebelde—",39292
+127,"[(51599, 0), (51600, 1), (51601, 4), (51602, 3)]",51599,4,a,"[51599, 51600, 51601, 51602]"," Os Maciéis
+ [a] su[a] biografi[a] compendi[a] e resume a",39568
+128,"[(51792, 0), (51793, 2), (51793, 5)]",51792,3,a,"[51792, 51793, 51793]"," breve notícia sobre [a] gene[a]logi[a] de Antônio
+",39721
+129,"[(51895, 1), (51896, 3), (51897, 1)]",51895,3,zi,"[51895, 51896, 51897]",", criando uma qua[se] predispo[si]ção fi[si]ológica e tornando hereditários",39802
+130,"[(52059, 0), (52060, 0), (52061, 0)]",52059,3,a,"[52059, 52060, 52061]"," capangas.
+ [as]sim [a]percebidos [a]balaram na expedição criminosa",39930
+131,"[(53674, 1), (53675, 1), (53676, 1)]",53674,3,ta,"[53674, 53675, 53676]"," vítimas anônimas fez es[ta] lo[ta] ser[ta]neja, que dizimava",41163
+132,"[(54191, 0), (54192, 1), (54193, 2)]",54191,3,a,"[54191, 54192, 54193]",", tornam instável [a] su[a] situ[a]ção.
+ Em",41578
+133,"[(54794, 0), (54796, 0), (54796, 3), (54797, 0)]",54794,4,a,"[54794, 54796, 54796, 54797]"," de brim
+ [a]mericano; [a]bordo[a]do [a]o clássico bastão em",42027
+134,"[(55572, 0), (55573, 1), (55575, 2)]",55572,3,da,"[55572, 55573, 55575]"," de
+ vencidos [da] vi[da], veza[da] à mandria e",42609
+135,"[(56188, 4), (56190, 1), (56192, 4), (56193, 1)]",56188,4,du,"[56188, 56190, 56192, 56193]"," na mesma hora apavora[do], doi[do], abandonan[do] tu[do], ao acaso",43065
+136,"[(56361, 0), (56361, 4), (56363, 0)]",56361,3,a,"[56361, 56361, 56363]", carne morta. [a]nestesi[a]ra- [a] com a própria,43194
+137,"[(56521, 2), (56523, 0), (56525, 0), (56526, 1), (56527, 5)]",56521,5,a,"[56521, 56523, 56525, 56526, 56527]"," à capital da bahi[a]. [a]li, [a] su[a] fisionomi[a] estranha: face",43309
+138,"[(56602, 2), (56603, 0), (56604, 0)]",56602,3,a,"[56602, 56603, 56604]"," descuidada, que desci[a] [a]té [à] cintura—
+",43371
+139,"[(56608, 0), (56608, 3), (56609, 0)]",56608,3,a,"[56608, 56608, 56609]"," cintura—
+ [a]ferro[a]ram [a] curiosidade geral.",43375
+140,"[(57404, 4), (57406, 0), (57407, 0)]",57404,3,a,"[57404, 57406, 57407]","- a e emudeci[a]; [a]levantava [a] cabeça, descerrava",43963
+141,"[(57624, 0), (57625, 2), (57627, 4)]",57624,3,du,"[57624, 57625, 57627]"," facies dos místicos [do] passa[do]. consideran[do]- o,",44129
+142,"[(58221, 0), (58221, 3), (58222, 0)]",58221,3,a,"[58221, 58221, 58222]",", o predestinado [a]tingi[a] [a] terra pela vontade",44599
+143,"[(58234, 3), (58235, 0), (58236, 1)]",58234,3,a,"[58234, 58235, 58236]"," Cristo
+ que pressagi[a]ra [a] su[a] vinda quando
+",44610
+144,"[(58757, 0), (58759, 1), (58761, 0)]",58757,3,de,"[58757, 58759, 58761]"," a que se [de]votara, or[de]nava, [de]pois destas homílias,",45018
+145,"[(58970, 0), (58970, 3), (58971, 0)]",58970,3,a,"[58970, 58970, 58971]","
+ menos lhe [a]cresci[a] [a] côngrua reduzida.",45175
+146,"[(59999, 0), (60001, 0), (60002, 0)]",59999,3,a,"[59999, 60001, 60002]"," procissão pela montanha [a]cima, [a]té [a] última capela,",45978
+147,"[(60230, 2), (60232, 2), (60232, 4)]",60230,3,du,"[60230, 60232, 60232]"," ergue o rosto páli[do], emol[du]ra[do] pelos cabelos em",46140
+148,"[(60329, 0), (60330, 0), (60331, 1)]",60329,3,u,"[60329, 60330, 60331]",". Favorecia- [o] [o] mei[o] e
+
+",46215
+149,"[(61214, 2), (61217, 1), (61218, 0)]",61214,3,a,"[61214, 61217, 61218]"," tarde muitas cópias ampli[a]das.
+ re[a]lizada [a] façanha, os",46885
+150,"[(61223, 0), (61225, 1), (61226, 0)]",61223,3,a,"[61223, 61225, 61226]",", os crentes [a]companharam, re[a]tando [a] marcha, a",46891
+151,"[(61352, 0), (61352, 2), (61354, 1), (61355, 0), (61356, 1)]",61352,5,a,"[61352, 61352, 61354, 61355, 61356]"," a que se [a]li[a]vam, di[a] [a] di[a], dezenas de",46989
+152,"[(61559, 0), (61561, 0), (61562, 0)]",61559,3,a,"[61559, 61561, 61562]",", lá se [a]glomerava, [a]gregada [à] fazenda então ainda",47136
+153,"[(61784, 4), (61785, 0), (61786, 0)]",61784,3,a,"[61784, 61785, 61786]",", onde não penetrari[a] [a] [a]ção do governo maldito",47306
+154,"[(61792, 0), (61793, 1), (61794, 4)]",61792,3,a,"[61792, 61793, 61794]"," maldito.
+ [a] su[a] topografi[a] interessante modelava-",47312
+155,"[(62027, 0), (62029, 0), (62030, 1)]",62027,3,a,"[62027, 62029, 62030]"," viajantes que se [ar]riscavam
+ [a] vi[a]gens naquele sertão topavam",47482
+156,"[(62577, 0), (62578, 1), (62579, 0)]",62577,3,dZi,"[62577, 62578, 62579]"," borracha, espécie [de] bal[de] [de] couro para o",47904
+157,"[(63479, 0), (63480, 0), (63481, 2)]",63479,3,a,"[63479, 63480, 63481]", mas felizes. [a]campavam [à] gandai[a] pelo alto dos,48583
+158,"[(63889, 0), (63889, 4), (63890, 0)]",63889,3,a,"[63889, 63889, 63890]",", o casario [a]pareci[a] [a] um quilômetro,",48898
+159,"[(63975, 2), (63976, 0), (63976, 3)]",63975,3,a,"[63975, 63976, 63976]"," tiros mergulhantes. podi[a] [as]sedi[á]- lo
+",48964
+160,"[(64161, 0), (64162, 0), (64162, 2)]",64161,3,a,"[64161, 64162, 64162]"," lhe
+
+ [a] [á]re[a] mais baixa.",49102
+161,"[(64485, 3), (64486, 0), (64487, 1)]",64485,3,da,"[64485, 64486, 64487]"," si todas as comodi[da]des [da] vi[da] noutras paragens,",49349
+162,"[(64748, 0), (64749, 0), (64749, 3)]",64748,3,a,"[64748, 64749, 64749]", dos beduínos: [a] [a]propri[a]ção pessoal apenas de,49558
+163,"[(65304, 0), (65305, 1), (65307, 0)]",65304,3,da,"[65304, 65305, 65307]"," a lenta exaustão [da] vi[da]. [da]va o exemplo
+",49998
+164,"[(65800, 3), (65802, 1), (65803, 2)]",65800,3,za,"[65800, 65802, 65803]"," praça a carga valio[sa], de[sa]gradável surpre[sa]. Viram,",50376
+165,"[(66488, 0), (66490, 1), (66491, 4)]",66488,3,da,"[66488, 66490, 66491]"," os primeiros dias [da]
+ vi[da] atormenta[da] e avivam-",50898
+166,"[(66521, 0), (66521, 2), (66522, 0)]",66521,3,a,"[66521, 66521, 66522]", certo é que [a]bri[a] [a]os desventurados os celeiros,50923
+167,"[(67808, 0), (67809, 0), (67810, 4)]",67808,3,a,"[67808, 67809, 67810]","
+ cor, [a]tenuando [a] monotoni[a] das vestes encardidas",51883
+168,"[(68419, 3), (68420, 1), (68422, 1)]",68419,3,ra,"[68419, 68420, 68422]", conflitos graças à disvulne[ra]bilidade ra[ra]. e[ra] o guarda do,52349
+169,"[(68628, 0), (68628, 3), (68629, 0)]",68628,3,a,"[68628, 68628, 68629]"," Macambira, pouco [a]feiço[a]do [à] luta, de",52501
+170,"[(68786, 3), (68788, 3), (68790, 3), (68792, 4)]",68786,4,du,"[68786, 68788, 68790, 68792]"," de bacamarte, espian[do], observan[do], indagan[do], insinuan[do]- se jeitosamente",52617
+171,"[(68885, 0), (68886, 1), (68886, 3)]",68885,3,a,"[68885, 68886, 68886]"," e de
+ [a]cenderem di[a]ri[a]mente as fogueiras para",52691
+172,"[(69190, 3), (69191, 0), (69192, 1)]",69190,3,a,"[69190, 69191, 69192]"," indistinto das prédicas balbuci[a]das [à] mei[a] voz, dos",52906
+173,"[(69249, 0), (69250, 0), (69251, 2)]",69249,3,a,"[69249, 69250, 69251]","
+ a espaço [a] [a]gitação cresci[a], como se",52952
+174,"[(69258, 0), (69259, 0), (69259, 3), (69261, 0)]",69258,4,a,"[69258, 69259, 69259, 69261]"," o tumulto invadisse [a] [as]sembléi[a], [ads]trito às fórmulas de",52960
+175,"[(69360, 0), (69362, 2), (69363, 0)]",69360,3,a,"[69360, 69362, 69363]"," as em violentos [a]balos, salte[a]va [à] multidão um desvairamento",53039
+176,"[(69833, 0), (69834, 1), (69835, 4)]",69833,3,da,"[69833, 69834, 69835]"," que palejam reflexos [da] vi[da] civiliza[da], tivemos
+",53401
+177,"[(70315, 1), (70316, 3), (70317, 3)]",70315,3,ka,"[70315, 70316, 70317]"," incongruente, bem pou[ca] signifi[ca]ção políti[ca], permitindo emprestar",53778
+178,"[(70449, 2), (70451, 0), (70452, 0)]",70449,3,a,"[70449, 70451, 70452]"," o reino de lisbo[a]
+ [a]cabosse [a] monarquia
+ O",53879
+179,"[(70458, 0), (70458, 2), (70462, 0)]",70458,3,a,"[70458, 70458, 70462]"," O Brasil ficou [a]tô[a]!
+
+ [a] República era a",53886
+180,"[(70961, 0), (70961, 2), (70962, 0)]",70961,3,a,"[70961, 70961, 70962]", que não se [a]bri[a] [há] mais de ano,54251
+181,"[(72300, 2), (72306, 0), (72307, 1)]",72300,3,ka,"[72300, 72306, 72307]"," válidos se
+ desta[ca]vam:
+... [car]regando ba[ca]martes, garruchas,",55271
+182,"[(72338, 0), (72338, 3), (72340, 0)]",72338,3,a,"[72338, 72338, 72340]","..
+ [as]sisti[a]- [a] também o Conselheiro",55294
+183,"[(72570, 0), (72572, 0), (72574, 4)]",72570,3,a,"[72570, 72572, 72574]"," se com ela [a]cirrando- [a]
+ temerari[a]mente. Escolheu como",55475
+184,"[(72620, 3), (72622, 2), (72624, 0)]",72620,3,a,"[72620, 72622, 72624]"," A reação foi imedi[a]ta. chefi[a]va- [a] João Abade,",55515
+185,"[(73219, 1), (73220, 2), (73220, 3)]",73219,3,da,"[73219, 73220, 73220]"," como derivativo à vi[da] desman[da][da].
+ O",55965
+186,"[(74021, 0), (74022, 0), (74023, 0)]",74021,3,a,"[74021, 74022, 74023]"," as
+ algaras [a]venturosas [a]lugando [a] bravura aos potentados",56591
+187,"[(74958, 2), (74960, 4), (74961, 1)]",74958,3,du,"[74958, 74960, 74961]"," surpreende que hajam cresci[do], avassalan[do] to[do] o vale do",57304
+188,"[(75166, 0), (75167, 3), (75168, 0), (75169, 1)]",75166,4,da,"[75166, 75167, 75168, 75169]"," dos
+ representantes [da] autori[da]de [da]quela ci[da]de. Mas ao",57464
+189,"[(75244, 1), (75245, 0), (75246, 0)]",75244,3,a,"[75244, 75245, 75246]"," Conselho, fora co[a]gido [a] [a]bandonar
+ precipitadamente a",57529
+190,"[(75277, 0), (75279, 4), (75280, 0)]",75277,3,a,"[75277, 75279, 75280]"," Sabia que o [ad]versário
+ revidari[a] [à] provocação mais ligeira",57554
+191,"[(75296, 0), (75298, 0), (75298, 2)]",75296,3,a,"[75296, 75298, 75298]"," aquele retrucou com [a]
+ [a]me[a]ça de uma investida",57570
+192,"[(75355, 0), (75356, 0), (75357, 0)]",75355,3,dZi,"[75355, 75356, 75357]"," Leôni, juiz [de] [di]reito [de] Juazeiro, um",57615
+193,"[(75745, 1), (75746, 0), (75747, 1), (75748, 2)]",75745,4,a,"[75745, 75746, 75747, 75748]"," vida romanesca; di[a] [a] di[a] ampli[a]ra o
+ domínio",57930
+194,"[(76110, 2), (76111, 0), (76111, 2)]",76110,3,a,"[76110, 76111, 76111]"," fiéis que o rode[a]vam [ha]vi[a], em
+",58221
+195,"[(76514, 0), (76516, 0), (76517, 1)]",76514,3,a,"[76514, 76516, 76517]"," retiveram a força [a]té
+ [a]o di[a] 12 em que",58531
+196,"[(76995, 0), (76996, 1), (76997, 0)]",76995,3,pe,"[76995, 76996, 76997]",".
+ A [pe]quena ex[pe]dição [pe]netrou- a logo",58907
+197,"[(77102, 0), (77104, 0), (77105, 0)]",77102,3,a,"[77102, 77104, 77105]"," aterrados pelas novas [a]larmantes, [ha]viam [a]balado
+ para o",58988
+198,"[(77119, 0), (77120, 0), (77121, 0)]",77119,3,a,"[77119, 77120, 77121]"," cabras, únicos [a]nimais [a]feitos [à]quele clima
+ e",59002
+199,"[(77514, 2), (77515, 0), (77516, 3)]",77514,3,a,"[77514, 77515, 77516]"," breve descanso, devi[a] [a]balar imedi[a]tamente para Canudos,",59309
+200,"[(77717, 0), (77718, 0), (77718, 2)]",77717,3,a,"[77717, 77718, 77718]"," precipitado para o [ar]raial [a]me[a]çado, onde
+",59460
+201,"[(78942, 0), (78943, 0), (78944, 0)]",78942,3,a,"[78942, 78943, 78944]"," giros revoltos, [a]bandonando [a] [a]ção e dispersando-",60382
+202,"[(79179, 4), (79183, 2), (79183, 3)]",79179,3,ra,"[79179, 79183, 79183]", médico da força enlouquece[ra]... desvai[ra][ra]- o o,60557
+203,"[(79294, 2), (79296, 4), (79298, 3)]",79294,3,dus,"[79294, 79296, 79298]"," em trapos, feri[dos], estropia[dos], combali[dos], davam a",60638
+204,"[(79620, 1), (79621, 0), (79622, 1)]",79620,3,a,"[79620, 79621, 79622]",", dando, di[a] [a] di[a],
+ realce",60880
+205,"[(79828, 1), (79829, 0), (79830, 0)]",79828,3,a,"[79828, 79829, 79830]", Esta avançada já i[a] [ads]trita [a] um plano de,61046
+206,"[(79842, 0), (79843, 2), (79845, 2), (79846, 0), (79847, 0)]",79842,5,a,"[79842, 79843, 79845, 79846, 79847]", do Distrito compreendera [a] situ[a]ção. plane[a]ra [a]tacar [a] revolta por dois,61058
+207,"[(82118, 0), (82120, 0), (82121, 0)]",82118,3,a,"[82118, 82120, 82121]",", aquela flora [a]gressiva
+ [a]bre [a]o sertanejo um seio",62757
+208,"[(82908, 0), (82908, 2), (82909, 0), (82910, 4)]",82908,4,a,"[82908, 82908, 82909, 82910]"," espantalho de uma [a]me[a]ça [à] soberani[a] do Estado,",63377
+209,"[(82975, 4), (82976, 0), (82976, 3)]",82975,3,a,"[82975, 82976, 82976]", o falar em soberani[a] [a]piso[a]da pelos turbulentos impunes,63431
+210,"[(83151, 0), (83152, 1), (83154, 0), (83155, 4)]",83151,4,a,"[83151, 83152, 83154, 83155]",", que traçara [a] su[a]
+ [a]titude retiline[a]mente pela lei.",63573
+211,"[(83154, 1), (83155, 1), (83155, 6)]",83154,3,tSi,"[83154, 83155, 83155]"," a sua
+ a[ti]tude re[ti]lineamen[te] pela lei.",63575
+212,"[(83212, 0), (83213, 0), (83215, 0)]",83212,3,a,"[83212, 83213, 83215]","— que o [ad]versário [a]proveitara, [a]parelhando- se a",63623
+213,"[(84309, 0), (84310, 0), (84311, 0)]",84309,3,a,"[84309, 84310, 84311]", é por esta [a]cima [a]te [a]o vértice que se,64456
+214,"[(84473, 0), (84475, 0), (84476, 0)]",84473,3,a,"[84473, 84475, 84476]"," azul puríssimo dos [a]res, [a]té [à] última, no",64580
+215,"[(84706, 0), (84707, 0), (84708, 3)]",84706,3,a,"[84706, 84707, 84708]","
+ regular que [as]sume [a] distanci[a], tem,",64751
+216,"[(85315, 3), (85317, 3), (85319, 3), (85321, 2)]",85315,4,du,"[85315, 85317, 85319, 85321]"," Antônio Conselheiro— espian[do], observan[do], indagan[do], contan[do] o numero de",65218
+217,"[(85379, 0), (85380, 1), (85381, 3)]",85379,3,a,"[85379, 85380, 85381]", podia errar: [a] su[a] vitori[a] era fatal.,65265
+218,"[(85694, 0), (85695, 0), (85695, 3)]",85694,3,a,"[85694, 85695, 85695]", inteira; e [a] [a]legri[a] ruidosa e vibrante,65508
+219,"[(86142, 1), (86144, 2), (86144, 5)]",86142,3,tSi,"[86142, 86144, 86144]"," de toda a gen[te], posi[ti]vamen[te]— vencer.",65841
+220,"[(86577, 0), (86578, 3), (86580, 2)]",86577,3,da,"[86577, 86578, 86580]"," dos menores movimentos [da] investi[da]. ain[da] mais, sabia",66182
+221,"[(86653, 0), (86654, 2), (86655, 3)]",86653,3,da,"[86653, 86654, 86655]", Em Canudos saberiam [da] estra[da] escolhi[da] pare a linha,66239
+222,"[(86688, 0), (86689, 6), (86690, 0)]",86688,3,a,"[86688, 86689, 86690]", o alcance do [ar]raial preestabeleci[a] [a] preliminar de um,66269
+223,"[(87144, 0), (87144, 2), (87145, 0), (87146, 0)]",87144,4,a,"[87144, 87144, 87145, 87146]", combate. Não [ha]vi[a] [a]té [a] possibilidade de um,66630
+224,"[(88042, 0), (88043, 4), (88044, 3), (88045, 0)]",88042,4,a,"[88042, 88043, 88044, 88045]", este ponto. [a] artilhari[a] reduzi[a] [a] marcha. Ascendiam,67325
+225,"[(88138, 2), (88139, 0), (88140, 3)]",88138,3,a,"[88138, 88139, 88140]"," porem, mais seri[a] [a] travessi[a], metendo-",67396
+226,"[(88572, 1), (88573, 2), (88574, 1)]",88572,3,ra,"[88572, 88573, 88574]", daquela vila largou pa[ra] igno[ra]das pa[ra]gens— e não,67728
+227,"[(89600, 1), (89600, 3), (89602, 3)]",89600,3,a,"[89600, 89600, 89602]"," decorrer da campanha so[a]ri[a]
+ invari[á]vel como um estribilho",68510
+228,"[(89711, 1), (89711, 2), (89713, 3)]",89711,3,ta~,"[89711, 89711, 89713]",", numa diversão ins[tan][tâ]nea. aprovei[tan]do este
+ refluxo",68592
+229,"[(90256, 0), (90256, 2), (90257, 0)]",90256,3,a,"[90256, 90256, 90257]"," circunstância que, [a]li[a]da [a]o pequeno
+ alcance",69000
+230,"[(90434, 2), (90436, 2), (90438, 3), (90440, 2), (90442, 3)]",90434,5,du,"[90434, 90436, 90438, 90440, 90442]"," pelos pendores, subin[do], descen[do], atacan[do], fugin[do], baquean[do]
+ trespassados de",69131
+231,"[(90952, 0), (90954, 0), (90954, 3)]",90952,3,a,"[90952, 90954, 90954]"," Ali sobre barranca [a]greste, [a]vergo[a]da de algares,",69520
+232,"[(91127, 0), (91129, 0), (91131, 0)]",91127,3,a,"[91127, 91129, 91131]",". Dilatou- [a]. [a]briu- [a], de alto",69655
+233,"[(91246, 0), (91247, 0), (91248, 0)]",91246,3,a,"[91246, 91247, 91248]"," véspera, tiveram [a]penas [a]brandada [a] sede na água",69735
+234,"[(92209, 0), (92210, 2), (92211, 0)]",92209,3,da,"[92209, 92210, 92211]"," frente, antes [da] entra[da] [da]quele, outros
+",70461
+235,"[(92623, 0), (92624, 1), (92624, 4)]",92623,3,a,"[92623, 92624, 92624]"," caindo
+ sobre [a] be[a]tari[a] medrosa, João",70783
+236,"[(93083, 3), (93085, 2), (93087, 2)]",93083,3,du,"[93083, 93085, 93087]"," ficou embaixo, imprecan[do], choran[do], rezan[do]. Não olhou",71118
+237,"[(95150, 3), (95152, 2), (95152, 3)]",95150,3,da,"[95150, 95152, 95152]","
+ VI. retira[da]; deban[da][da]; fuga.",72668
+238,"[(95280, 0), (95281, 1), (95282, 4)]",95280,3,a,"[95280, 95281, 95282]"," expressivos documentos, [a] su[a] psicologi[a] interessante naquela quadra",72770
+239,"[(95520, 3), (95522, 3), (95524, 3)]",95520,3,da,"[95520, 95522, 95524]"," democráticos decaía— sofisma[da], inverti[da], anula[da].
+ Floriano",72966
+240,"[(95582, 1), (95583, 3), (95586, 3)]",95582,3,du,"[95582, 95583, 95586]"," fora de algum mo[do] contrapro[du]cente,
+ violan[do] flagrantemente um programa",73011
+241,"[(95931, 1), (95932, 0), (95934, 0)]",95931,3,ko,"[95931, 95932, 95934]"," caso vulgaríssimo de psi[co]logia [co]letiva: [co]lhida de surpresa,",73285
+242,"[(95961, 1), (95962, 1), (95964, 3)]",95961,3,da,"[95961, 95962, 95964]"," elementos condenáveis que ca[da] ci[da]dão, isola[da]mente, deplorava.",73310
+243,"[(96034, 0), (96035, 2), (96037, 0)]",96034,3,na,"[96034, 96035, 96037]",", então, [na] tribu[na], [na] imprensa e nas",73364
+244,"[(96085, 0), (96085, 2), (96086, 0)]",96085,3,a,"[96085, 96085, 96086]", pela República se [a]li[a]va [a] nativismo extemporâneo e,73404
+245,"[(96208, 0), (96209, 0), (96210, 0)]",96208,3,a,"[96208, 96209, 96210]", econômica desesperadora: [a]nelavam [a]volumar [a]quelas e tornar a,73509
+246,"[(96230, 0), (96231, 0), (96232, 0)]",96230,3,a,"[96230, 96231, 96232]"," desde o movimento [a]bolicionista [a]té [à]
+ proclamação da",73527
+247,"[(96627, 1), (96628, 2), (96630, 5), (96631, 1)]",96627,4,dus,"[96627, 96628, 96630, 96631]"," Eram legião. to[dos] sauda[dos]; amaldiçoa[dos] to[dos].
+ Ora",73836
+248,"[(96754, 0), (96756, 2), (96757, 0), (96758, 3)]",96754,4,a,"[96754, 96756, 96757, 96758]"," Nada,
+ [a]bsolutamente, traí[a] [a] energi[a] surpreendedora e temibilidade",73932
+249,"[(96820, 6), (96821, 3), (96822, 0)]",96820,3,da,"[96820, 96821, 96822]",", tendo a impenetrabili[da]de oriun[da] [da] própria
+ atonia",73986
+250,"[(97257, 0), (97258, 0), (97259, 1)]",97257,3,a,"[97257, 97258, 97259]", E se pudéssemos [a]companhar [a] su[a] vida assistiríamos ao,74321
+251,"[(97261, 0), (97261, 4), (97262, 0)]",97261,3,a,"[97261, 97261, 97262]"," a sua vida [as]sistirí[a]mos [a]o desdobramento
+ contínuo",74325
+252,"[(97420, 0), (97421, 0), (97423, 0), (97424, 0)]",97420,4,a,"[97420, 97421, 97423, 97424]"," médico militar, [a]lém [a]
+ [ar]remetida [a] faca, felizmente",74450
+253,"[(97462, 0), (97463, 1), (97464, 3)]",97462,3,a,"[97462, 97463, 97464]",", dera relevo [à] su[a] energi[a] selvagem.
+",74479
+254,"[(97484, 0), (97486, 1), (97488, 0)]",97484,3,a,"[97484, 97486, 97488]"," melhor, um [a]lucinado, cri[a]ra, [a]gindo
+ libérrimo graças",74495
+255,"[(98161, 0), (98162, 2), (98163, 0)]",98161,3,a,"[98161, 98162, 98163]", soldados. O [a]to seri[a] [a]bsolutamente inexplicável se não,75021
+256,"[(98470, 0), (98471, 4), (98472, 0)]",98470,3,a,"[98470, 98471, 98472]","
+ Realmente, [a] epilepsi[a] [a]limenta- se de",75253
+257,"[(98504, 0), (98505, 0), (98506, 0)]",98504,3,a,"[98504, 98505, 98506]"," se em uma [a]lienação [a]penas [a]fetiva,
+ solapa",75278
+258,"[(98658, 4), (98659, 0), (98660, 1)]",98658,3,da,"[98658, 98659, 98660]", sente crescer a instabili[da]de [da] vi[da]. E luta,75401
+259,"[(99618, 2), (99619, 2), (99620, 1)]",99618,3,ta,"[99618, 99619, 99620]", vertiginoso mesmo dos levan[ta]mentos mili[ta]res es[ta]va aquém dessa missão,76156
+260,"[(99626, 0), (99628, 0), (99629, 0)]",99626,3,a,"[99626, 99628, 99629]"," missão
+ de [a]fogadilho, [ads]trita [a] trianguladas fantásticas—",76163
+261,"[(100005, 4), (100006, 0), (100007, 1)]",100005,3,a,"[100005, 100006, 100007]"," não se
+ compreendi[a] [a] vi[a]gem sem que os",76462
+262,"[(100683, 0), (100683, 2), (100684, 0)]",100683,3,a,"[100683, 100683, 100684]","
+ lugares. [ha]vi[a] [a]bastança e um entusiasmo",76994
+263,"[(100775, 0), (100777, 0), (100778, 0), (100779, 0)]",100775,4,a,"[100775, 100777, 100778, 100779]"," renderem os que [a]li
+ [ha]viam [a]travessado [a] noite, velando",77066
+264,"[(101171, 0), (101172, 3), (101173, 0)]",101171,3,a,"[101171, 101172, 101173]"," tornavam
+ dificílima [a] travessi[a] [à] tropa mais robusta",77370
+265,"[(101492, 0), (101493, 1), (101494, 1)]",101492,3,dZi,"[101492, 101493, 101494]"," caminhos, e [de] on[de] po[di]am, sem
+",77619
+266,"[(101522, 0), (101523, 3), (101524, 0)]",101522,3,a,"[101522, 101523, 101524]"," armas. No [ar]raial estrugi[a] [a] orquestra estridente
+",77640
+267,"[(101758, 0), (101760, 0), (101760, 3)]",101758,3,a,"[101758, 101760, 101760]"," da desordem, [a]li
+ [a]gremi[a]ra não baianos apenas",77821
+268,"[(101835, 0), (101837, 1), (101838, 0), (101839, 1)]",101835,4,a,"[101835, 101837, 101838, 101839]",".
+ João [a]bade
+ di[a] [a] di[a] chegavam ao arraial",77879
+269,"[(101877, 0), (101878, 1), (101879, 1)]",101877,3,dZi,"[101877, 101878, 101879]"," à cinta, [de] on[de] pen[di]a a parnaíba inseparável",77912
+270,"[(101968, 0), (101969, 0), (101970, 0), (101971, 0)]",101968,4,a,"[101968, 101969, 101970, 101971]"," de onde fugira [a]pós [ha]ver [as]sassinado [a] noiva, o",77985
+271,"[(102473, 1), (102473, 3), (102475, 0)]",102473,3,a,"[102473, 102473, 102475]"," Os piquetes que di[a]ri[a]mente, [a]o clarear das manhãs",78374
+272,"[(102544, 0), (102545, 0), (102547, 0)]",102544,3,a,"[102544, 102545, 102547]"," beataria numerosa. [a]o [a]noitecer, [a]cesas as fogueiras,",78424
+273,"[(102603, 0), (102605, 0), (102607, 0)]",102603,3,a,"[102603, 102605, 102607]"," alvíssima.
+ [a]beirava- [a], [a]o findar dos terços",78465
+274,"[(103024, 1), (103025, 0), (103026, 2)]",103024,3,du,"[103024, 103025, 103026]"," a corneta ao la[do] [do] coman[do] em chefe,",78777
+275,"[(103759, 0), (103761, 0), (103762, 0)]",103759,3,a,"[103759, 103761, 103762]"," reverberar intenso das [a]reias, [a] [a]dustão da canícula.",79353
+276,"[(103782, 1), (103783, 2), (103785, 2)]",103782,3,ta,"[103782, 103783, 103785]",", a tropa es[ta]va exaus[ta]. exaus[ta] e sequiosa.",79370
+277,"[(103783, 0), (103785, 0), (103786, 0)]",103783,3,e,"[103783, 103785, 103786]", a tropa estava [e]xausta. [e]xausta [e] sequiosa. Caminhara,79371
+278,"[(104684, 0), (104684, 2), (104685, 1), (104686, 3)]",104684,4,tSi,"[104684, 104684, 104685, 104686]","
+.
+ [ti]ran[te] es[te] inciden[te] o dia passou",80055
+279,"[(104710, 0), (104711, 0), (104712, 1)]",104710,3,a,"[104710, 104711, 104712]", o esquadrão que [a]té [a]li vi[a]jara em muares imprestáveis,80079
+280,"[(104787, 0), (104787, 4), (104789, 0)]",104787,3,a,"[104787, 104787, 104789]"," Vigário a tropa [a]balari[a], [a] 3, para",80145
+281,"[(104896, 0), (104897, 0), (104899, 2)]",104896,3,a,"[104896, 104897, 104899]"," lhe vários alvitres [a]tinentes [a]
+ rode[a]rem de maiores resguardos",80227
+282,"[(105030, 0), (105032, 0), (105033, 0)]",105030,3,a,"[105030, 105032, 105033]"," 3, pelo [a]manhecer, [ads]trita [a] um plano lucidamente",80332
+283,"[(105143, 2), (105144, 0), (105145, 0)]",105143,3,dZi,"[105143, 105144, 105145]",", sob a ime[di]ata [di]reção [de] Salomão da Rocha",80420
+284,"[(105198, 3), (105199, 0), (105201, 2), (105203, 3)]",105198,4,da,"[105198, 105199, 105201, 105203]"," coronel Tamarindo, separa[da] [da]
+ esquer[da], dirigi[da] pelo capitão Felipe",80460
+285,"[(106482, 0), (106483, 0), (106485, 0)]",106482,3,a,"[106482, 106483, 106485]"," expedição, ou [a]li [a]guardando- [a], que aproveitara",81440
+286,"[(107016, 2), (107018, 0), (107019, 4)]",107016,3,du,"[107016, 107018, 107019]"," que estonteia o solda[do]
+ [du]plamente fortaleci[do] pela certeza da",81831
+287,"[(107177, 0), (107178, 1), (107179, 0)]",107177,3,dZi,"[107177, 107178, 107179]", da qual milhares [de] in[di]víduos [di]versos se fazem um,81966
+288,"[(107327, 0), (107328, 0), (107329, 1), (107330, 2)]",107327,4,a,"[107327, 107328, 107329, 107330]", invés de reprimir [a] [a]gitação i[a] ampli[á]- la.,82091
+289,"[(107414, 0), (107415, 0), (107416, 2)]",107414,3,u,"[107414, 107415, 107416]",. Obsediava- [o] [o] ansei[o] de vir logo,82155
+290,"[(107623, 0), (107624, 0), (107625, 0)]",107623,3,a,"[107623, 107624, 107625]", arrebatá- la [a]té [a]o [ar]raial naquelas condições desfavoráveis,82307
+291,"[(107707, 0), (107708, 4), (107710, 0)]",107707,3,a,"[107707, 107708, 107710]"," armas, que [a] cavalari[a], [à] retaguarda, ia",82375
+292,"[(107927, 0), (107930, 0), (107930, 4)]",107927,3,a,"[107927, 107930, 107930]"," não haviam logrado [a]tingir.
+ [a]pareci[a], de improviso",82538
+293,"[(108307, 0), (108308, 0), (108309, 0)]",108307,3,ko~,"[108307, 108308, 108309]",", breve área [com]planada [con]trastava [com] o ondear colinas",82832
+294,"[(108343, 0), (108345, 0), (108346, 2), (108347, 0)]",108343,4,a,"[108343, 108345, 108346, 108347]"," de um jardim [a]greste. [a]í caí[a] [a]
+ encosta de",82863
+295,"[(109336, 0), (109337, 0), (109338, 4)]",109336,3,a,"[109336, 109337, 109338]"," terreno uniforme, [a] [a]ção simultâne[a] e
+ igual",83600
+296,"[(109712, 0), (109712, 2), (109713, 0)]",109712,3,a,"[109712, 109712, 109713]",", em que [ha]vi[a] [a]
+
+ 196",83890
+297,"[(109821, 1), (109822, 0), (109824, 0)]",109821,3,a,"[109821, 109822, 109824]"," o âmbito de su[a] [a]ção, [à] medida
+ que",83977
+298,"[(109828, 0), (109829, 0), (109831, 0)]",109828,3,a,"[109828, 109829, 109831]"," medida
+ que [a]vançavam [a]queles, [a]té perdê- la",83982
+299,"[(110049, 0), (110051, 4), (110052, 0)]",110049,3,a,"[110049, 110051, 110052]"," de sangue. [a]
+ maiori[a] [a]vançou, batida de",84157
+300,"[(110223, 0), (110224, 0), (110225, 0)]",110223,3,a,"[110223, 110224, 110225]", espessas. Largamente [a]berto [a]os [a]gressores que podiam derruí,84289
+301,"[(110290, 0), (110292, 1), (110294, 0)]",110290,3,lu,"[110290, 110292, 110294]",", varejá- [lo], a[lu]í- [lo]; era dificílimo",84339
+302,"[(110781, 0), (110782, 0), (110784, 0), (110785, 1)]",110781,4,a,"[110781, 110782, 110784, 110785]",", atirando outros [a]o [a]caso, [à] to[a], para a",84703
+303,"[(110896, 1), (110898, 3), (110900, 0)]",110896,3,si,"[110896, 110898, 110900]"," caráter menos militar pos[sí]vel. diferen[ci]ou- [se] em
+ conflitos",84787
+304,"[(111117, 0), (111118, 0), (111120, 0)]",111117,3,a,"[111117, 111118, 111120]",- a com [a] [a]guilhada; [ar]remessando- lhe em,84950
+305,"[(111286, 0), (111286, 4), (111287, 2), (111288, 0)]",111286,4,a,"[111286, 111286, 111287, 111288]"," havia resistir. [a]tabalho[a]damente fazi[a] [a]
+ refeição num",85077
+306,"[(111893, 0), (111894, 0), (111895, 0), (111895, 3), (111896, 0), (111897, 0)]",111893,6,a,"[111893, 111894, 111895, 111895, 111896, 111897]"," Além disto, [a] [a]ção [a]brangi[a] [a]penas [a] metade do arraial",85524
+307,"[(112021, 0), (112022, 0), (112023, 2), (112024, 0)]",112021,4,a,"[112021, 112022, 112023, 112024]", aquele lado do [ar]raial [a] situ[a]ção [a]clarava- se.,85622
+308,"[(113081, 3), (113083, 4), (113085, 3)]",113081,3,du,"[113081, 113083, 113085]"," do leito, borbulhan[do], acachoan[do], estrugin[do]...",86410
+309,"[(114228, 0), (114229, 0), (114229, 2)]",114228,3,a,"[114228, 114229, 114229]", e demonstrando que [a]inda [ha]vi[a] elementos para uma,87269
+310,"[(114304, 0), (114305, 0), (114305, 3)]",114304,3,a,"[114304, 114305, 114305]","
+ Era completar [a] [a]goni[a] do valente infeliz",87328
+311,"[(114822, 0), (114822, 2), (114823, 1)]",114822,3,a,"[114822, 114822, 114823]",", que não [ha]vi[a] re[a]gir contra adversários por",87712
+312,"[(115518, 0), (115519, 0), (115520, 4)]",115518,3,a,"[115518, 115519, 115520]"," da Rocha
+ [a]penas [a] artilhari[a], na extrema",88228
+313,"[(115691, 0), (115692, 3), (115693, 4)]",115691,3,a,"[115691, 115692, 115693]"," a ferocidade e [a] cobardi[a] revolute[a]vam confundidos sob
+",88359
+314,"[(115840, 2), (115842, 2), (115844, 3)]",115840,3,du,"[115840, 115842, 115844]"," em chusma, gritan[do], corren[do], disparan[do] os
+ trabucos",88473
+315,"[(115922, 0), (115923, 3), (115924, 0)]",115922,3,a,"[115922, 115923, 115924]"," marcha.
+ [a] bateri[a] [a]final parou. Os",88531
+316,"[(117333, 1), (117335, 0), (117336, 1)]",117333,3,a,"[117333, 117335, 117336]", Canudos— uma di[á]tese. [a] ru[a] do Ouvidor e,89570
+317,"[(117926, 0), (117927, 3), (117928, 4)]",117926,3,da,"[117926, 117927, 117928]", abalava o prestígio [da] autori[da]de constituí[da] e abatia a,90004
+318,"[(117930, 0), (117930, 3), (117931, 0)]",117930,3,a,"[117930, 117930, 117931]"," autoridade constituída e [a]bati[a] [a]
+ representação do",90008
+319,"[(118643, 1), (118645, 0), (118646, 3)]",118643,3,a,"[118643, 118645, 118646]"," um desvio das ca[a]tingas. [a] correri[a] do sertão
+",90560
+320,"[(119123, 2), (119124, 2), (119126, 1)]",119123,3,ra,"[119123, 119124, 119126]"," era uma
+ tape[ra] mise[rá]vel, fo[ra] dos nossos mapas",90928
+321,"[(119288, 0), (119290, 0), (119291, 0)]",119288,3,a,"[119288, 119290, 119291]"," superior do
+ [a]contecimento. [a]quele [a]floramento originalíssimo do passado",91056
+322,"[(119293, 0), (119294, 2), (119296, 4)]",119293,3,du,"[119293, 119294, 119296]"," Aquele afloramento originalíssimo [do] passa[do], patentean[do] todas as falhas",91060
+323,"[(119360, 0), (119361, 0), (119363, 0)]",119360,3,a,"[119360, 119361, 119363]", o governo começou [a] [a]gir. [a]gir era isto—,91109
+324,"[(119482, 0), (119482, 2), (119483, 0)]",119482,3,a,"[119482, 119482, 119483]",".
+ Não [ha]vi[a] [a]certar no abstruso das",91205
+325,"[(120007, 0), (120008, 0), (120009, 3)]",120007,3,si,"[120007, 120008, 120009]", medida que a [si]tuação [se] esclare[ci]a. A pouco,91605
+326,"[(120956, 0), (120957, 0), (120958, 0)]",120956,3,a,"[120956, 120957, 120958]"," reação monárquica tomava [a]final [a] [a]titude batalhadora
+ precipitando",92317
+327,"[(121529, 1), (121530, 0), (121531, 1), (121532, 0)]",121529,4,a,"[121529, 121530, 121531, 121532]"," animadversão gratuita, di[a] [a] di[a] [a]volumando- se,",92736
+328,"[(121681, 2), (121683, 4), (121685, 3)]",121681,3,va~w~,"[121681, 121683, 121685]",", os batalhões chega[vam], desembarca[vam], atulha[vam] os
+ carros",92846
+329,"[(122132, 0), (122134, 0), (122134, 5)]",122132,3,a,"[122132, 122134, 122134]"," de reunida em [a]racaju, [a]travessari[a] Sergipe
+ até",93190
+330,"[(122403, 1), (122404, 0), (122405, 0)]",122403,3,a,"[122403, 122404, 122405]",", e, re[a]gindo [a]os [as]saltos
+ feitos apenas",93401
+331,"[(122685, 1), (122686, 0), (122687, 2)]",122685,3,a,"[122685, 122686, 122687]", o transporte das vi[a]turas [a]os line[a]mentos superiores da estratégia,93617
+332,"[(122955, 3), (122956, 0), (122957, 1)]",122955,3,a,"[122955, 122956, 122957]", não variou. continu[a]ram [a]té me[a]dos de junho os,93821
+333,"[(123507, 3), (123508, 0), (123509, 0), (123511, 0)]",123507,4,a,"[123507, 123508, 123509, 123511]"," quão útil se tornari[a] [a]o [ad]versário
+ [a]lentado por três vitórias",94274
+334,"[(124955, 1), (124957, 3), (124957, 4)]",124955,3,da,"[124955, 124957, 124957]","
+ estrada de ro[da]gem, consoli[da][da] e firme.",95399
+335,"[(125232, 0), (125235, 0), (125236, 1)]",125232,3,a,"[125232, 125235, 125236]"," seu facies topográfico [a]tormentado,
+ [a] su[a] estrutura geognóstica ainda",95607
+336,"[(125568, 0), (125570, 0), (125570, 5)]",125568,3,a,"[125568, 125570, 125570]"," da expedição por [a]li
+ [a]carretari[a] desastre completo,",95874
+337,"[(125894, 0), (125895, 0), (125896, 0), (125897, 0)]",125894,4,a,"[125894, 125895, 125896, 125897]"," mil combatentes, [a]vançou [a]té [a]o [a]racati, 46
+",96127
+338,"[(125985, 0), (125986, 3), (125987, 0)]",125985,3,du,"[125985, 125986, 125987]"," mando
+ direto [do] deputa[do] [do] quartel mestre general",96196
+339,"[(126265, 0), (126265, 4), (126266, 0)]",126265,3,a,"[126265, 126265, 126266]",". E isto [a]conteci[a] [a]os
+ demais batalhões",96414
+340,"[(126464, 2), (126465, 0), (126465, 3), (126466, 0)]",126464,4,a,"[126464, 126465, 126465, 126466]",", a Brigada gouvei[a] [a]tingi[a] [a] Gitirana, à",96566
+341,"[(126822, 0), (126823, 0), (126824, 4)]",126822,3,a,"[126822, 126823, 126824]",", logo
+ [a]pós [a] artilhari[a], o resto",96847
+342,"[(127151, 1), (127152, 0), (127153, 5)]",127151,3,dZi,"[127151, 127152, 127153]",", tinha melhores con[di]ções [de] viabilida[de]. A artilharia",97096
+343,"[(127153, 1), (127155, 0), (127156, 4)]",127153,3,a,"[127153, 127155, 127156]", melhores condições de vi[a]bilidade. [a] artilhari[a] por ali só,97098
+344,"[(127174, 0), (127175, 0), (127176, 1)]",127174,3,a,"[127174, 127175, 127176]", Pereiras. Foi [a]campar [a] mei[a]- noite na,97115
+345,"[(128100, 0), (128101, 0), (128102, 1)]",128100,3,a,"[128100, 128101, 128102]"," que se prolongaram [a]té [a]o di[a] seguinte, a",97840
+346,"[(128334, 0), (128335, 0), (128336, 4)]",128334,3,a,"[128334, 128335, 128336]"," que o
+ [a]travessasse [a] artilhari[a].
+ Um",98018
+347,"[(128365, 0), (128367, 2), (128369, 0)]",128365,3,u,"[128365, 128367, 128369]",". Dirigia- [o]
+ paje[ú]. [o] quadrilheiro famoso visara",98040
+348,"[(128793, 0), (128793, 3), (128795, 0)]",128793,3,a,"[128793, 128793, 128795]"," enquanto a vanguarda [a]tingi[a], [a]o
+ entardecer,",98362
+349,"[(130431, 2), (130433, 1), (130433, 4)]",130431,3,tSi,"[130431, 130433, 130433]"," justapostas em planos estra[ti]gráficos, ni[ti]damen[te]
+
+ 231",99611
+350,"[(130518, 0), (130519, 0), (130521, 0)]",130518,3,a,"[130518, 130519, 130521]"," ali enveredou, [a]o [a]noitecer, [a] testa da coluna",99672
+351,"[(130816, 1), (130817, 3), (130817, 5)]",130816,3,ra,"[130816, 130817, 130817]", Porque a situação e[ra] desespe[ra]do[ra]. A sua,99899
+352,"[(130996, 4), (130997, 1), (130998, 3)]",130996,3,da,"[130996, 130997, 130998]", sorte que a arremeti[da] doi[da] remata[da] por uma salva,100039
+353,"[(131104, 0), (131104, 3), (131106, 0)]",131104,3,a,"[131104, 131104, 131106]", encostas da Favela [a]vali[a]va- [a]. Estavam minadas,100123
+354,"[(131372, 3), (131373, 0), (131374, 4)]",131372,3,a,"[131372, 131373, 131374]"," fogaças.
+ continu[a] [a] fuzilari[a]
+ Era um",100327
+355,"[(131411, 2), (131414, 0), (131414, 3)]",131411,3,a,"[131411, 131414, 131414]"," nos companheiros que baque[a]vam,
+ [a]tordo[a]dos pelos estampidos,",100355
+356,"[(131593, 0), (131595, 4), (131596, 0)]",131593,3,a,"[131593, 131595, 131596]",". ª; [a]
+ artilhari[a] [a]linhou- se próxima",100498
+357,"[(131939, 1), (131940, 3), (131941, 0), (131942, 4)]",131939,4,a,"[131939, 131940, 131941, 131942]"," boca. No di[a] imedi[a]to [as]saltariam simultane[a]mente
+ por dois",100764
+358,"[(132101, 0), (132103, 0), (132104, 0)]",132101,3,a,"[132101, 132103, 132104]"," e noroeste por [a]quele, [a]brangida [a]o norte e a",100893
+359,"[(132313, 0), (132314, 0), (132315, 3)]",132313,3,a,"[132313, 132314, 132315]"," altas torres, [as]soberbando [a] casari[a] humilde
+ e",101058
+360,"[(132996, 0), (132998, 0), (132999, 0), (133001, 3)]",132996,4,a,"[132996, 132998, 132999, 133001]"," deliberava. Todos [a]giam. [a]o [a]caso, estonte[a]damente, sem campo",101582
+361,"[(133608, 4), (133610, 0), (133611, 0)]",133608,3,a,"[133608, 133610, 133611]"," 14. de infantari[a], [a]o [a]balar em reforço às",102049
+362,"[(133813, 0), (133814, 3), (133815, 0)]",133813,3,du,"[133813, 133814, 133815]"," Silva, assistente [do] deputa[do] [do]
+ quartel mestre",102203
+363,"[(133949, 0), (133949, 2), (133950, 0)]",133949,3,a,"[133949, 133949, 133950]"," o caso não [ha]vi[a] [a]os
+ triunfadores um",102311
+364,"[(134051, 0), (134053, 0), (134054, 1)]",134051,3,dZi,"[134051, 134053, 134054]"," batida no flanco [di]reito, [de] on[de] tornara
+ repelido",102395
+365,"[(134114, 1), (134115, 2), (134116, 2)]",134114,3,ta,"[134114, 134115, 134116]","
+ a expedição es[ta]va comple[ta]mente suplan[ta]da pelo inimigo.",102444
+366,"[(134525, 0), (134526, 0), (134527, 0)]",134525,3,a,"[134525, 134526, 134527]"," as preparassem
+ [a] [a]guardar [a] única coisa que",102757
+367,"[(134710, 1), (134711, 0), (134712, 2)]",134710,3,dZi,"[134710, 134711, 134712]"," eles feito pelo mol[de] [de] andra[de] Neves, um",102907
+368,"[(134759, 0), (134760, 2), (134761, 1), (134762, 0)]",134759,4,a,"[134759, 134760, 134761, 134762]"," depois de
+ [ha]ver plane[a]do fri[a]mente [a] manobra.
+",102947
+369,"[(134884, 0), (134886, 0), (134888, 0), (134890, 0)]",134884,4,a,"[134884, 134886, 134888, 134890]"," luta.
+ [a]ligeirou- [a]; [a]destrou- [a]; e como",103038
+370,"[(135278, 0), (135278, 1), (135280, 0), (135280, 1)]",135278,4,ko,"[135278, 135278, 135280, 135280]"," surpreender.
+ [co][co]robó
+ [co][co]robó, nome que",103351
+371,"[(135489, 0), (135491, 0), (135492, 0)]",135489,3,a,"[135489, 135491, 135492]"," da terra, [a]li, [a]flora [à] medida que a",103517
+372,"[(136627, 0), (136629, 0), (136631, 0)]",136627,3,a,"[136627, 136629, 136631]"," corretivos ou
+ [a]ditamentos. [a]tiravam, [a] seguro, do",104393
+373,"[(137029, 0), (137031, 0), (137031, 2)]",137029,3,a,"[137029, 137031, 137031]","- os, [a]li, [ha]vi[a] duas horas,",104697
+374,"[(138541, 2), (138543, 2), (138545, 3), (138547, 2)]",138541,4,a~,"[138541, 138543, 138545, 138547]"," deslizavam- lhes adi[an]te, recu[an]do, negace[an]do, apoi[an]do- se
+",105846
+375,"[(138543, 3), (138545, 4), (138547, 3)]",138543,3,du,"[138543, 138545, 138547]"," lhes adiante, recuan[do], negacean[do], apoian[do]- se
+",105847
+376,"[(138557, 0), (138558, 0), (138558, 2)]",138557,3,a,"[138557, 138558, 138558]"," acidentes, deslocando [a] [á]re[a] do combate,",105856
+377,"[(138697, 3), (138700, 0), (138701, 0)]",138697,3,a,"[138697, 138700, 138701]"," do mesmo modo tumultu[á]rio.
+ [a] [a]ção tornou- se",105964
+378,"[(139184, 1), (139185, 1), (139187, 2)]",139184,3,si,"[139184, 139185, 139187]"," Cocorobó, a prin[cí]pio va[ci]lante, inde[ci]so numa dilação de",106321
+379,"[(139319, 0), (139319, 2), (139320, 0)]",139319,3,a,"[139319, 139319, 139320]","
+ aqueles centauros [a]pe[a]dos [ar]remetem com os contrários",106429
+380,"[(139460, 3), (139461, 0), (139462, 0)]",139460,3,a,"[139460, 139461, 139462]","
+ em breve travessi[a] [a]té [à] confluência do Macambira",106541
+381,"[(139616, 0), (139617, 2), (139618, 1)]",139616,3,da,"[139616, 139617, 139618]"," penetrava os subúrbios [da] tremen[da] ci[da]dela. E
+",106658
+382,"[(140023, 0), (140024, 0), (140025, 0), (140025, 2)]",140023,4,a,"[140023, 140024, 140025, 140025]",". inapta para [a]branger [a] [á]re[a] extensíssima do
+",106960
+383,"[(140120, 0), (140121, 0), (140122, 0)]",140120,3,a,"[140120, 140121, 140122]"," arrebatá- los [a]té [a]o [ar]raial,
+ exaustos",107031
+384,"[(140499, 2), (140500, 1), (140502, 2)]",140499,3,ra,"[140499, 140500, 140502]",", porém, paga[ra]o du[ra]mente: tive[ra] neste dia 148",107315
+385,"[(140500, 3), (140502, 0), (140503, 1)]",140500,3,tSi,"[140500, 140502, 140503]"," porém, pagarao duramen[te]: [ti]vera nes[te] dia 148 homens",107316
+386,"[(140618, 1), (140619, 3), (140620, 1)]",140618,3,du,"[140618, 140619, 140620]"," dia 28, ten[do] avança[do] ce[do] e tomado posição",107410
+387,"[(140951, 0), (140951, 3), (140956, 0)]",140951,3,a,"[140951, 140951, 140956]"," e de completa [a]legri[a]...
+ [a] concentração almejada,",107668
+388,"[(141607, 0), (141608, 0), (141609, 0)]",141607,3,e,"[141607, 141608, 141609]"," em que se [e]quiparavam [he]róis [e] pusilânimes.
+",108175
+389,"[(142143, 0), (142144, 1), (142147, 0)]",142143,3,a,"[142143, 142144, 142147]"," se impotentes ante [a] re[a]lidade.
+ [a]pagavam- se as",108586
+390,"[(142319, 0), (142320, 1), (142320, 4)]",142319,3,si,"[142319, 142320, 142320]", não ser que [se] con[si]deras[se] tal a perigosa,108725
+391,"[(142504, 1), (142506, 5), (142508, 2)]",142504,3,da,"[142504, 142506, 142508]"," Um ou outro sol[da]do, indisciplina[da]mente, revi[da]va, disparando Os",108868
+392,"[(142512, 0), (142513, 1), (142515, 0)]",142512,3,a,"[142512, 142513, 142515]",", disparando Os [à] to[a], [a] arma, para",108873
+393,"[(142750, 0), (142751, 0), (142751, 2)]",142750,3,a,"[142750, 142751, 142751]", mortos e desatravancar [a] [á]re[a] reduzida dos fardos,109061
+394,"[(142922, 0), (142922, 3), (142925, 0)]",142922,3,a,"[142922, 142922, 142925]"," expressivos, não [a]vali[a]ra
+
+ [a]inda bem a pervicácia",109187
+395,"[(143017, 0), (143018, 0), (143019, 0)]",143017,3,a,"[143017, 143018, 143019]",". O
+ [a]campamento [a]té [à]quele momento em relativa",109264
+396,"[(143749, 0), (143749, 2), (143750, 0)]",143749,3,a,"[143749, 143749, 143750]","..
+ [ha]vi[a] [a]li uma inversão de",109812
+397,"[(144061, 1), (144063, 0), (144064, 1), (144065, 0)]",144061,4,a,"[144061, 144063, 144064, 144065]"," algum, desmoralizava di[a]
+ [a] di[a] [a] expedição, lhe",110050
+398,"[(144126, 0), (144127, 3), (144128, 0), (144129, 0)]",144126,4,a,"[144126, 144127, 144128, 144129]"," se: o [as]salto imedi[a]to [a]o [ar]raial.
+ Seja",110103
+399,"[(144150, 0), (144151, 4), (144153, 2)]",144150,3,a,"[144150, 144151, 144153]"," bem dispostas; [a] artilhari[a]
+ podi[a] continuar a bombardear",110121
+400,"[(144305, 3), (144307, 2), (144308, 0)]",144305,3,a,"[144305, 144307, 144308]"," esse comboio não existi[a]. envi[a]da [a] seu encontro,",110248
+401,"[(144332, 0), (144333, 0), (144334, 0), (144336, 0)]",144332,4,a,"[144332, 144333, 144334, 144336]"," dali o proteger [a]té [a]o [a]campamento, [a]quele
+ comandante,",110270
+402,"[(144393, 0), (144394, 2), (144396, 0)]",144393,3,dZi,"[144393, 144394, 144396]"," à aventura, [de] expe[di]entes. [de] moto próprio,",110316
+403,"[(144416, 3), (144417, 0), (144418, 1)]",144416,3,a,"[144416, 144417, 144418]",", os soldados principi[a]ram [a] re[a]lizar, isolados ou",110333
+404,"[(144915, 0), (144916, 0), (144917, 3)]",144915,3,a,"[144915, 144916, 144917]"," vez do
+ [a]nimal [a]risco negace[a]va, sinistro e",110707
+405,"[(145277, 2), (145278, 1), (145278, 3)]",145277,3,a,"[145277, 145278, 145278]", algum efeito. parti[a] di[a]ri[a]mente em batidas longas,110981
+406,"[(145354, 0), (145355, 3), (145357, 0)]",145354,3,a,"[145354, 145355, 145357]", perturbava- lhes [a] montari[a]. [a]lém do trabalho de,111039
+407,"[(145456, 0), (145458, 0), (145460, 0)]",145456,3,a,"[145456, 145458, 145460]","; circulando- [a], [ar]remessando- [a] para diante e",111116
+408,"[(145484, 1), (145484, 3), (145485, 0)]",145484,3,a,"[145484, 145484, 145485]","
+ O gado di[a]ri[a]mente [ad]quirido— oito a",111137
+409,"[(145556, 0), (145556, 3), (145557, 0)]",145556,3,a,"[145556, 145556, 145557]"," mandioca, que [a]tenu[a]vam [a] princípio a
+",111191
+410,"[(145746, 3), (145748, 4), (145750, 3)]",145746,3,dus,"[145746, 145748, 145750]"," os infelizes, mutila[dos], estropia[dos], abati[dos] de febres,",111337
+411,"[(146290, 0), (146290, 3), (146291, 0)]",146290,3,va,"[146290, 146290, 146291]"," os batalhões. [va]ria[va] [va]garosamente de rumo,",111755
+412,"[(146359, 0), (146361, 0), (146362, 0)]",146359,3,e,"[146359, 146361, 146362]", algoz de um [e]xército. [e] [e]ra- o.,111811
+413,"[(146414, 0), (146415, 0), (146416, 0), (146418, 0)]",146414,4,a,"[146414, 146415, 146416, 146418]",".
+
+ [as]salto [a]o [a]campamento. [a] matadeira
+ E",111848
+414,"[(146497, 0), (146498, 0), (146499, 0)]",146497,3,a,"[146497, 146498, 146499]", em cheio o [a]campamento [a]té [a]o centro das baterias,111909
+415,"[(146512, 1), (146513, 0), (146514, 1)]",146512,3,a,"[146512, 146513, 146514]"," canhões, que di[a] [a] di[a] lhes demoliam os",111921
+416,"[(146655, 0), (146656, 1), (146657, 0), (146658, 1)]",146655,4,a,"[146655, 146656, 146657, 146658]", O ascendente deste [a]vultava di[a] [a] di[a]. Descobriam-,112032
+417,"[(146699, 0), (146700, 0), (146700, 2)]",146699,3,a,"[146699, 146700, 146700]"," carneação e reduzindo [a] [á]re[a] do pequeno
+",112065
+418,"[(147619, 0), (147620, 1), (147621, 2)]",147619,3,a,"[147619, 147620, 147621]"," engravescer- se [a] su[a] situ[a]ção
+ precária,",112759
+419,"[(147761, 2), (147763, 3), (147765, 4)]",147761,3,du,"[147761, 147763, 147765]"," na Favela: soman[do], subtrain[do], multiplican[do] e dividindo;",112867
+420,"[(147920, 4), (147921, 0), (147925, 0)]",147920,3,a,"[147920, 147921, 147925]", tudo aquilo uma monotoni[a] [a]cabrunhadora... [a] sucessão invariável das,112984
+421,"[(148191, 2), (148193, 1), (148193, 4)]",148191,3,tSi,"[148191, 148193, 148193]"," igualmente desertas, reba[ti]das, ni[ti]damen[te], na
+",113181
+422,"[(148500, 0), (148501, 3), (148503, 0), (148504, 3)]",148500,4,u,"[148500, 148501, 148503, 148504]"," Fazia
+ calar [o] bombardei[o]. [o] silenci[o] descia amortecedoramente sobre",113421
+423,"[(148504, 0), (148504, 2), (148505, 1)]",148504,3,si,"[148504, 148504, 148505]", bombardeio. O [si]len[ci]o des[ci]a amortecedoramente sobre os,113424
+424,"[(148586, 0), (148586, 2), (148587, 0), (148588, 4)]",148586,4,a,"[148586, 148586, 148587, 148588]"," adversário que se [a]li[a]ra [à] providenci[a].
+ Imaginavam",113484
+425,"[(148645, 0), (148646, 3), (148648, 0), (148649, 0), (148650, 0)]",148645,5,a,"[148645, 148646, 148648, 148649, 148650]", jagunços. Tudo [a] sugeri[a]. [a]ceita [a]inda [a] hipótese de previrem,113527
+426,"[(148835, 0), (148836, 0), (148836, 3)]",148835,3,a,"[148835, 148836, 148836]"," misericórdia do jagunço [à]quela [a]goni[a] lenta.
+",113675
+427,"[(148985, 0), (148987, 0), (148989, 0)]",148985,3,a,"[148985, 148987, 148989]"," desesperado
+ que [a]tirava, [a]nônimo, [a]quela consulta vacilante aos",113792
+428,"[(149337, 0), (149339, 0), (149341, 1)]",149337,3,a,"[149337, 149339, 149341]"," surpreendido para tudo [a]quilo. [a]
+ su[a] corpulência de atleta",114053
+429,"[(149457, 0), (149458, 1), (149458, 4)]",149457,3,va,"[149457, 149458, 149458]"," sonoro, que [va]garosamente a[vas]sala[va] o silêncio dos",114142
+430,"[(150025, 0), (150026, 1), (150027, 2)]",150025,3,si,"[150025, 150026, 150027]", retilínea; e [se] fos[se] impul[si]onado com sucesso favorável,114576
+431,"[(150172, 2), (150173, 0), (150174, 0)]",150172,3,a,"[150172, 150173, 150174]",". Batalhão, envi[a]do [a] [a]tacá- los,",114687
+432,"[(150218, 0), (150220, 0), (150221, 3)]",150218,3,a,"[150218, 150220, 150221]"," posição em que [a]campavam. [a] travessi[a]
+
+ de",114722
+433,"[(150281, 2), (150283, 4), (150284, 1)]",150281,3,ta,"[150281, 150283, 150284]"," 30. de infan[ta]ria, imedia[ta]mente des[ta]cado
+ para a",114769
+434,"[(150368, 0), (150369, 2), (150370, 2), (150371, 0)]",150368,4,a,"[150368, 150369, 150370, 150371]"," contavam, o [a]taque plane[a]do devi[a] [a]ter- se à",114835
+435,"[(150393, 0), (150394, 3), (150395, 0)]",150393,3,a,"[150393, 150394, 150395]",", o que [a]demais impropri[a]va [a] zona mesma do",114855
+436,"[(150493, 1), (150496, 1), (150498, 0)]",150493,3,si,"[150493, 150496, 150498]"," cargas de pelotões ma[ci]ços,
+ pre[ci]pitando- [se] contra os cerros",114935
+437,"[(150759, 0), (150761, 1), (150762, 3)]",150759,3,a,"[150759, 150761, 150762]"," cada soldado procura [a]
+ su[a] companhi[a], cada companhia",115147
+438,"[(151720, 1), (151721, 0), (151722, 1)]",151720,3,a,"[151720, 151721, 151722]"," imóveis—, re[a]lizava [a] cri[a]ção rara de um",115879
+439,"[(152333, 0), (152334, 0), (152335, 0)]",152333,3,a,"[152333, 152334, 152335]"," Trabubu, os [as]saltantes [a]travessariam [a] pés enxutos o",116344
+440,"[(152701, 0), (152703, 3), (152705, 0)]",152701,3,a,"[152701, 152703, 152705]"," o olhar do [ad]versário, impropri[a]va- [a] o terreno.",116617
+441,"[(153091, 0), (153091, 3), (153093, 0), (153094, 0), (153096, 2)]",153091,5,a,"[153091, 153091, 153093, 153094, 153096]",", única banda [a]propri[a]da
+ [a]os [a]linhamentos, enfi[a]vam num labirinto de",116912
+442,"[(153108, 2), (153110, 5), (153112, 3)]",153108,3,dus,"[153108, 153110, 153112]"," breve trecho sentiamse perdi[dos], desorienta[dos], iludi[dos], sem verem",116927
+443,"[(153919, 0), (153920, 1), (153921, 2)]",153919,3,si,"[153919, 153920, 153921]"," flanco que, [se] fos[se] impul[si]onado com energia,",117519
+444,"[(153946, 0), (153947, 1), (153948, 0)]",153946,3,a,"[153946, 153947, 153948]"," porém, que [a]queles re[a]lizavam [a]penas uma demonstração ligeira",117537
+445,"[(154047, 0), (154050, 0), (154051, 0)]",154047,3,a,"[154047, 154050, 154051]"," uma ladeira menos [a]brupta,
+ [a]té [a]o alto de um",117614
+446,"[(154099, 4), (154102, 0), (154103, 2)]",154099,3,a,"[154099, 154102, 154103]"," alguns pelotões de infantari[a].
+ [a] situ[a]ção era culminante.",117651
+447,"[(154219, 2), (154221, 2), (154222, 2), (154224, 1)]",154219,4,ta,"[154219, 154221, 154222, 154224]"," centro para a direi[ta], comple[ta]mente expos[ta], es[ta]va
+ dominada pelas",117742
+448,"[(154328, 2), (154329, 1), (154330, 2)]",154328,3,du,"[154328, 154329, 154330]", súbitas. Cada solda[do] ten[do] leva[do] somente 150 cartuchos,117826
+449,"[(154581, 0), (154583, 0), (154584, 0)]",154581,3,a,"[154581, 154583, 154584]"," lance devassavam. [ar]remeteram, [a]o [a]caso, na direção",118010
+450,"[(154601, 0), (154602, 0), (154602, 4)]",154601,3,a,"[154601, 154602, 154602]", única árvore que [a]li [a]pareci[a]. Os tiros,118025
+451,"[(154669, 0), (154669, 2), (154670, 0)]",154669,3,a,"[154669, 154669, 154670]",", onde não [ha]vi[a] [a] ondulação mais ligeira",118073
+452,"[(154830, 0), (154831, 0), (154832, 2)]",154830,3,de,"[154830, 154831, 154832]",". Os sertanejos [de]salojados [des]ses escon[de]rijos
+ acolhiam-",118200
+453,"[(155304, 0), (155305, 0), (155306, 0)]",155304,3,a,"[155304, 155305, 155306]"," que se tinham [a]vantajado [a]té [a]o cemitério junto
+",118562
+454,"[(155549, 0), (155550, 0), (155550, 2)]",155549,3,a,"[155549, 155550, 155550]", reduzindo a batalha [à] [á]re[a] estreita em que,118755
+455,"[(155606, 0), (155608, 0), (155609, 1)]",155606,3,a,"[155606, 155608, 155609]"," a braço, [a]giam, [à] to[a], por conta",118799
+456,"[(155845, 1), (155846, 0), (155847, 0)]",155845,3,a,"[155845, 155846, 155847]"," a expedição se vi[a] [ads]trita [a] estacar, encravando",118981
+457,"[(156125, 0), (156127, 0), (156128, 1)]",156125,3,se,"[156125, 156127, 156128]",", junto ao [ce]mitério. [se]guiamse su[ces]sivamente: o 25",119191
+458,"[(156327, 0), (156328, 0), (156329, 4)]",156327,3,a,"[156327, 156328, 156329]"," implacável.
+ [a]frouxara [a] fuzilari[a], mas para",119332
+459,"[(156394, 0), (156395, 0), (156395, 2), (156397, 0)]",156394,4,a,"[156394, 156395, 156395, 156397]"," Favela.
+ [a]li [ha]vi[a], [a]o menos, a",119387
+460,"[(156543, 0), (156544, 0), (156546, 2)]",156543,3,a,"[156543, 156544, 156546]",", calmamente, [a] [a]ve- mari[a]; e,",119498
+461,"[(157192, 0), (157192, 2), (157193, 1)]",157192,3,a,"[157192, 157192, 157193]","
+ qual não [ha]vi[a] re[a]ção possível. As",119995
+462,"[(157602, 2), (157604, 2), (157606, 0)]",157602,3,a,"[157602, 157604, 157606]"," que estava
+ siti[a]da. tolhi[a]- [a] o arraial a",120321
+463,"[(157641, 0), (157642, 0), (157642, 2)]",157641,3,a,"[157641, 157642, 157642]", deserto impenetrável. [a] [á]re[a] da sua ação,120353
+464,"[(157644, 1), (157645, 0), (157647, 0)]",157644,3,a,"[157644, 157645, 157647]"," A área da su[a] [a]ção
+ [a]parentemente aumentara. Dois",120356
+465,"[(158249, 0), (158249, 3), (158250, 0)]",158249,3,a,"[158249, 158249, 158250]","
+ Um inimigo [ha]bitu[a]do [à] luta regular que",120818
+466,"[(158660, 1), (158661, 0), (158662, 2)]",158660,3,da,"[158660, 158661, 158662]",", que os sol[da]dos [da] vanguar[da]
+ aproveitavam para",121144
+467,"[(158784, 0), (158785, 0), (158786, 1)]",158784,3,a,"[158784, 158785, 158786]", em traços largos [a]té [a]o di[a] 24 de julho,121243
+468,"[(159116, 0), (159117, 0), (159118, 3)]",159116,3,a,"[159116, 159117, 159118]"," 22— Sem [a]guardar [a] inici[a]tiva do adversário,",121503
+469,"[(159120, 0), (159122, 0), (159123, 4), (159124, 0)]",159120,4,a,"[159120, 159122, 159123, 159124]"," a iniciativa do [ad]versário, [a] artilhari[a] [a]bre o canhoneio às",121507
+470,"[(159402, 0), (159403, 0), (159404, 3)]",159402,3,u,"[159402, 159403, 159404]", tempo trucida- [o] [o] canhonei[o] impunemente. Às,121731
+471,"[(159777, 1), (159778, 0), (159779, 2)]",159777,3,tSi,"[159777, 159778, 159779]", inimigo. À noi[te] [ti]rotear constan[te] até a madrugada,122014
+472,"[(160298, 2), (160299, 4), (160300, 2)]",160298,3,tSi,"[160298, 160299, 160300]"," de Canudos! faná[ti]cos visivelmen[te] aba[ti]dos!
+ Mais",122415
+473,"[(160375, 4), (160376, 0), (160377, 0)]",160375,3,a,"[160375, 160376, 160377]"," por praças de infantari[a] [a]té [a]o extremo
+ sul",122471
+474,"[(160526, 1), (160527, 0), (160528, 1)]",160526,3,a,"[160526, 160527, 160528]", despindo- se di[a] [a] di[a] das folhas e,122583
+475,"[(161586, 1), (161587, 0), (161588, 0), (161588, 3)]",161586,4,a,"[161586, 161587, 161588, 161588]",", mal
+ re[a]gindo [à] [a]trofi[a] no fundo das",123389
+476,"[(161969, 0), (161972, 0), (161972, 4)]",161969,3,a,"[161969, 161972, 161972]"," a que se [ha]viam
+
+ [a]querenci[a] do, o",123686
+477,"[(162714, 3), (162716, 0), (162717, 0)]",162714,3,a,"[162714, 162716, 162717]"," surda— energias encade[a]das, [a]dormecidas [a]penas, prestes a",124234
+478,"[(163561, 1), (163563, 0), (163563, 2)]",163561,3,a,"[163561, 163563, 163563]", abrigava por um di[a]. [ha]vi[a]- o deixado,124869
+479,"[(164333, 1), (164333, 3), (164334, 0)]",164333,3,a,"[164333, 164333, 164334]"," Jequitaia, contemplava di[a]ri[a]mente [a] passagem do heroísmo",125459
+480,"[(165261, 0), (165262, 0), (165264, 2)]",165261,3,a,"[165261, 165262, 165264]"," diuturnamente pormenores que [a] [a]cirravam. sabi[a]- se,",126168
+481,"[(166676, 1), (166678, 0), (166679, 1)]",166676,3,a,"[166676, 166678, 166679]",", cuja feição di[a]
+ [a] di[a] se agravava num",127248
+482,"[(167733, 3), (167735, 3), (167737, 3), (167739, 2), (167741, 2), (167743, 2)]",167733,6,du,"[167733, 167735, 167737, 167739, 167741, 167743]"," salva—
+ chamusca[do], balea[do], golpea[do]— corren[do], saltan[do], rolan[do],
+ impalpável",128018
+483,"[(167890, 0), (167892, 0), (167892, 2)]",167890,3,dZis,"[167890, 167892, 167892]"," opiniões como sempre [dis]paratavam, [dis]cor[des]. Para a",128132
+484,"[(169391, 0), (169392, 2), (169394, 0)]",169391,3,a,"[169391, 169392, 169394]"," em agosto para [a] bahi[a], [a]o tempo que de",129275
+485,"[(169586, 0), (169587, 2), (169588, 0), (169588, 3)]",169586,4,a,"[169586, 169587, 169588, 169588]", entrelaçamento belíssimo. [a] bahi[a] [a]tavi[a]ra- se para,129430
+486,"[(169615, 0), (169616, 0), (169618, 0), (169618, 3)]",169615,4,a,"[169615, 169616, 169618, 169618]"," e, partida [a] [ha]bitual
+ [a]pati[a], revestiu a",129451
+487,"[(169970, 0), (169971, 2), (169974, 3)]",169970,3,a,"[169970, 169971, 169974]",". Chegavam destacadamente [à] bahi[a];
+ munici[a]vam- se e",129723
+488,"[(172086, 0), (172087, 1), (172089, 0)]",172086,3,a,"[172086, 172087, 172089]"," mais caluniado dos [a]nimais i[a]
+ [as]sentar, dominadoramente,",131336
+489,"[(172688, 0), (172688, 2), (172690, 0)]",172688,3,a,"[172688, 172688, 172690]"," fim a existência [a]le[a]tória, [a] terços de rações",131795
+490,"[(173055, 2), (173056, 1), (173058, 0)]",173055,3,si,"[173055, 173056, 173058]", inamolgáveis. E pare[ci]am dis[ci]plinar- [se]. Correspondiam-,132084
+491,"[(173211, 0), (173212, 0), (173213, 0)]",173211,3,a,"[173211, 173212, 173213]"," daquele outro
+ [as]sédio [a]barcando [a] tropa. Os",132203
+492,"[(173526, 5), (173529, 2), (173530, 3)]",173526,3,du,"[173526, 173529, 173530]"," pelos ares, revolutean[do],
+ estri[du]lamento badalan[do], como se",132455
+493,"[(173562, 0), (173562, 2), (173563, 1), (173564, 3)]",173562,4,tSi,"[173562, 173562, 173563, 173564]","
+ Mas, [ti]ran[te] es[te] inciden[te], fora perdida",132480
+494,"[(173611, 0), (173612, 0), (173614, 0), (173616, 1)]",173611,4,a,"[173611, 173612, 173614, 173616]"," pela noite dentro [a]té [a]o
+ [a]manhecer. re[a]tou- se durante",132518
+495,"[(173872, 0), (173873, 2), (173874, 3)]",173872,3,a,"[173872, 173873, 173874]",", porém, [a] situ[a]ção mudari[a]. Canudos teria",132710
+496,"[(174993, 3), (174995, 1), (174996, 0), (174997, 1)]",174993,4,a,"[174993, 174995, 174996, 174997]"," de matutos lhes devolvi[a], di[a] [a] di[a], mutilados
+",133535
+497,"[(175499, 2), (175500, 0), (175501, 0)]",175499,3,a,"[175499, 175500, 175501]",",
+ porque desci[a] [a]té [a]os ombros, um",133923
+498,"[(175977, 0), (175977, 2), (175978, 0)]",175977,3,a,"[175977, 175977, 175978]","- lhe se [ha]vi[a] [a]tirado com ela,",134280
+499,"[(176148, 0), (176149, 0), (176150, 4)]",176148,3,a,"[176148, 176149, 176150]"," aproveitassem os caminhos [a]bertos [à] artilhari[a]
+ para uma",134414
+500,"[(176253, 1), (176254, 0), (176255, 0)]",176253,3,a,"[176253, 176254, 176255]"," Carlos Eugênio, i[a] [a]tingir [a] base das
+",134499
+501,"[(176272, 0), (176273, 0), (176275, 1)]",176272,3,a,"[176272, 176273, 176275]"," pelas fadigas que [as]saltaram [a]
+ su[a] comitiva bem montada",134516
+502,"[(176339, 0), (176339, 3), (176341, 0), (176342, 0)]",176339,4,a,"[176339, 176339, 176341, 176342]"," e passo se [a]centu[a]va, [a]companhando [a] aspereza
+
+",134570
+503,"[(176482, 4), (176485, 3), (176487, 5)]",176482,3,me~,"[176482, 176485, 176487]"," e ruidosa dos abarraca[men]tos,
+ soturna[men]te, silenciosa[men]te; acúmulo entristecedor",134683
+504,"[(177138, 0), (177139, 0), (177139, 3)]",177138,3,a,"[177138, 177139, 177139]","
+ franciscanos, [a]li [a]colhi[a] os romeiros sem",135186
+505,"[(177881, 0), (177882, 2), (177883, 0)]",177881,3,da,"[177881, 177882, 177883]", desinteressados alguns alunos [da] facul[da]de [da] Bahia. Formou,135748
+506,"[(177916, 3), (177916, 6), (177918, 5)]",177916,3,tSi,"[177916, 177916, 177918]","— se ultimou defini[ti]vamen[te]. diariamen[te] quase, chegavam",135776
+507,"[(178158, 0), (178158, 2), (178159, 0)]",178158,3,a,"[178158, 178158, 178159]", bala de carabina [ha]vi[a] [a]batido no arraial um,135970
+508,"[(178252, 0), (178253, 0), (178255, 0)]",178252,3,a,"[178252, 178253, 178255]","
+ tendo levado [a]o [ar]raial, [a]o invés de granadas",136043
+509,"[(178537, 0), (178538, 4), (178540, 0)]",178537,3,a,"[178537, 178538, 178540]"," inteiro, calando [a] fuzilari[a], [a]troou os ares em",136257
+510,"[(179065, 2), (179066, 3), (179067, 0), (179068, 2)]",179065,4,da,"[179065, 179066, 179067, 179068]"," em torno à viven[da] estruí[da] [da] fazen[da] Velha.
+",136666
+511,"[(179224, 0), (179226, 0), (179228, 4)]",179224,3,a,"[179224, 179226, 179228]"," Setembro sobranceava o [ar]raial. [a]
+ periferi[a] do sítio aumentara",136793
+512,"[(179325, 2), (179327, 0), (179329, 2), (179331, 0)]",179325,4,a,"[179325, 179327, 179329, 179331]"," campanha.
+ ide[a]ra- [a], plane[a]ra- [a] e executara-",136870
+513,"[(179682, 0), (179684, 0), (179685, 2)]",179682,3,a,"[179682, 179684, 179685]",. Um exército [a]travessando- [a] dari[a] todo o flanco,137146
+514,"[(179889, 2), (179891, 0), (179892, 3)]",179889,3,a,"[179889, 179891, 179892]"," sítio da
+ várze[a], [a]parentando travessi[a] fácil mas realmente",137305
+515,"[(180389, 1), (180390, 1), (180392, 1)]",180389,3,ma,"[180389, 180390, 180392]",", adotada a mes[ma] nor[ma], to[ma]ria pelo caminho do",137696
+516,"[(180420, 0), (180420, 4), (180421, 0)]",180420,3,a,"[180420, 180420, 180421]","
+ desastre maior [a]gravari[a] [a] campanha. Tinham",137721
+517,"[(180934, 0), (180936, 0), (180936, 3)]",180934,3,a,"[180934, 180936, 180936]",", marchando
+ [a]forradamente, [a]guilho[a]da identicamente pelo anelo",138113
+518,"[(181084, 4), (181085, 0), (181086, 0)]",181084,3,a,"[181084, 181085, 181086]"," misterioso, que conservari[a] [a]té [a]o fim.
+",138227
+519,"[(181500, 0), (181500, 2), (181501, 0)]",181500,3,a,"[181500, 181500, 181501]",".
+ Nada [ha]vi[a] [a] temer- se",138545
+520,"[(181919, 0), (181919, 3), (181920, 0)]",181919,3,a,"[181919, 181919, 181920]", e grande que [a]brangi[a] [a] natureza adormecida e,138849
+521,"[(181923, 0), (181924, 1), (181927, 0)]",181923,3,e,"[181923, 181924, 181927]"," a natureza adormecida [e] qui[e]ta.
+ [e] fora um rebate",138853
+522,"[(182115, 3), (182116, 0), (182117, 1)]",182115,3,a,"[182115, 182116, 182117]", agora não lhes faltari[a] [a] mei[a] ração de glória,139000
+523,"[(182245, 2), (182248, 0), (182248, 2)]",182245,3,a,"[182245, 182248, 182248]"," de um novo povo[a]do.
+ [ha]vi[a]- se reconstruído",139099
+524,"[(182465, 0), (182465, 2), (182466, 3)]",182465,3,a,"[182465, 182465, 182466]", na rota o [ha]vi[a] desnorte[a]do para o meio,139269
+525,"[(182473, 0), (182476, 0), (182477, 0)]",182473,3,a,"[182473, 182476, 182477]"," dos jagunços— [a]té
+
+ [a]tingir [a] tenda do general",139276
+526,"[(183903, 2), (183904, 0), (183905, 0)]",183903,3,a,"[183903, 183904, 183905]"," a praça, fazi[a] [a]o [a]caso um reclamo qualquer",140372
+527,"[(183920, 0), (183920, 3), (183921, 0)]",183920,3,a,"[183920, 183920, 183921]"," primeiro que lhe [a]cudi[a] [a]o intento, com",140386
+528,"[(184042, 0), (184044, 0), (184045, 0)]",184042,3,a,"[184042, 184044, 184045]"," delongava- se [a]té
+ [a]pontar [a] primeira divergência de",140482
+529,"[(184128, 0), (184129, 4), (184130, 0)]",184128,3,a,"[184128, 184129, 184130]"," Francisco. Se [a] fuzilari[a] [a]pertava, pulavam de",140543
+530,"[(184147, 4), (184149, 2), (184149, 5)]",184147,3,tSi,"[184147, 184149, 184149]"," como demônios, terrivelmen[te], frene[ti]camen[te], disparando as",140557
+531,"[(184225, 0), (184226, 0), (184227, 2)]",184225,3,a,"[184225, 184226, 184227]", a gente se [a]daptara [à] situ[a]ção. O espetáculo,140614
+532,"[(184566, 2), (184567, 2), (184568, 2)]",184566,3,ra,"[184566, 184567, 184568]","
+ rebotalho da sea[ra] guerrei[ra] intei[ra]mente ceifada— porque",140882
+533,"[(185260, 0), (185261, 0), (185262, 0)]",185260,3,a,"[185260, 185261, 185262]",", levando- [a] [a] [a]bsoluto jejum. E",141415
+534,"[(185303, 1), (185304, 4), (185305, 0)]",185303,3,du,"[185303, 185304, 185305]"," e frio, ten[do] aconchega[do] [do] peito um crucifixo",141447
+535,"[(185391, 0), (185392, 1), (185392, 4)]",185391,3,a,"[185391, 185392, 185392]"," logo
+ que [a] be[a]tari[a] impressionada notou a",141514
+536,"[(185628, 0), (185629, 0), (185630, 2)]",185628,3,a,"[185628, 185629, 185630]","- Nova, [a]bandonavam [a] povo[a]ção, tomando por",141695
+537,"[(185735, 0), (185737, 0), (185738, 0)]",185735,3,a,"[185735, 185737, 185738]",; o do [a]mazonas; [a] [a]la direita do de,141777
+538,"[(187296, 0), (187297, 2), (187298, 2)]",187296,3,si,"[187296, 187297, 187298]",", alongando- [se] guarne[ci]das suces[si]vamente pelo 31.",142929
+539,"[(187541, 0), (187542, 0), (187543, 1)]",187541,3,a,"[187541, 187542, 187543]"," no visto, [a]té [a]quele di[a], astucioso,",143095
+540,"[(188255, 0), (188259, 0), (188260, 2)]",188255,3,a,"[188255, 188259, 188260]"," à entrada do [a]campamento.
+
+ [a] situ[a]ção tornou- se",143619
+541,"[(188533, 3), (188536, 4), (188538, 3), (188540, 3)]",188533,4,du,"[188533, 188536, 188538, 188540]"," das tendas, estralan[do],
+ ricochetan[do], ressaltan[do], desparzin[do] nos flancos das",143832
+542,"[(189117, 2), (189120, 1), (189122, 3)]",189117,3,ta,"[189117, 189120, 189122]"," de sangue— assus[ta]va.
+ tar[ta]mudeou, desajei[ta]damente, algumas frases",144270
+543,"[(189578, 0), (189579, 2), (189579, 4)]",189578,3,si,"[189578, 189579, 189579]"," que o laço [se] ante[ci]pas[se] à faca
+",144610
+544,"[(189589, 0), (189590, 0), (189591, 0)]",189589,3,a,"[189589, 189590, 189591]", à degola. [a]vançar [a]té [à] primeira covanca profunda,144619
+545,"[(189985, 0), (189986, 0), (189986, 2)]",189985,3,a,"[189985, 189986, 189986]"," negros puros que [a]li [ha]vi[a], preso em",144917
+546,"[(190082, 0), (190082, 3), (190084, 5)]",190082,3,a,"[190082, 190082, 190084]"," o prognatismo se [a]centu[a]ra, desapareci[a] na
+ lanugem",144994
+547,"[(190382, 1), (190383, 4), (190384, 1)]",190382,3,tSi,"[190382, 190383, 190384]","
+ numa bela a[ti]tude singularmen[te] al[ti]va. A cabeça",145215
+548,"[(190533, 1), (190534, 0), (190534, 1)]",190533,3,ma,"[190533, 190534, 190534]"," o caso de u[ma] [ma][ma]luca
+ quarentona,",145328
+549,"[(190899, 0), (190901, 0), (190903, 0)]",190899,3,a,"[190899, 190901, 190903]"," desvelo, andando [a]qui, [a]li, [à] cata de uma",145594
+550,"[(191252, 2), (191253, 0), (191254, 0)]",191252,3,a,"[191252, 191253, 191254]"," A História não iri[a] [a]té [a]li.
+
+",145857
+551,"[(191844, 0), (191845, 0), (191848, 0)]",191844,3,a,"[191844, 191845, 191848]"," motivos graves para [a]quele [a]to.
+ [a] derrocada de Canudos",146302
+552,"[(192235, 2), (192238, 2), (192240, 0)]",192235,3,a,"[192235, 192238, 192240]"," Romperiam pela praça vazi[a].
+ enfi[a]riam, [a] marche- marche",146603
+553,"[(192409, 3), (192411, 2), (192413, 3)]",192409,3,dus,"[192409, 192411, 192413]",", famintos, balea[dos], queima[dos], dessangra[dos] gota a gota",146725
+554,"[(192435, 1), (192436, 0), (192437, 1)]",192435,3,a,"[192435, 192436, 192437]"," mortas, sucumbindo di[a] [a] di[a] num
+ esgotamento",146744
+555,"[(192460, 2), (192461, 0), (192462, 3)]",192460,3,du,"[192460, 192461, 192462]", de misericórdia no ouvi[do] [do] fuzila[do]. E cobrariam,146765
+556,"[(192576, 3), (192577, 0), (192578, 0)]",192576,3,a,"[192576, 192577, 192578]", em poder daqueles reduzi[a]se [a]gora [a] menos de terço,146852
+557,"[(192628, 0), (192630, 0), (192632, 0)]",192628,3,a,"[192628, 192630, 192632]",", o do [a]mazonas, [a]
+ [a]la direita do de",146884
+558,"[(192925, 0), (192926, 0), (192927, 0)]",192925,3,a,"[192925, 192926, 192927]",". Ninguém se [a]balançara [a]inda [a]
+ tomar as",147108
+559,"[(193036, 0), (193037, 1), (193038, 2)]",193036,3,dZi,"[193036, 193037, 193038]"," das trincheiras, [de] on[de] respon[di]am aos
+ ataques",147195
+560,"[(193600, 0), (193601, 0), (193602, 2)]",193600,3,a,"[193600, 193601, 193602]","
+ vencido. [a]demais [a] situ[a]ção não requeria maiores",147615
+561,"[(194112, 2), (194114, 3), (194116, 1)]",194112,3,tus,"[194112, 194114, 194116]"," fato, transcorridos minu[tos], indistin[tos], vul[tos] diluídos no escuro",147996
+562,"[(194340, 0), (194342, 0), (194343, 0)]",194340,3,e,"[194340, 194342, 194343]"," que custavam
+ [he]catombes. [e] [e]ra um líquido suspeito",148156
+563,"[(194732, 2), (194733, 1), (194734, 0)]",194732,3,pa,"[194732, 194733, 194734]", se já no acam[pa]mento pre[pa]rativos [pa]ra a volta;,148447
+564,"[(195008, 2), (195009, 0), (195010, 0)]",195008,3,a,"[195008, 195009, 195010]"," a marcha se fazi[a] [ads]trita [a] desvios
+ tortuosos",148660
+565,"[(195190, 5), (195192, 1), (195195, 2)]",195190,3,tSi,"[195190, 195192, 195195]"," se desenhavam, salteadamen[te], ní[ti]dos,
+ esba[ti]da a brancura das",148798
+566,"[(195580, 1), (195581, 0), (195582, 3)]",195580,3,da,"[195580, 195581, 195582]",", da outra ban[da] [da] paliça[da]...",149074
+567,"[(195813, 2), (195814, 2), (195816, 1)]",195813,3,vi,"[195813, 195814, 195816]"," por ela em sua[ve] decli[ve], di[vi]sando- se no",149247
+568,"[(196332, 0), (196333, 0), (196333, 4)]",196332,3,a,"[196332, 196333, 196333]",", parecendo refletir [a] [a]dinami[a] do mesmo esgotamento",149641
+569,"[(196405, 2), (196406, 4), (196409, 2)]",196405,3,dus,"[196405, 196406, 196409]","- se os solda[dos] esfrangalha[dos],
+ imun[dos], sem bonés",149696
+570,"[(196512, 0), (196512, 4), (196512, 6)]",196512,3,a,"[196512, 196512, 196512]",. Nem o [a]traiço[a]ri[a] palmar ignorância dos,149778
+571,"[(196587, 0), (196589, 0), (196591, 0)]",196587,3,a,"[196587, 196589, 196591]"," ensejo.
+ [a]qui, [a]li, [à] retaguarda da linha",149836
+572,"[(196918, 1), (196919, 0), (196920, 2)]",196918,3,da,"[196918, 196919, 196920]"," acaroados com a bor[da] [da] tapa[da] sinistra, espectantes",150081
+573,"[(197146, 0), (197146, 2), (197148, 0)]",197146,3,a,"[197146, 197146, 197148]",", em rosnaduras [a]me[a]çadoras, [a]divinhando no visitante o",150237
+574,"[(197253, 0), (197255, 0), (197256, 1)]",197253,3,a,"[197253, 197255, 197256]"," subindo e
+ [a]travessando, [à] mei[a] encosta, a",150318
+575,"[(197775, 3), (197779, 2), (197781, 3)]",197775,3,du,"[197775, 197779, 197781]"," esmagamento completo, arruina[do],
+
+ queima[do], devasta[do]...",150701
+576,"[(197958, 0), (197959, 2), (197960, 3)]",197958,3,a,"[197958, 197959, 197960]",".
+ O [as]salto seri[a] inici[a]do por duas brigadas",150840
+577,"[(198322, 0), (198322, 2), (198323, 0)]",198322,3,a,"[198322, 198322, 198323]", hora a estreita [á]re[a] [a] expugnar- se,151119
+578,"[(198397, 2), (198398, 0), (198399, 2)]",198397,3,du,"[198397, 198398, 198399]"," ao toque geral parti[do] [do] coman[do] em chefe,",151177
+579,"[(198404, 4), (198406, 0), (198409, 3), (198410, 0)]",198404,4,a,"[198404, 198406, 198409, 198410]"," chefe, de infantari[a]
+ [a]vançar!, seguiri[a] [a] marche- marche",151183
+580,"[(198541, 0), (198542, 0), (198543, 0), (198544, 0)]",198541,4,a,"[198541, 198542, 198543, 198544]"," das baterias próximas [a]o [a]campamento [a]té [a]o redente extremo,",151282
+581,"[(199165, 0), (199166, 2), (199167, 3)]",199165,3,da,"[199165, 199166, 199167]", trás dos blocos [da] facha[da] destruí[da]; viam-,151747
+582,"[(199551, 2), (199553, 2), (199555, 4)]",199551,3,va~w~,"[199551, 199553, 199555]"," com que não conta[vam], para[vam], entrincheira[vam]- se;",152030
+583,"[(199913, 2), (199915, 1), (199916, 0)]",199913,3,a,"[199913, 199915, 199916]"," absorvera o reforço envi[a]do; i[a] [a]bsolver
+ batalhões inteiros",152295
+584,"[(201176, 0), (201177, 0), (201177, 2)]",201176,3,a,"[201176, 201177, 201177]"," espanto, retumbou [a] [a]tro[a]da de
+ explosões",153233
+585,"[(201308, 0), (201309, 0), (201309, 3)]",201308,3,a,"[201308, 201309, 201309]"," entrincheiramentos.
+ [a]diante [a]tordo[a]va- os assonância",153334
+586,"[(201509, 2), (201510, 3), (201513, 4)]",201509,3,dus,"[201509, 201510, 201513]"," mascarras, bustos desnu[dos] chamusca[dos],
+ escoria[dos], embatendo-",153484
+587,"[(201618, 3), (201619, 0), (201621, 2)]",201618,3,a,"[201618, 201619, 201621]","
+ uma mesma companhi[a] [a]vançavam, recu[a]vam ou imobilizavam-",153565
+588,"[(201874, 0), (201875, 4), (201875, 7)]",201874,3,tSi,"[201874, 201875, 201875]"," o ataque, [ti]rou entusias[ti]camen[te] o chapéu,",153758
+589,"[(201927, 1), (201928, 1), (201930, 3)]",201927,3,ma,"[201927, 201928, 201930]"," destino. Era u[ma] al[ma]
+ belíssi[ma], de valente",153794
+590,"[(202020, 2), (202021, 3), (202022, 1)]",202020,3,ra,"[202020, 202021, 202022]","- se em tortu[ra] inatu[rá]vel pa[ra] os dois
+",153861
+591,"[(202051, 0), (202053, 0), (202053, 3)]",202051,3,a,"[202051, 202053, 202053]"," coluna extrema do [a]campamento, [a]vali[a]vam- nas pela",153885
+592,"[(202080, 2), (202080, 3), (202082, 0)]",202080,3,va,"[202080, 202080, 202082]",", embaixo; deri[va][va]
+ [va]garosa na ascensão contorneando",153906
+593,"[(202400, 3), (202402, 2), (202404, 4)]",202400,3,du,"[202400, 202402, 202404]"," e flamas, fulguran[do], rolan[do], arrebentan[do] e detonando de",154143
+594,"[(203985, 0), (203986, 0), (203987, 0)]",203985,3,a,"[203985, 203986, 203987]",", volvendo
+ [a]o [a]campamento [à] sagração do martírio",155315
+595,"[(204744, 2), (204747, 2), (204749, 2)]",204744,3,du,"[204744, 204747, 204749]"," adolescentes franzinos, choran[do],
+ claman[do], corren[do]. Os menores",155881
+596,"[(204769, 0), (204769, 2), (204770, 1)]",204769,3,a,"[204769, 204769, 204770]", daqueles valentes que [ha]vi[a] mei[a] hora ainda jogavam,155901
+597,"[(204841, 0), (204843, 0), (204844, 0)]",204841,3,a,"[204841, 204843, 204844]"," e nervosa e [a]gitante, [á]gil [a]pesar da idade,",155957
+598,"[(204880, 0), (204881, 0), (204882, 0)]",204880,3,a,"[204880, 204881, 204882]"," grupos miserandos, [a]traindo [a] [a]tenção geral. Tinha",155984
+599,"[(204892, 0), (204895, 1), (204897, 3)]",204892,3,ne,"[204892, 204895, 204897]"," uma menina, [ne]ta,
+ bis[ne]ta, tatara[ne]ta talvez. E",155994
+600,"[(204892, 1), (204895, 2), (204897, 0), (204897, 1), (204897, 4)]",204892,5,ta,"[204892, 204895, 204897, 204897, 204897]"," uma menina, ne[ta],
+ bisne[ta], [ta][ta]rane[ta] talvez. E",155994
+601,"[(204910, 0), (204913, 0), (204913, 2)]",204910,3,a,"[204910, 204913, 204913]"," face esquerda fora [ar]rancada,
+ [ha]vi[a] tempos, por",156007
+602,"[(205378, 1), (205379, 0), (205380, 1)]",205378,3,a,"[205378, 205379, 205380]", que viera perdendo di[a] [a] di[a] o caráter militar,156363
+603,"[(205786, 0), (205787, 0), (205787, 3)]",205786,3,a,"[205786, 205787, 205787]", salteava- os [a] [a]toni[a] do assombro.,156677
+604,"[(205955, 3), (205955, 5), (205956, 0)]",205955,3,a,"[205955, 205955, 205956]"," Ademais, não desafi[a]ri[a] [a] incredulidade do futuro",156797
+605,"[(206189, 1), (206191, 1), (206192, 3)]",206189,3,tu,"[206189, 206191, 206192]"," mãos cruzadas ao pei[to], ros[to] tumefa[to], e esquálido",156980
+606,"[(206502, 3), (206503, 0), (206504, 2)]",206502,3,si,"[206502, 206503, 206504]"," falsidades que acaso encerras[se] [se] exer[ci]tassem perfeitamente
+ desafogados",157199
+607,"[(206856, 0), (206857, 0), (206858, 0)]",206856,3,a,"[206856, 206857, 206858]", limito- me [a] [a]pontar [a] página 168 da,157451
+608,"[(206896, 0), (206897, 0), (206898, 0)]",206896,3,a,"[206896, 206897, 206898]"," roches les plus [a]ttaquables [a]ux [a]cides, comme les",157486
+609,"[(207739, 0), (207740, 0), (207741, 0)]",207739,3,a,"[207739, 207740, 207741]"," natural que, [ad]mitida [a] [ar]rojada e animadora conjetura",158119
+610,"[(207847, 0), (207848, 0), (207849, 0), (207850, 1)]",207847,4,a,"[207847, 207848, 207849, 207850]","
+ chão; [a]diante [a] [a]rena fri[á]vel do quartzo triturado",158204
+611,"[(208357, 2), (208357, 5), (208358, 1)]",208357,3,tSi,"[208357, 208357, 208358]","
+ qual corpos iden[ti]camen[te] cons[ti]tuídos, com os",158598
+612,"[(208498, 1), (208499, 0), (208500, 0)]",208498,3,a,"[208498, 208499, 208500]",— A própria ca[a]tinga [a]li [as]sume aspecto novo.,158712
+613,"[(208855, 0), (208857, 0), (208859, 0)]",208855,3,es,"[208855, 208857, 208859]"," os.
+ [es]botenar— [es]boicelar, [es]borcinar( Novo Dicionário",158970
+614,"[(208867, 0), (208868, 1), (208870, 0)]",208867,3,dZi,"[208867, 208868, 208870]"," Língua Portuguesa, [de] cân[di]do
+ [de] Figueiredo.)",158978
+615,"[(208942, 0), (208943, 2), (208947, 4)]",208942,3,du,"[208942, 208943, 208947]"," quebram o bichinho [do] ouvi[do]..
+ inusita[do]— Também se",159025

@@ -1,0 +1,326 @@
+,pares_ordenados,primeira_palavra,comprimento,fonema,palavras,frase,abs_posicao
+0,"[(222, 0), (223, 0), (224, 0), (225, 0)]",222,4,a,"[222, 223, 224, 225]"," zanguei. Contei [a] [a]nedota [a]os [a]migos da cidade,",169
+1,"[(437, 0), (440, 1), (442, 0), (446, 0)]",437,4,a,"[437, 440, 442, 446]"," poderá cuidar que [a] obra é su[a]. [há]
+ livros que [a]penas terão isso dos",336
+2,"[(1289, 0), (1292, 2), (1295, 0), (1296, 0), (1299, 0)]",1289,5,a,"[1289, 1292, 1295, 1296, 1299]","
+ Fiquei tão [a]legre com esta idéi[a], que [a]inda [a]gora me treme [a] pena na mão",1004
+3,"[(1435, 0), (1439, 0), (1443, 0), (1445, 1)]",1435,4,a,"[1435, 1439, 1443, 1445]"," escondi- me [a]trás da porta. [a] casa
+ era [a] da ru[a] de Mata-",1117
+4,"[(1521, 1), (1524, 0), (1524, 4), (1529, 0), (1529, 4), (1534, 1), (1535, 0), (1535, 4)]",1521,8,dZi,"[1521, 1524, 1524, 1529, 1529, 1534, 1535, 1535]"," e já agora po[de] haver uma [di]ficulda[de].
+- Que [di]ficulda[de]?
+- Uma gran[de] [di]ficulda[de].
+ Minha",1187
+5,"[(3317, 0), (3319, 2), (3322, 0), (3326, 2), (3329, 0)]",3317,5,a,"[3317, 3319, 3322, 3326, 3329]"," lá; tinha [a]migos em lisbo[a], mas [a] nossa família, dizi[a] ele, [a]baixo de Deus,",2531
+6,"[(4369, 1), (4370, 0), (4371, 0), (4372, 2)]",4369,4,du,"[4369, 4370, 4371, 4372]"," dela, ao la[do] [do] [do] mari[do], tais quais",3351
+7,"[(4761, 0), (4764, 1), (4765, 0), (4769, 1)]",4761,4,dZi,"[4761, 4764, 4765, 4769]"," Mas é tempo [de] tornar àquela tar[de] [de] novembro, uma tar[de] clara e fresca",3669
+8,"[(4962, 2), (4963, 0), (4966, 0), (4970, 2), (4971, 0)]",4962,5,a,"[4962, 4963, 4966, 4970, 4971]",", e ele saí[a] [a] bradar contra [a] iniqüidade.
+ trazi[a] [a]inda os bigodes dos",3831
+9,"[(5384, 0), (5386, 0), (5391, 0), (5394, 0), (5399, 0)]",5384,5,a,"[5384, 5386, 5391, 5394, 5399]","- lhe. [a]qui tendes [a] partitura, escutai- [a] emendai- [a],
+ fazei- [a] executar, e",4158
+10,"[(5432, 1), (5444, 1), (5446, 1), (5451, 2)]",5432,4,da,"[5432, 5444, 5446, 5451]"," não quero ouvir na[da].
+- Mas, Senhor...
+- na[da]! na[da]!
+ Satanás suplicou ain[da], sem melhor",4190
+11,"[(6162, 0), (6163, 0), (6164, 3), (6168, 3)]",6162,4,a,"[6162, 6163, 6164, 6168]","
+ CAPÍTULO X [a]ceito [a] teori[a]
+ Que é demasi[a]da metafísica para um",4757
+12,"[(6204, 0), (6206, 0), (6207, 0), (6208, 3)]",6204,4,a,"[6204, 6206, 6207, 6208]"," Eu, leitor [a]migo, [a]ceito [a] teori[a] do meu velho",4789
+13,"[(7498, 0), (7500, 0), (7502, 0), (7504, 3)]",7498,4,a,"[7498, 7500, 7502, 7504]"," ela não eram [as]sim, [a]penas reproduziam [a] nossa famili[a]ridade, e muita",5801
+14,"[(8091, 2), (8095, 1), (8098, 1), (8100, 0)]",8091,4,du,"[8091, 8095, 8098, 8100]",", fazíamos visita baten[do] de um
+ la[do], e sen[do] recebidos [do] outro cor,",6265
+15,"[(9724, 0), (9728, 1), (9729, 0), (9732, 0)]",9724,4,a,"[9724, 9728, 9729, 9732]"," gaturamo? Está [a]li no fundo. i[a] [a]gora mesmo buscar [a]
+ gaiola;",7495
+16,"[(9807, 0), (9808, 0), (9808, 2), (9811, 0), (9811, 2)]",9807,5,a,"[9807, 9808, 9808, 9811, 9811]"," e tamanho. [a] [á]re[a] que
+ [ha]vi[a] no centro da",7560
+17,"[(10020, 1), (10023, 0), (10024, 1), (10026, 0)]",10020,4,a,"[10020, 10023, 10024, 10026]",", forte, chei[a], como [a] ti[a], [a] mesma cabeça,",7725
+18,"[(10098, 1), (10100, 0), (10102, 0), (10104, 0), (10109, 0), (10110, 0)]",10098,6,a,"[10098, 10100, 10102, 10104, 10109, 10110]", valeu; um di[a] chegou [a] salvar [a] vida [a]o Pádua. Escutai; [a] [a]nedota é curta.,7788
+19,"[(10688, 1), (10690, 0), (10694, 0), (10697, 0), (10698, 0), (10698, 3)]",10688,6,a,"[10688, 10690, 10694, 10697, 10698, 10698]"," dar notícias da ru[a]. [a] serenidade regressou; [a]trás dela veio [a] [a]legri[a], um domingo",8233
+20,"[(11463, 2), (11464, 0), (11465, 0), (11465, 2)]",11463,4,a,"[11463, 11464, 11465, 11465]", despeito que lhe trazi[a] [a] [a]me[a]ça da separação;,8819
+21,"[(11595, 0), (11602, 0), (11605, 2), (11610, 3), (11614, 3)]",11595,5,a,"[11595, 11602, 11605, 11610, 11614]"," dentes, abanava [a] cabeça... Eu, [as]sustado, não sabi[a] que
+ fizesse, repeti[a] os juramentos, prometi[a] ir naquela mesma",8924
+22,"[(11897, 0), (11900, 0), (11902, 0), (11904, 0)]",11897,4,a,"[11897, 11900, 11902, 11904]",", não me [a]cho ridículo; [a]
+ [a]dolescência e [a] infância não são",9135
+23,"[(12959, 0), (12963, 1), (12967, 1), (12968, 0)]",12959,4,dZi,"[12959, 12963, 12967, 12968]"," façam que lhe [di]go. Dona Glória po[de] ser
+ que mu[de] [de] resolução; se",9935
+24,"[(13753, 0), (13754, 2), (13756, 0), (13756, 3)]",13753,4,a,"[13753, 13754, 13756, 13756]"," berço e não [a] senti[a]
+ [a]tenu[a]da pela vida!",10551
+25,"[(15074, 0), (15078, 0), (15082, 0), (15086, 0)]",15074,4,mi,"[15074, 15078, 15082, 15086]"," pareciam apalpar- [me], ouvir- [me], cheirar- [me], gostar- [me], fazer o",11556
+26,"[(15768, 0), (15772, 0), (15774, 0), (15776, 0)]",15768,4,e,"[15768, 15772, 15774, 15776]"," valor deste outro [e]logio, gostava do [e]logio; [e]ra um [e]logio.
+ CAPÍTULO",12087
+27,"[(17107, 2), (17111, 2), (17114, 0), (17116, 6)]",17107,4,a,"[17107, 17111, 17114, 17116]"," reflexo de uma idéi[a],- uma idéi[a] que o [a]legrou
+ extraordinari[a]mente. Calou se",13090
+28,"[(17201, 0), (17206, 0), (17210, 0), (17214, 0)]",17201,4,a,"[17201, 17206, 17210, 17214]",". Pode ir [a] S. Paulo, [a] Pernambuco, ou [a]inda mais longe. [há] boas universidades por",13157
+29,"[(17393, 0), (17396, 0), (17399, 0), (17402, 0)]",17393,4,u,"[17393, 17396, 17399, 17402]"," a terra e [o] céu, [o] passado, [o] presente e [o]
+ futuro.",13300
+30,"[(18013, 0), (18017, 2), (18019, 2), (18022, 0), (18023, 2)]",18013,5,a,"[18013, 18017, 18019, 18022, 18023]",". Quando tornei [a]o meu lugar, trazi[a] uma idéi[a] fantástica, [a] idéi[a] de ir ter",13767
+31,"[(18132, 0), (18136, 0), (18140, 0), (18144, 0)]",18132,4,pa,"[18132, 18136, 18140, 18144]"," as janelas
+ [pa]ra vê- lo [pas]sar, mas não [pas]sava, o coche [pa]rava à nossa porta",13859
+32,"[(18274, 0), (18276, 3), (18281, 1), (18285, 1)]",18274,4,dZi,"[18274, 18276, 18281, 18285]"," é do agrado [de] Vossa majesta[de]..
+- man[de] ensinar- lhe me[di]cina; é uma",13965
+33,"[(18440, 0), (18442, 0), (18446, 2), (18448, 0)]",18440,4,a,"[18440, 18442, 18446, 18448]"," dava outra vez [a] mão [a] beijar, e saí[a], [a]companhado de todos nós",14083
+34,"[(18484, 0), (18487, 0), (18489, 0), (18492, 0)]",18484,4,a,"[18484, 18487, 18489, 18492]"," um gesto de [a]deus, dizendo [a]inda: [a] medicina, [a] nossa Escola.",14117
+35,"[(18712, 0), (18713, 2), (18715, 1), (18717, 0)]",18712,4,a,"[18712, 18713, 18715, 18717]", das passagens puxou [a] correi[a] que i[a] ter [a]o braço do cocheiro,14295
+36,"[(19446, 0), (19447, 0), (19452, 0), (19456, 0)]",19446,4,a,"[19446, 19447, 19452, 19456]"," tempo, nem [a]o [a]gregado, que, paralelamente [a] mim, erguia [a]
+ cabeça com",14862
+37,"[(19825, 3), (19826, 0), (19828, 3), (19831, 0), (19834, 0)]",19825,5,a,"[19825, 19826, 19828, 19831, 19834]",", como já conheci[a] [a]
+ distanci[a], e [a]gora voltávamos para [a] igreja, o",15154
+38,"[(19990, 0), (19992, 0), (19993, 0), (19993, 2)]",19990,4,a,"[19990, 19992, 19993, 19993]", vez de ficar [a]batida com [a] [a]me[a]ça da larga separação,15285
+39,"[(20063, 0), (20067, 0), (20070, 0), (20074, 0)]",20063,4,ki,"[20063, 20067, 20070, 20074]"," dia; prometeu [que] ia ver; [que] falaria logo [que] pudesse, e [que] me pegasse com",15340
+40,"[(20097, 0), (20098, 0), (20103, 0), (20107, 2)]",20097,4,a,"[20097, 20098, 20103, 20107]"," do gesto e [a]té [a] pirueta,
+ que [a]penas lhe contara. pedi[a] o som das",15369
+41,"[(20164, 2), (20166, 2), (20168, 1), (20172, 2)]",20164,4,tu,"[20164, 20166, 20168, 20172]"," nenhuma.
+ capi[tu] era capi[tu], is[to] é, uma cria[tu]ra mui particular,",15422
+42,"[(20525, 0), (20529, 0), (20530, 3), (20532, 0), (20533, 0)]",20525,5,a,"[20525, 20529, 20530, 20532, 20533]"," descontai- me [a]
+ idade e [a] simpati[a]. [a]inda [as]sim, estou que",15705
+43,"[(21072, 0), (21075, 0), (21079, 0), (21081, 0)]",21072,4,a,"[21072, 21075, 21079, 21081]"," alguns dias do [a]juste com o [a]gregado, fui ver [a] minha [a]miga; eram dez",16127
+44,"[(22371, 0), (22374, 0), (22375, 0), (22378, 0), (22379, 0), (22381, 0)]",22371,6,a,"[22371, 22374, 22375, 22378, 22379, 22381]"," laço, retoquei [a] obra, [a]largando [a]qui,
+ [a]chatando [a]li, [a]té que exclamei:",17107
+45,"[(22894, 1), (22897, 2), (22899, 3), (22901, 2)]",22894,4,du,"[22894, 22897, 22899, 22901]","
+ desconfiou. ven[do]- me cala[do], enfia[do], cosi[do] à parede,",17490
+46,"[(23827, 1), (23829, 0), (23833, 0), (23834, 0)]",23827,4,a,"[23827, 23829, 23833, 23834]"," vez que ele so[a]va i [a]os nossos ouvidos, [a]costumados [a] cônegos,
+",18207
+47,"[(24312, 0), (24316, 0), (24319, 0), (24322, 0)]",24312,4,a,"[24312, 24316, 24319, 24322]"," homem. Era [a] primeira palavra, [a] semente lançada [à] terra, [as]sim de passagem,",18556
+48,"[(25366, 0), (25368, 0), (25372, 0), (25373, 0), (25374, 0), (25376, 0), (25379, 0), (25384, 0)]",25366,8,a,"[25366, 25368, 25372, 25373, 25374, 25376, 25379, 25384]"," obrigá- la [a] vir [a]trás delas, mas [a]inda [a]gora [a]
+ [a]ção não respondeu [à] intenção. Contudo, [a]chei- me forte",19370
+49,"[(25404, 0), (25406, 0), (25409, 3), (25410, 0)]",25404,4,a,"[25404, 25406, 25409, 25410]", que me ensinassem [a]nedotas de [a]mor. Não conheci[a] [a] violação de Lucrécia,19399
+50,"[(25664, 3), (25665, 0), (25667, 0), (25667, 6)]",25664,4,a,"[25664, 25665, 25667, 25667]",", que me resisti[a] [a]gora, [a]proveitari[a] o gesto para",19609
+51,"[(25710, 0), (25713, 1), (25718, 0), (25721, 0), (25724, 0), (25727, 0), (25730, 0)]",25710,7,a,"[25710, 25713, 25718, 25721, 25724, 25727, 25730]"," de dentro; [a] alma é chei[a] de mistérios.
+ [a]gora sei que [a] puxava; [a] cabeça continuou [a] recuar; [a]té que cansou;",19647
+52,"[(25972, 0), (25974, 0), (25979, 0), (25982, 1)]",25972,4,a,"[25972, 25974, 25979, 25982]"," o que estava [a] recusar [à] força. Repito, [a] alma é chei[a] de
+
+",19855
+53,"[(26352, 2), (26354, 3), (26361, 2), (26363, 1)]",26352,4,tu,"[26352, 26354, 26361, 26363]"," as palavras de capi[tu] com infini[to] prazer.
+- Obrigado, capi[tu], mui[to] obrigado; estimo",20149
+54,"[(28103, 0), (28106, 0), (28110, 0), (28110, 4)]",28103,4,a,"[28103, 28106, 28110, 28110]"," eu me acostumaria [a]os companheiros e [a]os mestres, e [a]cabari[a] gostando de viver",21442
+55,"[(29042, 0), (29044, 1), (29048, 0), (29051, 0)]",29042,4,dZi,"[29042, 29044, 29048, 29051]","
+ primeira filha [de] um mé[di]co, a segunda [de] um comerciante [de] objetos americanos.",22169
+56,"[(29229, 0), (29232, 2), (29236, 0), (29241, 2), (29244, 0), (29247, 0)]",29229,6,a,"[29229, 29232, 29236, 29241, 29244, 29247]",". Que faríamos [a]gora? Capitu ouvi[a]- me com [a]tenção sôfrega,
+ depois sombri[a]; quando [a]cabei, respirava [a] custo, como",22313
+57,"[(29604, 0), (29610, 0), (29613, 0), (29617, 0), (29620, 0), (29623, 0)]",29604,6,dZi,"[29604, 29610, 29613, 29617, 29620, 29623]","
+- Medo [de] quê?
+- Medo [de] apanhar, [de] ser preso, [de] brigar, [de] andar, [de] trabalhar..",22595
+58,"[(30479, 0), (30483, 0), (30487, 0), (30489, 0)]",30479,4,a,"[30479, 30483, 30487, 30489]"," tão estranho tudo [a]quilo, que não [a]chei resposta. Não [a]tinava com [a] razão do escrito",23218
+59,"[(31176, 0), (31179, 0), (31180, 0), (31182, 0)]",31176,4,a,"[31176, 31179, 31180, 31182]"," eu lhe dar [a] penitência e [a] [a]bsolvição. [a]
+ segunda é",23742
+60,"[(31506, 0), (31508, 0), (31510, 0), (31513, 0), (31514, 0), (31518, 3)]",31506,6,a,"[31506, 31508, 31510, 31513, 31514, 31518]",", portanto, [a] separação [a]bsoluta, [a] perda, [a] [a]niquilação, tudo isso produzi[a]
+ um tal",23987
+61,"[(32841, 0), (32841, 2), (32843, 0), (32846, 0)]",32841,4,a,"[32841, 32841, 32843, 32846]", do céu. [ha]ví[a]mos de [a]cender uma vela [a]os sábados..,25003
+62,"[(34766, 5), (34768, 0), (34768, 4), (34771, 4)]",34766,4,a,"[34766, 34768, 34768, 34771]"," na terapêutica. fisiologi[a], [a]natomi[a],
+ patologi[a], não são",26467
+63,"[(35159, 0), (35161, 4), (35162, 0), (35165, 0)]",35159,4,dZi,"[35159, 35161, 35162, 35165]", me em prosa [de] uma infinida[de] [de] cousas do [di]a. a vida,26759
+64,"[(36184, 0), (36185, 2), (36186, 2), (36189, 0)]",36184,4,a,"[36184, 36185, 36186, 36189]","
+ exclamação; [a] idéi[a] viri[a] depois. [as]sim na cama,",27521
+65,"[(36217, 1), (36221, 1), (36224, 0), (36228, 2)]",36217,4,a,"[36217, 36221, 36224, 36228]"," primeiro filho. i[a] ser poeta, i[a] competir com [a]quele monge da
+ bahi[a] pouco antes revelado",27547
+66,"[(36315, 2), (36317, 0), (36320, 0), (36321, 3), (36323, 0)]",36315,5,a,"[36315, 36317, 36320, 36321, 36323]"," naturalmente; mas podi[a] ser [a] virtude, [a] poesi[a], [a] religião, qualquer",27618
+67,"[(36610, 0), (36611, 2), (36612, 0), (36614, 0)]",36610,4,a,"[36610, 36611, 36612, 36614]"," doze centrais. [a] idéi[a] [a]gora, [à] vista do último",27849
+68,"[(36648, 1), (36649, 0), (36650, 0), (36654, 0)]",36648,4,a,"[36648, 36649, 36650, 36654]","- se- i[a] [a]caso [a] vida, mas [a] batalha
+ ficava",27877
+69,"[(36723, 0), (36725, 0), (36729, 0), (36730, 0), (36733, 2), (36735, 0)]",36723,6,a,"[36723, 36725, 36729, 36730, 36733, 36735]","
+ outra. [a]chei melhor [a] justiça, mas [a]final [a]ceitei definitivamente uma idéi[a] nova [a] caridade, e",27937
+70,"[(37040, 0), (37041, 2), (37044, 1), (37046, 1)]",37040,4,si,"[37040, 37041, 37044, 37046]"," tinha janela; [se] tives[se], é pos[sí]vel que fos[se] pedir uma idéia",28180
+71,"[(37450, 0), (37453, 0), (37454, 0), (37455, 0), (37459, 2)]",37450,5,a,"[37450, 37453, 37454, 37455, 37459]"," página, e [a] mão, [a]costumada [a] [a]judá- los, fazi[a] o
+ seu",28502
+72,"[(37493, 0), (37497, 0), (37501, 0), (37505, 0)]",37493,4,ko~,"[37493, 37497, 37501, 37505]"," pouco fugitivos, [co]mo as mãos, [co]mo os pés, [co]mo a fala, [co]mo tudo. Quem",28531
+73,"[(37493, 1), (37497, 1), (37501, 1), (37505, 1)]",37493,4,mu,"[37493, 37497, 37501, 37505]"," pouco fugitivos, co[mo] as mãos, co[mo] os pés, co[mo] a fala, co[mo] tudo. Quem",28531
+74,"[(38559, 0), (38561, 1), (38567, 0), (38568, 3), (38570, 0)]",38559,5,a,"[38559, 38561, 38567, 38568, 38570]",", olhei para [a] outra ru[a],
+ e vi, [a] distanci[a], [a] nossa desastrada,",29363
+75,"[(38847, 0), (38850, 1), (38852, 0), (38855, 0)]",38847,4,a,"[38847, 38850, 38852, 38855]"," grossas, todas [á]geis como o di[a]bo. [a]cordei, busquei [a]fugentá- las com",29569
+76,"[(41209, 0), (41212, 1), (41218, 0), (41220, 0)]",41209,4,a,"[41209, 41212, 41218, 41220]"," depressa,
+ [a]cho que uma bo[a] tosse... Se [a] tosse [há] de vir de",31417
+77,"[(41700, 1), (41704, 0), (41706, 0), (41706, 2)]",41700,4,a,"[41700, 41704, 41706, 41706]"," uma noção sem re[a]lidade; nunca me [a]cudiu que [ha]vi[a] peraltas
+ na",31789
+78,"[(42700, 0), (42701, 2), (42704, 0), (42705, 0)]",42700,4,a,"[42700, 42701, 42704, 42705]"," de
+ escrever [a] idéi[a], não [a] [ha]vendo mais banal na",32568
+79,"[(43056, 0), (43059, 0), (43060, 3), (43061, 0)]",43056,4,da,"[43056, 43059, 43060, 43061]", são agora objeto [da] ambição e [da] rivali[da]de [da] Europa e dos,32866
+80,"[(43165, 0), (43168, 0), (43172, 1), (43174, 0)]",43165,4,a,"[43165, 43168, 43172, 43174]",", e eu [a]cabei afeiçoando me [à] vida nova. i[a] alternando [a]
+ casa e",32953
+81,"[(43976, 0), (43980, 0), (43983, 0), (43988, 0)]",43976,4,a,"[43976, 43980, 43983, 43988]"," almocei, corri [a] referir- lhe [a] conversa e [a]
+ louvar- lhe [a] astúcia. Capitu",33588
+82,"[(44511, 0), (44514, 0), (44515, 0), (44519, 1)]",44511,4,a,"[44511, 44514, 44515, 44519]",", não perdoou [à]
+ minha [a]miga [a] intervenção. Um di[a]. perguntou-",34012
+83,"[(44854, 0), (44857, 0), (44857, 4), (44858, 0), (44862, 3)]",44854,5,a,"[44854, 44857, 44857, 44858, 44862]"," vez
+ que [a] morte me [a]pareci[a] [as]sim perto, me envolvi[a], me encarava",34267
+84,"[(45255, 0), (45258, 2), (45260, 0), (45264, 2)]",45255,4,a,"[45255, 45258, 45260, 45264]"," etc. Mas [a]
+ pena trazi[a] tanto [a]mor, que não podi[a] ser pesar do",34584
+85,"[(45990, 0), (45992, 0), (45995, 0), (45998, 0)]",45990,4,a,"[45990, 45992, 45995, 45998]"," esperar, meu [a]migo; [a]o contrário, [a]code- me [a]gora que..",35154
+86,"[(46656, 0), (46661, 0), (46665, 0), (46668, 0)]",46656,4,e,"[46656, 46661, 46665, 46668]",". Havia homens [e]
+ mulheres, velhos [e] moços, sedas [e] chitas, [e] provavelmente olhos feios",35698
+87,"[(47693, 0), (47693, 3), (47695, 0), (47699, 0)]",47693,4,a,"[47693, 47693, 47695, 47699]"," moço muito
+ [a]preci[á]vel, [a]pesar... [a]pesar de quê?",36499
+88,"[(47864, 0), (47867, 0), (47871, 0), (47874, 0)]",47864,4,a,"[47864, 47867, 47871, 47874]"," Conservei- me [à] porta, [a] ver se, [a]o longe, [a]inda olharia
+ para",36630
+89,"[(47995, 1), (48000, 1), (48001, 2), (48002, 1)]",47995,4,ma,"[47995, 48000, 48001, 48002]"," a olhar para ci[ma].
+ CAPÍTULO LX u[ma] refor[ma] dra[má]tica
+ Nem eu",36729
+90,"[(48004, 0), (48007, 0), (48010, 0), (48013, 0)]",48004,4,ne~j~,"[48004, 48007, 48010, 48013]"," REFORMA DRAMÁTICA
+ [nem] eu, [nem] tu, [nem] ela, [nem] qualquer outra pessoa",36735
+91,"[(48399, 0), (48402, 0), (48405, 0), (48408, 0)]",48399,4,u,"[48399, 48402, 48405, 48408]"," voz surda: [o] pisão! [o] pisão! [o] pisão! [o]
+ público ouviu",37045
+92,"[(48511, 2), (48513, 2), (48517, 1), (48520, 1)]",48511,4,ra,"[48511, 48513, 48517, 48520]"," de verniz, figu[ra] e postu[ra] esbeltas: a ca[ra] não me e[ra] desconhecida. Tinham",37134
+93,"[(49392, 1), (49395, 2), (49397, 1), (49400, 1)]",49392,4,tu,"[49392, 49395, 49397, 49400]"," fez sair do quar[to] e
+ capi[tu] ria al[to], falava al[to], como se",37811
+94,"[(49895, 0), (49897, 0), (49899, 0), (49901, 0)]",49895,4,na~w~,"[49895, 49897, 49899, 49901]",".
+- [não]! [não]! [não]! [não] lhe peço isto",38199
+95,"[(49934, 0), (49935, 0), (49936, 0), (49936, 2)]",49934,4,a,"[49934, 49935, 49936, 49936]"," dissolvido entre nós [a]ceitei [a] [a]me[a]ça, e jurei",38228
+96,"[(51297, 1), (51301, 1), (51304, 1), (51307, 1), (51310, 2)]",51297,5,da,"[51297, 51301, 51304, 51307, 51310]"," outro digam a ver[da]de, só a ver[da]de, mas to[da] a
+ ver[da]de. Cabe ain[da] notar que esse",39270
+97,"[(51400, 1), (51402, 3), (51404, 1), (51406, 2)]",51400,4,du,"[51400, 51402, 51404, 51406]"," promessa
+ feita quan[do] fui concebi[do]. tu[do] está conta[do] oportunamente. Outorgam",39351
+98,"[(52032, 0), (52033, 2), (52036, 0), (52039, 2)]",52032,4,a,"[52032, 52033, 52036, 52039]", veio- lhe [a] persu[a]são de que [a] pequena me fari[a] feliz. Então,39850
+99,"[(52751, 1), (52752, 0), (52756, 2), (52758, 0)]",52751,4,a,"[52751, 52752, 52756, 52758]",", que se i[a] [a]gravando. Como ele queri[a] muito [à] filha, pensava",40427
+100,"[(53460, 0), (53462, 0), (53465, 0), (53466, 1), (53469, 0)]",53460,5,a,"[53460, 53462, 53465, 53466, 53469]"," arvorecer era mais [a]pressado, [a]gora que eu [a] vi[a] de dias [a] dias; de",40972
+101,"[(53467, 0), (53468, 0), (53470, 0), (53472, 0)]",53467,4,dZi,"[53467, 53468, 53470, 53472]", eu a via [de] [di]as a [di]as; [de] cada vez que,40978
+102,"[(53510, 2), (53514, 1), (53515, 1), (53518, 0)]",53510,4,dZi,"[53510, 53514, 53515, 53518]"," se para a pare[de] da sala, on[de] pen[di]a um retrato [de] moça, perguntou",41012
+103,"[(53695, 0), (53698, 1), (53701, 0), (53705, 0), (53706, 0), (53706, 3)]",53695,6,a,"[53695, 53698, 53701, 53705, 53706, 53706]"," pus- me [a] andar. i[a] satisfeito com [a] visita, com [a] [a]legri[a] de Capitu,",41160
+104,"[(53841, 0), (53845, 0), (53846, 1), (53848, 0)]",53841,4,a,"[53841, 53845, 53846, 53848]"," enterra- se [a]manhã. Mandei recado [a] su[a] mãe [a]gora mesmo, e",41273
+105,"[(54496, 0), (54499, 3), (54501, 0), (54503, 0), (54506, 0), (54507, 3)]",54496,6,a,"[54496, 54499, 54501, 54503, 54506, 54507]"," e dous, [a] cara não permiti[a] trazer [a] idade [à] vista antes [a] escondi[a] nas
+ dobras",41792
+106,"[(54829, 0), (54832, 0), (54833, 0), (54837, 0)]",54829,4,a,"[54829, 54832, 54833, 54837]"," elas dão remédio [a]o mal, [a]roma [a]o infecto, trocam [a]
+ morte pela",42043
+107,"[(55426, 0), (55429, 0), (55432, 0), (55435, 0)]",55426,4,a,"[55426, 55429, 55432, 55435]"," despesas de cocheira [a]
+ obrigaram [a] isso. [a] razão de [a] guardar inútil foi",42504
+108,"[(55490, 0), (55491, 0), (55495, 3), (55497, 0), (55499, 0), (55501, 0)]",55490,6,a,"[55490, 55491, 55495, 55497, 55499, 55501]"," ela confessava
+ [a]os [a]migos. Minha mãe exprimi[a] bem [a] fidelidade [a]os velhos [há]bitos, velhas maneiras",42557
+109,"[(55500, 0), (55503, 0), (55506, 0), (55510, 0)]",55500,4,ve,"[55500, 55503, 55506, 55510]"," a fidelidade aos [ve]lhos hábitos, [ve]lhas maneiras, [ve]lhas
+ idéias, [ve]lhas modas. Tinha",42566
+110,"[(55611, 1), (55615, 2), (55616, 0), (55620, 2)]",55611,4,a,"[55611, 55615, 55616, 55620]"," o enterro no di[a] seguinte, não iri[a] [a]o seminário, e podi[a] fazer outra
+",42652
+111,"[(55643, 2), (55646, 0), (55646, 4), (55650, 0), (55653, 3), (55655, 0), (55657, 3), (55658, 0), (55659, 1), (55663, 0)]",55643,10,a,"[55643, 55646, 55646, 55650, 55653, 55655, 55657, 55658, 55659, 55663]"," lembrança do carro podi[a] vir
+ [a]cessori[a]mente depois, mas [a] principal e imedi[a]ta foi [a]quela. voltari[a] [à] ru[a] dos Inválidos, [a]
+ pretexto de",42678
+112,"[(55695, 2), (55703, 0), (55707, 0), (55708, 0)]",55695,4,a,"[55695, 55703, 55707, 55708]"," presas, o pente[a]do...
+- Vou pedir [a] mamãe.
+ [a]bri [a] cancela. Antes",42719
+113,"[(55995, 0), (55998, 4), (56000, 4), (56001, 1)]",55995,4,dZi,"[55995, 55998, 56000, 56001]", nem nos conhecíamos [de] muito. intimida[de] que intimida[de] po[di]a haver entre a,42944
+114,"[(58775, 0), (58778, 0), (58778, 3), (58779, 0), (58780, 0)]",58775,5,a,"[58775, 58778, 58778, 58779, 58780]"," riu também. [a]
+ minha [a]legri[a] [a]cordava [a] dele, e",45102
+115,"[(58929, 2), (58931, 1), (58934, 1), (58936, 1)]",58929,4,ra,"[58929, 58931, 58934, 58936]"," sempre uma das ope[ra]ções difíceis pa[ra] mim, e[ra]
+ pa[ra] ele como nada",45227
+116,"[(59750, 0), (59752, 0), (59754, 0), (59755, 0), (59759, 0), (59762, 0)]",59750,6,a,"[59750, 59752, 59754, 59755, 59759, 59762]","
+- Fiquemos [a]inda mais [a]migos que [a]té [a]qui.
+ Escobar [a]pertou- me [a] mão às escondidas",45854
+117,"[(60033, 2), (60034, 0), (60037, 0), (60038, 0)]",60033,4,a,"[60033, 60034, 60037, 60038]"," e eu
+ irí[a]mos [a] Roma pedir [a] [a]bsolvição do papa.",46067
+118,"[(60040, 0), (60040, 1), (60046, 0), (60050, 0)]",60040,4,pa,"[60040, 60040, 60046, 60050]"," a absolvição do [pa][pa]... Que me [pa]recia?
+- [pa]rece- me bem",46074
+119,"[(60055, 2), (60057, 0), (60060, 0), (60063, 1)]",60055,4,dZi,"[60055, 60057, 60060, 60063]"," me bem, respon[di] depois [de] alguns segundos [de] reflexão. po[de] ser um bom",46081
+120,"[(60072, 0), (60073, 0), (60078, 0), (60079, 0)]",60072,4,u,"[60072, 60073, 60078, 60079]","
+- É [o] [ú]nico, Bentinho, é [o] [ú]nico! Vou já",46094
+121,"[(60239, 2), (60241, 0), (60242, 2), (60245, 3)]",60239,4,a,"[60239, 60241, 60242, 60245]"," desde já lhe dizi[a] que [a] idéi[a] não me pareci[a] má.
+",46212
+122,"[(60660, 2), (60663, 2), (60663, 3), (60667, 2)]",60660,4,tu,"[60660, 60663, 60663, 60667]"," conselho.
+ capí[tu]lo XCVI UM substi[tu][to]
+ Expus a capi[tu] a idéia de",46532
+123,"[(60767, 0), (60769, 2), (60772, 0), (60774, 0)]",60767,4,a,"[60767, 60769, 60772, 60774]","
+ Capitu não [a]chava outra idéi[a], nem [a]cabava de [a]dotar esta. De",46606
+124,"[(61375, 0), (61378, 0), (61381, 1), (61382, 3), (61387, 0)]",61375,5,a,"[61375, 61378, 61381, 61382, 61387]"," ele gravemente, [a] religião c [a] liberdade fazem bo[a] companhi[a].
+ CAPÍTULO XCVII [a] SAÍDA
+ Tudo",47043
+125,"[(61744, 0), (61748, 0), (61751, 0), (61754, 0)]",61744,4,ujs,"[61744, 61748, 61751, 61754]",".
+ Passei [os] dezoito anos, [os] dezenove, [os] vinte, [os] vinte e um",47338
+126,"[(61962, 1), (61963, 0), (61964, 0), (61966, 2)]",61962,4,dZi,"[61962, 61963, 61964, 61966]"," não esquecer a gran[de] [di]ferença [de]
+ ida[de]. Talvez ele",47517
+127,"[(62167, 0), (62168, 1), (62170, 0), (62171, 0)]",62167,4,a,"[62167, 62168, 62170, 62171]","- casou com [a] bo[a] Sancha [a] [a]miga de Capitu,",47675
+128,"[(62190, 0), (62192, 0), (62193, 1), (62196, 0)]",62190,4,a,"[62190, 62192, 62193, 62196]",",
+ chamava [a] esta [a] su[a] cunhadinha. [as]sim se formam as",47692
+129,"[(63809, 0), (63811, 0), (63813, 1), (63818, 2)]",63809,4,da,"[63809, 63811, 63813, 63818]"," e herdeiras convosco [da] graça [da]
+ vi[da]... Em segui[da], fez sinal",48901
+130,"[(64454, 0), (64456, 0), (64457, 1), (64461, 1)]",64454,4,du,"[64454, 64456, 64457, 64461]", árvores; precisava [do] resto [do] mun[do] também. E quan[do] eu me vi,49412
+131,"[(64634, 1), (64639, 0), (64640, 0), (64642, 1)]",64634,4,a,"[64634, 64639, 64640, 64642]"," deliciosas. Um di[a]. comparou- nos [a] [a]ves
+ cri[a]das em dous vãos",49551
+132,"[(64693, 1), (64695, 1), (64696, 0), (64702, 4)]",64693,4,dZi,"[64693, 64695, 64696, 64702]"," esquecendo tudo, des[de] a tar[de] [de] 1858... A felicida[de] tem
+ boa",49597
+133,"[(66790, 0), (66793, 0), (66796, 0), (66799, 3)]",66790,4,a,"[66790, 66793, 66796, 66799]",", leitor, [a] diferença que [há] de um [a] outro na distanci[a] e no tamanho",51206
+134,"[(67687, 0), (67688, 1), (67690, 1), (67691, 0)]",67687,4,a,"[67687, 67688, 67690, 67691]"," Sobre tarde descíamos [à] prai[a] ou í[a]mos [a]o Passeio Público,",51909
+135,"[(68254, 0), (68257, 1), (68261, 1), (68264, 2)]",68254,4,tu,"[68254, 68257, 68261, 68264]"," lhes não relata [tu]do e o res[to]. Vamos ao res[to].
+ capí[tu]lo CX RASGOS DA",52355
+136,"[(68290, 0), (68291, 0), (68295, 0), (68298, 0)]",68290,4,a,"[68290, 68291, 68295, 68298]"," fazem- se [a]inda [as]sim
+ completas e [a]cabadas.
+ [a]os cinco e seis",52383
+137,"[(68775, 0), (68776, 1), (68777, 0), (68780, 0)]",68775,4,dZi,"[68775, 68776, 68777, 68780]",".
+ Fazia [de] mé[di]co [de] militar, [de] ator e bailarino",52754
+138,"[(69934, 2), (69935, 0), (69939, 2), (69941, 0)]",69934,4,a,"[69934, 69935, 69939, 69941]"," um pau, iri[a] [a] pau. Capitu morri[a] por [a]quele batalhador futuro.",53643
+139,"[(71064, 1), (71066, 0), (71067, 1), (71071, 0), (71072, 1)]",71064,5,a,"[71064, 71066, 71067, 71071, 71072]","
+ querendo um di[a] relembrar [a] to[a]da, vi que [a] i[a] perdendo inteiramente;",54501
+140,"[(71948, 0), (71948, 2), (71949, 0), (71950, 0)]",71948,4,a,"[71948, 71948, 71949, 71950]",; nós o [ha]ví[a]mos [a]costumado [a] ver o ósculo,55182
+141,"[(71954, 0), (71955, 2), (71957, 0), (71958, 2)]",71954,4,da,"[71954, 71955, 71957, 71958]"," ver o ósculo [da] chega[da] e [da] saí[da].
+ e",55188
+142,"[(71993, 0), (71993, 2), (71998, 2), (71999, 0)]",71993,4,a,"[71993, 71993, 71998, 71999]"," espantado. Não [ha]vi[a] nada, nem
+ podi[a] [ha]ver cousa nenhuma,",55219
+143,"[(72173, 1), (72176, 0), (72179, 0), (72183, 0)]",72173,4,a,"[72173, 72176, 72179, 72183]"," que andava o di[a] inteiro; [a]gora é obrigada [a] estar quieta, [a]o pé do irmão",55348
+144,"[(72744, 0), (72751, 0), (72755, 0), (72759, 0)]",72744,4,a~,"[72744, 72751, 72755, 72759]",", uma rua [an]tiga... o
+ ruas [an]tigas! ó casas [an]tigas! ó pernas [an]tigas! Todos nós",55777
+145,"[(72744, 1), (72751, 1), (72755, 1), (72759, 1)]",72744,4,tSi,"[72744, 72751, 72755, 72759]",", uma rua an[ti]ga... o
+ ruas an[ti]gas! ó casas an[ti]gas! ó pernas an[ti]gas! Todos nós",55777
+146,"[(73277, 1), (73279, 0), (73283, 1), (73284, 0), (73287, 0)]",73277,5,ka,"[73277, 73279, 73283, 73284, 73287]",", e podiam a[ca]bar
+ [ca]sados, mas não a[ca]baram [ca]sados.
+ [ca]pítulo CXVIII A MÃO",56212
+147,"[(73323, 0), (73327, 0), (73330, 0), (73331, 2)]",73323,4,a,"[73323, 73327, 73330, 73331]"," segunda parte não [a]cha crentes fáceis, [a]o contrário, [a] idéi[a] de que um",56248
+148,"[(74289, 0), (74290, 0), (74295, 0), (74296, 0)]",74289,4,a,"[74289, 74290, 74295, 74296]"," que trocamos. [a]gora [a]chava- lhes isto, [a]gora [a]quilo. Os instantes",56987
+149,"[(74569, 0), (74571, 0), (74572, 0), (74574, 0)]",74569,4,a,"[74569, 74571, 74572, 74574]", mal entre um [a]migo e [a] [a]tração. [a] timidez pode ser,57210
+150,"[(75576, 0), (75580, 0), (75582, 0), (75586, 2)]",75576,4,a,"[75576, 75580, 75582, 75586]",".
+ Chegando [a] casa, deitei [a]quelas emoções [a]o papel; tal seri[a] o discurso.",57986
+151,"[(75652, 0), (75655, 2), (75656, 0), (75662, 0)]",75652,4,a,"[75652, 75655, 75656, 75662]"," mesma. Consolava [a] outra, queri[a] [ar]rancá- la
+ dali. [a] confusão era geral",58044
+152,"[(75875, 0), (75879, 0), (75880, 0), (75882, 1)]",75875,4,a,"[75875, 75879, 75880, 75882]"," que nunca chegavam [à] execução: foi [a]tirar [à]
+ ru[a] caixão, defunto",58215
+153,"[(76052, 0), (76054, 0), (76054, 3), (76059, 0)]",76052,4,a,"[76052, 76054, 76054, 76059]",". Tinham jus [a]o discurso [a]nunci[a]do. Maquinalmente, meti [a] mão
+ no",58351
+154,"[(77168, 0), (77170, 0), (77174, 0), (77176, 0)]",77168,4,a,"[77168, 77170, 77174, 77176]"," fregueses, grudava [a] face [a]o instrumento, passava [a] alma [a]o
+ arco,",59226
+155,"[(77656, 0), (77656, 2), (77658, 1), (77660, 0)]",77656,4,a,"[77656, 77656, 77658, 77660]"," nem reparar se [ha]vi[a] algum cri[a]do, [a]braçou- me e",59604
+156,"[(77707, 0), (77711, 0), (77712, 0), (77713, 0), (77720, 1), (77723, 0), (77727, 0)]",77707,7,a,"[77707, 77711, 77712, 77713, 77720, 77723, 77727]"," meter o caso [à] bulha, e [as]sim [a]cabamos [a]
+
+ noite.
+ No di[a] seguinte, [ar]rependi- me de [ha]ver rasgado o discurso",59645
+157,"[(78089, 0), (78091, 0), (78096, 0), (78100, 0), (78103, 1)]",78089,5,a,"[78089, 78091, 78096, 78100, 78103]",". Se, [a]pesar do [a]viso,
+ quiser ir [a]té o fim, [a] culpa é su[a]; não respondo",59939
+158,"[(78729, 0), (78731, 0), (78731, 3), (78734, 1)]",78729,4,a,"[78729, 78731, 78731, 78734]", por isso. [a]final não [ha]veri[a] mais que mei[a] dúzia de expressões,60425
+159,"[(78788, 0), (78788, 2), (78789, 0), (78793, 0), (78794, 0)]",78788,5,a,"[78788, 78788, 78789, 78793, 78794]","
+ Capitu, [a]lhei[a] [a] ambos, fitava [a]gora [a] outra borda da",60466
+160,"[(79254, 0), (79258, 2), (79262, 0), (79267, 2)]",79254,4,a,"[79254, 79258, 79262, 79267]"," que pudesse dissimular [a]o mundo, não podi[a] fazê- lo [a] mim, que
+ vivi[a] mais perto de",60841
+161,"[(79811, 0), (79813, 2), (79816, 0), (79817, 0)]",79811,4,a,"[79811, 79813, 79816, 79817]"," vez pior. [a] mesma situ[a]ção
+ nova [a]gravou [a] minha paixão.",61270
+162,"[(79950, 0), (79954, 2), (79955, 0), (79957, 0), (79960, 2), (79965, 0), (79968, 0)]",79950,7,a,"[79950, 79954, 79955, 79957, 79960, 79965, 79968]",". Eu, [a] falar verdade, senti[a] [a]gora uma [a]versão que mal podi[a] disfarçar,
+ tanto [a] ela como [a]os outros. Não",61382
+163,"[(80152, 2), (80155, 0), (80158, 0), (80161, 0)]",80152,4,a,"[80152, 80155, 80158, 80161]", pela necessidade que senti[a] de vir [a]o ar e [à] vida. [a] vida é tão,61545
+164,"[(80395, 0), (80395, 3), (80399, 0), (80402, 0)]",80395,4,a,"[80395, 80395, 80399, 80402]"," bolso senti tamanha [a]legri[a] como
+ se [a]cabasse de tirar [a] sorte grande,",61738
+165,"[(80544, 2), (80545, 0), (80547, 0), (80551, 0)]",80544,4,a,"[80544, 80545, 80547, 80551]","
+ nunca; sabi[a] [a]penas o [as]sunto, e estimei [a] coincidência. Vi",61854
+166,"[(80922, 0), (80926, 0), (80930, 0), (80934, 0)]",80922,4,pri~,"[80922, 80926, 80930, 80934]"," e os
+ [pri]meiros varredores, as [pri]meiras carroças, os [pri]meiros ruídos, os [pri]meiros albores, um",62159
+167,"[(80922, 1), (80926, 1), (80930, 1), (80934, 1)]",80922,4,mej,"[80922, 80926, 80930, 80934]"," e os
+ pri[mei]ros varredores, as pri[mei]ras carroças, os pri[mei]ros ruídos, os pri[mei]ros albores, um",62159
+168,"[(81475, 2), (81476, 0), (81481, 0), (81482, 0), (81484, 0), (81487, 0)]",81475,6,a,"[81475, 81476, 81481, 81482, 81484, 81487]"," papel em que trazi[a] [a]
+ droga embrulhada. [a]inda [as]sim tive [a]nimo de despejar [a] substancia na xícara",62604
+169,"[(82357, 2), (82361, 0), (82365, 0), (82366, 0)]",82357,4,a,"[82357, 82361, 82365, 82366]"," e eu não queri[a] duvidar dela. [as]sim que, sem [a]tender [à] linguagem de Capitu",63270
+170,"[(82371, 0), (82376, 0), (82379, 0), (82382, 0)]",82371,4,a,"[82371, 82376, 82379, 82382]"," de Capitu, [a]os seus
+ gestos, [à] dor que [a] retorcia, [a] cousa nenhuma,",63281
+171,"[(83655, 3), (83657, 0), (83661, 0), (83664, 0)]",83655,4,a,"[83655, 83657, 83661, 83664]",", ficou de companhi[a]
+ [a] Capitu, ensinando [a] língua materna [a] Ezequiel, que",64266
+172,"[(83676, 0), (83679, 0), (83683, 0), (83687, 0)]",83676,4,a,"[83676, 83679, 83683, 83687]"," do país. [as]sim
+ regulada [a] vida, tornei [a]o Brasil.
+ [a]o cabo de alguns",64283
+173,"[(84393, 1), (84394, 0), (84397, 0), (84401, 0), (84405, 0)]",84393,5,u,"[84393, 84394, 84397, 84401, 84405]"," até que
+ vei[o] [o] último, [o] melhor deles, [o] mais doce, [o] que lhe fez",64792
+174,"[(84811, 0), (84814, 0), (84817, 0), (84821, 0)]",84811,4,dZi,"[84811, 84814, 84817, 84821]"," mais por efeito [de] comparação e [de] reflexão que [de] sentimento. Já [dis]se isto
+ mesmo",65114
+175,"[(84860, 0), (84862, 2), (84865, 0), (84869, 0), (84871, 0), (84875, 0)]",84860,6,a,"[84860, 84862, 84865, 84869, 84871, 84875]"," la nesta. [a] pergunta devi[a] ser feita [a] princípio, mas [a]qui vai [a]
+ resposta. [a] razão é que",65152
+176,"[(84989, 0), (84992, 0), (84995, 0), (84998, 0)]",84989,4,a,"[84989, 84992, 84995, 84998]",", e não [a]chei nenhum. [a]o contrário, [a] ramagem começou [a] sussurrar alguma cousa",65256
+177,"[(85121, 0), (85124, 2), (85127, 0), (85128, 2), (85130, 0), (85133, 0), (85134, 1)]",85121,7,a,"[85121, 85124, 85127, 85128, 85130, 85133, 85134]",":
+ EZEQUIEL [a]. DE santi[a]go
+- [a] pesso[a] está [a]í? perguntei [a]o cri[a]do.
+-",65359
+178,"[(85730, 0), (85734, 2), (85736, 0), (85740, 0)]",85730,4,a,"[85730, 85734, 85736, 85740]",", e continuou [a] comer. Escobar comi[a]
+ [as]sim também, com [a] cara metida no",65813
+179,"[(86097, 0), (86097, 3), (86099, 0), (86100, 0), (86100, 4)]",86097,5,a,"[86097, 86097, 86099, 86100, 86100]", e era todo [a]legri[a]. [as]sim [a]conteci[a] sempre que voltava,66099
+180,"[(86162, 1), (86163, 0), (86166, 0), (86170, 0), (86173, 1)]",86162,5,a,"[86162, 86163, 86166, 86170, 86173]"," me em uma vi[a]gem [à] Grécia, [a]o Egito, e [à] Palestina, vi[a]gem
+ científica,",66150
+181,"[(86689, 0), (86690, 0), (86694, 0), (86695, 0)]",86689,4,a,"[86689, 86690, 86694, 86695]","- Levo; [a]té [a]manhã.
+- [a]té [a]manhã.
+ Não",66565
+182,"[(86704, 0), (86709, 1), (86710, 0), (86711, 0)]",86704,4,a,"[86704, 86709, 86710, 86711]",". Eu ficava [à] porta, esperando, i[a] [a]té [à] esquina, espiava",66574
